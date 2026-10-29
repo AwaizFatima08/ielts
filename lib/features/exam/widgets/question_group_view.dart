@@ -56,7 +56,10 @@ class _GroupHeading extends StatelessWidget {
   Widget build(BuildContext context) {
     final textTheme = Theme.of(context).textTheme;
     final limit = switch (group) {
-      GapGroup(:final limit?) => limit,
+      // Papers usually repeat the limit in the instructions already.
+      GapGroup(:final limit?)
+          when !group.instructions.toUpperCase().contains(limit.toUpperCase()) =>
+        limit,
       _ => null,
     };
     return Padding(

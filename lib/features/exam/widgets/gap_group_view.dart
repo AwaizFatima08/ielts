@@ -1,3 +1,5 @@
+import 'dart:math' as math;
+
 import 'package:flutter/material.dart';
 import 'package:ielts_simulator/content/models/question_group.dart';
 import 'package:ielts_simulator/features/exam/widgets/answer_field.dart';
@@ -5,6 +7,8 @@ import 'package:ielts_simulator/features/exam/widgets/choice_views.dart';
 import 'package:ielts_simulator/features/exam/widgets/question_group_view.dart';
 import 'package:ielts_simulator/features/exam/widgets/review_note.dart';
 import 'package:ielts_simulator/ui/theme.dart';
+
+const _minColumnWidth = 200.0;
 
 final _blank = RegExp(r'\{\{(\d+)\}\}');
 
@@ -159,37 +163,41 @@ class _GapTable extends StatelessWidget {
     final headerStyle = Theme.of(
       context,
     ).textTheme.labelLarge?.copyWith(fontWeight: FontWeight.bold);
-    return SingleChildScrollView(
-      scrollDirection: Axis.horizontal,
-      child: Table(
-        border: border,
-        defaultColumnWidth: const IntrinsicColumnWidth(),
-        defaultVerticalAlignment: TableCellVerticalAlignment.middle,
-        children: [
-          if (group.tableHeader.isNotEmpty)
-            TableRow(
-              children: [
-                for (final cell in group.tableHeader)
-                  Padding(
-                    padding: const EdgeInsetsDirectional.all(AppSpacing.sm),
-                    child: Text(cell, style: headerStyle),
-                  ),
-              ],
-            ),
-          for (final row in group.tableRows)
-            TableRow(
-              children: [
-                for (final cell in row)
-                  ConstrainedBox(
-                    constraints: const BoxConstraints(maxWidth: 240),
-                    child: Padding(
-                      padding: const EdgeInsetsDirectional.all(AppSpacing.sm),
-                      child: GapText(text: cell, group: group, sheet: sheet),
-                    ),
-                  ),
-              ],
-            ),
-        ],
+    final columns = group.tableHeader.isNotEmpty ? group.tableHeader.length : 2;
+    // Fill the available width, but never squeeze a column below what an
+    // answer box needs; narrow screens scroll sideways instead.
+    return LayoutBuilder(
+      builder: (context, constraints) => SingleChildScrollView(
+        scrollDirection: Axis.horizontal,
+        child: SizedBox(
+          width: math.max(constraints.maxWidth, columns * _minColumnWidth),
+          child: Table(
+            border: border,
+            defaultVerticalAlignment: TableCellVerticalAlignment.middle,
+            children: [
+              if (group.tableHeader.isNotEmpty)
+                TableRow(
+                  children: [
+                    for (final cell in group.tableHeader)
+                      Padding(
+                        padding: const EdgeInsetsDirectional.all(AppSpacing.sm),
+                        child: Text(cell, style: headerStyle),
+                      ),
+                  ],
+                ),
+              for (final row in group.tableRows)
+                TableRow(
+                  children: [
+                    for (final cell in row)
+                      Padding(
+                        padding: const EdgeInsetsDirectional.all(AppSpacing.sm),
+                        child: GapText(text: cell, group: group, sheet: sheet),
+                      ),
+                  ],
+                ),
+            ],
+          ),
+        ),
       ),
     );
   }

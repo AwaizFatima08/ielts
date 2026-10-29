@@ -74,7 +74,7 @@ class _WritingView extends ConsumerWidget {
                 minWords: task.minWords,
                 onChanged: (text) => notifier.edit(state.taskIndex, text),
               );
-              return constraints.maxWidth >= 840
+              return constraints.maxWidth >= 700
                   ? Row(
                       children: [
                         Expanded(child: SingleChildScrollView(child: prompt)),

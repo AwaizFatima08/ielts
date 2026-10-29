@@ -74,7 +74,7 @@ class _ReadingView extends ConsumerWidget {
             ],
           ),
           body: LayoutBuilder(
-            builder: (context, constraints) => constraints.maxWidth >= 840
+            builder: (context, constraints) => constraints.maxWidth >= 700
                 ? Row(
                     children: [
                       Expanded(child: text),
