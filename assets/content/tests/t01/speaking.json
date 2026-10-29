@@ -1,0 +1,108 @@
+{
+  "id": "t01",
+  "section": "speaking",
+  "part1": [
+    {
+      "topic": "Your home",
+      "questions": [
+        "Do you live in a house or a flat?",
+        "What is your favourite room in your home? Why?",
+        "Is there anything you would like to change about your home?",
+        "Do you think you will live in the same place in five years' time?"
+      ]
+    },
+    {
+      "topic": "Cooking",
+      "questions": [
+        "How often do you cook for yourself?",
+        "Who taught you to cook?",
+        "What kind of food do you most enjoy making?",
+        "Do you prefer eating at home or eating out?"
+      ]
+    },
+    {
+      "topic": "Mornings",
+      "questions": [
+        "Are you a morning person?",
+        "What do you usually do in the first hour after you wake up?",
+        "Has your morning routine changed since you were a child?",
+        "What would your ideal morning be like?"
+      ]
+    }
+  ],
+  "part2": {
+    "cueCard": "Describe a useful practical skill that you learned from someone older than you.",
+    "bullets": [
+      "what the skill is",
+      "who taught it to you",
+      "how you learned it"
+    ],
+    "closing": "and explain why this skill has been useful to you.",
+    "roundOff": [
+      "Do you still use this skill often?",
+      "Have you ever taught this skill to anyone else?"
+    ]
+  },
+  "part3": [
+    {
+      "topic": "Learning practical skills",
+      "questions": [
+        "What practical skills do you think every young person should learn?",
+        "Are practical skills such as cooking or repairing things taught well in schools in your country?",
+        "Is it better to learn a practical skill from a person or from online videos?",
+        "Why do you think fewer people repair things themselves nowadays?"
+      ]
+    },
+    {
+      "topic": "Older and younger generations",
+      "questions": [
+        "In what ways can older people pass on their knowledge to younger people?",
+        "What can older people learn from the younger generation?",
+        "Do you think the gap between generations is getting wider? Why or why not?",
+        "How could communities encourage people of different ages to spend more time together?"
+      ]
+    }
+  ],
+  "modelAnswers": [
+    {
+      "part": 1,
+      "question": "What is your favourite room in your home? Why?",
+      "answer": "I'd have to say the kitchen, actually. It's not particularly big, but it gets the morning sun, so it's a really pleasant place to have breakfast. And because it's where we cook and eat, it's naturally where the whole family ends up chatting in the evenings, so it feels like the heart of the house.",
+      "band": 8
+    },
+    {
+      "part": 2,
+      "question": "Describe a useful practical skill that you learned from someone older than you.",
+      "answer": "I'd like to talk about something quite ordinary, which is how to sew – not anything fancy, just basic repairs like sewing on a button, fixing a hem or mending a small tear.\n\nThe person who taught me was my grandmother. She was a tailor for most of her working life, and even after she retired she always had a basket of clothes beside her chair that she was altering for neighbours. When I was about twelve, I spent a summer holiday staying with her, and one afternoon I came back from playing football with a big rip in my favourite shorts. Instead of fixing them for me, she handed me a needle and thread and said, 'Right, you're going to do this yourself.'\n\nShe taught me very patiently, step by step. First she showed me how to thread the needle and tie a knot that wouldn't slip, and then she made me practise small, even stitches on an old pillowcase before I was allowed anywhere near the shorts. My first attempts were pretty clumsy, to be honest, but by the end of that summer I could do most simple repairs on my own.\n\nAs for why it's been useful, it has saved me a surprising amount of money and hassle over the years. When I moved away to university, I was the only person on my corridor who could replace a button, so I ended up doing repairs for half my friends. More importantly, I think it changed my attitude: instead of throwing something away the moment it's damaged, my first thought is always whether I can fix it. And of course, every time I pick up a needle, I think of my grandmother, so it's a skill that means a lot to me personally as well.",
+      "band": 8
+    },
+    {
+      "part": 3,
+      "question": "Why do you think fewer people repair things themselves nowadays?",
+      "answer": "I think there are a few reasons. The most obvious one is cost – a lot of everyday items, like kettles or cheap clothes, have become so inexpensive that it simply isn't worth the time to fix them. On top of that, many products are deliberately designed so that you can't open them easily, or the spare parts just aren't available. And then there's the skills issue: if your parents never repaired anything, you probably never learned how, so you lack the confidence to even try. That said, I've noticed that online tutorials and community repair groups are starting to reverse this trend a little, particularly among people who are concerned about waste.",
+      "band": 8
+    },
+    {
+      "part": 3,
+      "question": "In what ways can older people pass on their knowledge to younger people?",
+      "answer": "Well, traditionally it happened quite naturally within families – grandparents looked after children and taught them things like cooking, gardening or family history just through spending time together. That still happens, of course, but families are more spread out now, so I think more organised approaches are becoming important. For instance, some companies run mentoring schemes in which experienced staff are paired with new recruits, which is a very effective way of passing on knowledge that isn't written down anywhere. There are also community projects where retired people volunteer in schools, for example helping children to read. Personally, I think the most valuable thing is simply conversation – asking older people about their experiences can teach you a great deal.",
+      "band": 8
+    }
+  ],
+  "usefulLanguage": [
+    "I'd like to talk about…",
+    "The person who taught me was…",
+    "As for why it's been useful, …",
+    "To be honest, my first attempts were pretty clumsy.",
+    "It's saved me a great deal of time and hassle.",
+    "It completely changed my attitude towards…",
+    "I'd have to say… (to give a considered choice)",
+    "That's an interesting question – let me think for a moment.",
+    "There are a few reasons for this. The most obvious one is…",
+    "On top of that, … / And then there's the issue of…",
+    "That said, I've noticed that…",
+    "For instance, … / A good example of this would be…",
+    "It depends to some extent on…",
+    "Personally, I'm convinced that…"
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "id": "r-tfng",
+  "skill": "reading",
+  "title": "True / False / Not Given",
+  "guide": [
+    {
+      "h": "What it tests"
+    },
+    {
+      "p": "You read statements and decide whether the passage confirms them (TRUE), contradicts them (FALSE) or says nothing that lets you decide (NOT GIVEN). This type tests factual information. Its sister type, YES / NO / NOT GIVEN, tests the writer's opinions."
+    },
+    {
+      "h": "The key difference"
+    },
+    {
+      "bullets": [
+        "TRUE: the passage says the same thing in different words.",
+        "FALSE: the passage says the opposite, or something that cannot be true at the same time.",
+        "NOT GIVEN: the passage talks about the topic, but does not give this particular information. You cannot confirm or deny it."
+      ]
+    },
+    {
+      "example": "Passage: 'The bridge was completed in 1932 after six years of work.' Statement: 'Work on the bridge began in 1926.' → TRUE. Statement: 'The bridge was finished in 1930.' → FALSE. Statement: 'The bridge was the longest in the country.' → NOT GIVEN."
+    },
+    {
+      "h": "Step by step"
+    },
+    {
+      "bullets": [
+        "Read the statement and underline the key words, especially names, numbers and words that are easy to scan for.",
+        "Answers come in passage order, so each statement is usually just after the previous one.",
+        "Find the part of the passage that matches, then read it carefully — every word counts.",
+        "Watch qualifiers: all/some/most, always/often, only, never, increased/decreased. One word can change TRUE to FALSE.",
+        "Do not use your own knowledge. If the passage does not say it, it is NOT GIVEN, even if it is true in real life."
+      ]
+    },
+    {
+      "tip": "If you cannot find the information after a careful search, NOT GIVEN is the likely answer — but first check you have not missed a paraphrase."
+    }
+  ],
+  "drill": {
+    "script": null,
+    "passage": {
+      "title": "Bees on the rooftops",
+      "paragraphs": [
+        {
+          "label": "",
+          "text": "Over the past twenty years, beekeeping has moved from the countryside onto the rooftops of cities. In London, Paris and New York, hives now sit on hotels, office blocks and even railway stations. Supporters often present this trend as a way of saving bees, which have declined in many regions because of disease, pesticides and the loss of wild flowers."
+        },
+        {
+          "label": "",
+          "text": "However, ecologists have begun to question whether more hives in cities are actually helpful. The honeybee is only one of many bee species, and it is not the one most at risk. Most of the bees that are declining are wild, solitary species that nest in the ground or in hollow stems. A single honeybee colony may contain tens of thousands of workers, and all of them compete for the same nectar and pollen as wild bees."
+        },
+        {
+          "label": "",
+          "text": "A survey of one European capital found that the number of hives had roughly tripled within a decade, while the area of flowering parks and gardens had stayed almost the same. Researchers concluded that in the densest districts there were simply not enough flowers to feed all the colonies. Hives in these areas produced noticeably less honey per colony than those on the edge of the city."
+        },
+        {
+          "label": "",
+          "text": "None of this means that city beekeeping should be banned. Many beekeepers run courses for schools, and these have raised public interest in insects. But ecologists argue that the most effective way to help pollinators is to plant more flowers, especially native species that bloom at different times of the year, and to leave some areas of grass uncut. Several city councils have already reduced how often they mow road verges for exactly this reason."
+        },
+        {
+          "label": "",
+          "text": "Some companies have responded by sponsoring wildflower meadows instead of installing hives. Whether this approach will become common is not yet clear, but it suggests that the conversation about saving bees is becoming more careful."
+        }
+      ]
+    },
+    "groups": [
+      {
+        "type": "tfng",
+        "variant": "tfng",
+        "from": 1,
+        "to": 6,
+        "instructions": "Do the following statements agree with the information given in the reading passage? Write TRUE if the statement agrees with the information, FALSE if the statement contradicts the information, NOT GIVEN if there is no information on this.",
+        "questions": [
+          {
+            "n": 1,
+            "text": "Beehives in some cities have been placed on buildings used for transport.",
+            "answer": "TRUE"
+          },
+          {
+            "n": 2,
+            "text": "The honeybee is the bee species facing the greatest threat.",
+            "answer": "FALSE"
+          },
+          {
+            "n": 3,
+            "text": "Most of the bee species in decline live in large colonies.",
+            "answer": "FALSE"
+          },
+          {
+            "n": 4,
+            "text": "In the capital that was surveyed, the area of flowering parks and gardens fell during the decade.",
+            "answer": "FALSE"
+          },
+          {
+            "n": 5,
+            "text": "Honey from hives in the densest districts was of lower quality.",
+            "answer": "NOT GIVEN"
+          },
+          {
+            "n": 6,
+            "text": "Companies that sponsor wildflower meadows have also removed their existing hives.",
+            "answer": "NOT GIVEN"
+          }
+        ],
+        "explain": {
+          "1": "Paragraph 1: 'hives now sit on hotels, office blocks and even railway stations.' A railway station is a transport building.",
+          "2": "Paragraph 2: 'The honeybee … is not the one most at risk.'",
+          "3": "Paragraph 2: 'Most of the bees that are declining are wild, solitary species.' Solitary is the opposite of living in large colonies.",
+          "4": "Paragraph 3: 'the area of flowering parks and gardens had stayed almost the same.'",
+          "5": "Paragraph 3 says these hives 'produced noticeably less honey' — that is quantity. Nothing is said about quality.",
+          "6": "Paragraph 5 says companies sponsor meadows 'instead of installing hives'. It does not say anything about removing hives they already had."
+        }
+      }
+    ]
+  }
+}

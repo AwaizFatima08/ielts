@@ -1,0 +1,146 @@
+{
+  "id": "v-work",
+  "skill": "vocabulary",
+  "title": "Topic vocabulary: work and careers",
+  "guide": [
+    {
+      "h": "Why learn work vocabulary?"
+    },
+    {
+      "p": "Work comes up in Part 1 ('Do you work or study?'), Part 2 (a job, a goal, a busy time) and Task 2 (job satisfaction, working hours, automation, unemployment). These words let you speak about your own job and about the labour market in general."
+    },
+    {
+      "bullets": [
+        "Learn words in phrases, not alone: notice which verbs, adjectives and prepositions go with them.",
+        "Practise each word in a sentence about your own life or country — it will be easier to use in Speaking.",
+        "In Writing, choose the precise word over the impressive-sounding one. Accuracy beats complexity."
+      ]
+    },
+    {
+      "tip": "'Work' as a noun is uncountable ('I have a lot of work'); 'job' is countable ('She has two jobs')."
+    }
+  ],
+  "drill": null,
+  "vocab": [
+    {
+      "word": "employee",
+      "meaning": "a person who works for a company or organisation",
+      "example": "The firm has 300 employees."
+    },
+    {
+      "word": "employer",
+      "meaning": "a person or company that employs people",
+      "example": "Employers value good communication skills."
+    },
+    {
+      "word": "colleague",
+      "meaning": "a person you work with",
+      "example": "I usually have lunch with my colleagues."
+    },
+    {
+      "word": "workforce",
+      "meaning": "all the people who work in a company or country",
+      "example": "Women now make up half of the workforce."
+    },
+    {
+      "word": "job satisfaction",
+      "meaning": "the feeling of enjoying your job",
+      "example": "Job satisfaction matters more to me than salary."
+    },
+    {
+      "word": "work-life balance",
+      "meaning": "a healthy division of time between work and personal life",
+      "example": "Flexible hours improve work-life balance."
+    },
+    {
+      "word": "flexible working",
+      "meaning": "arrangements that let employees choose when or where they work",
+      "example": "Many parents prefer flexible working."
+    },
+    {
+      "word": "promotion",
+      "meaning": "a move to a higher position",
+      "example": "She got a promotion after two years."
+    },
+    {
+      "word": "career path",
+      "meaning": "the series of jobs a person has during their working life",
+      "example": "Teaching was not my original career path."
+    },
+    {
+      "word": "qualification",
+      "meaning": "an official record of a skill or course completed",
+      "example": "The job requires a nursing qualification."
+    },
+    {
+      "word": "internship",
+      "meaning": "a period of work, often unpaid, to gain experience",
+      "example": "He did a summer internship at a bank."
+    },
+    {
+      "word": "freelance",
+      "meaning": "working for several clients rather than one employer",
+      "example": "Many designers work freelance."
+    },
+    {
+      "word": "self-employed",
+      "meaning": "working for yourself rather than an employer",
+      "example": "Being self-employed means no fixed income."
+    },
+    {
+      "word": "unemployment",
+      "meaning": "the state of having no job; the number of people without jobs",
+      "example": "Youth unemployment remains high."
+    },
+    {
+      "word": "redundant",
+      "meaning": "no longer employed because the job is no longer needed",
+      "example": "Two hundred workers were made redundant."
+    },
+    {
+      "word": "salary",
+      "meaning": "fixed yearly pay, usually paid monthly",
+      "example": "The starting salary is quite low."
+    },
+    {
+      "word": "wage",
+      "meaning": "pay calculated by the hour, day or week",
+      "example": "The minimum wage rose this year."
+    },
+    {
+      "word": "perks",
+      "meaning": "extra benefits in addition to pay",
+      "example": "Free lunches are one of the perks of the job."
+    },
+    {
+      "word": "deadline",
+      "meaning": "the time by which something must be done",
+      "example": "We worked late to meet the deadline."
+    },
+    {
+      "word": "workload",
+      "meaning": "the amount of work a person has to do",
+      "example": "Teachers complain about their heavy workload."
+    },
+    {
+      "word": "burnout",
+      "meaning": "exhaustion caused by long-term stress at work",
+      "example": "Long hours can lead to burnout."
+    },
+    {
+      "word": "productivity",
+      "meaning": "how much work is produced in a period of time",
+      "example": "Shorter meetings can increase productivity."
+    },
+    {
+      "word": "entrepreneur",
+      "meaning": "a person who starts their own business",
+      "example": "Young entrepreneurs often start online businesses."
+    },
+    {
+      "word": "commute",
+      "meaning": "to travel regularly between home and work; the journey",
+      "example": "My commute takes forty minutes each way."
+    }
+  ]
+}

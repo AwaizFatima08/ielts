@@ -1,0 +1,172 @@
+{
+  "id": "v-collocations",
+  "skill": "vocabulary",
+  "title": "Collocations",
+  "guide": [
+    {
+      "h": "What collocations are"
+    },
+    {
+      "p": "Collocations are words that naturally go together. Native speakers say 'make a decision', not 'do a decision', and 'heavy traffic', not 'strong traffic'. Using collocations correctly is one of the clearest signs of a Band 7+ vocabulary."
+    },
+    {
+      "h": "Common patterns"
+    },
+    {
+      "bullets": [
+        "verb + noun: make a decision, take responsibility, raise awareness",
+        "adjective + noun: heavy traffic, strong evidence, a growing number",
+        "adverb + adjective: highly effective, deeply rooted, widely available",
+        "noun + noun: traffic congestion, energy consumption, job security",
+        "verb + preposition: depend on, contribute to, result in"
+      ]
+    },
+    {
+      "h": "How to learn them"
+    },
+    {
+      "bullets": [
+        "Whenever you look up a word, note the verbs and adjectives used with it.",
+        "Use a collocation dictionary or the example sentences in a learner's dictionary.",
+        "Notice collocations in Reading passages — they are written by skilled writers.",
+        "Learn whole phrases: 'have a significant impact on' rather than 'impact'."
+      ]
+    },
+    {
+      "tip": "Don't force rare collocations into every sentence. One accurate, natural phrase is better than three awkward ones."
+    }
+  ],
+  "drill": null,
+  "vocab": [
+    {
+      "word": "make a decision",
+      "meaning": "to decide",
+      "example": "The council made a decision to close the library."
+    },
+    {
+      "word": "take responsibility for",
+      "meaning": "to accept that something is your duty or fault",
+      "example": "Parents should take responsibility for their children's screen time."
+    },
+    {
+      "word": "pay attention to",
+      "meaning": "to watch, listen or think carefully",
+      "example": "Drivers must pay attention to cyclists."
+    },
+    {
+      "word": "raise awareness of",
+      "meaning": "to make people know more about something",
+      "example": "The campaign raised awareness of mental health."
+    },
+    {
+      "word": "play a role in",
+      "meaning": "to be involved in and affect something",
+      "example": "Teachers play a key role in shaping attitudes."
+    },
+    {
+      "word": "have an impact on",
+      "meaning": "to affect",
+      "example": "Social media has a strong impact on young people."
+    },
+    {
+      "word": "meet a deadline",
+      "meaning": "to finish something by the required time",
+      "example": "We worked all weekend to meet the deadline."
+    },
+    {
+      "word": "reach a conclusion",
+      "meaning": "to decide after thinking",
+      "example": "The committee reached a conclusion after two hours."
+    },
+    {
+      "word": "conduct research",
+      "meaning": "to carry out a study",
+      "example": "The university conducted research into sleep patterns."
+    },
+    {
+      "word": "pose a threat to",
+      "meaning": "to be a danger to",
+      "example": "Rising sea levels pose a threat to coastal towns."
+    },
+    {
+      "word": "tackle a problem",
+      "meaning": "to make a serious effort to deal with a problem",
+      "example": "The city is tackling the problem of litter."
+    },
+    {
+      "word": "take steps to",
+      "meaning": "to take action to achieve something",
+      "example": "The government has taken steps to reduce unemployment."
+    },
+    {
+      "word": "bridge the gap",
+      "meaning": "to reduce the difference between two groups",
+      "example": "Free laptops could bridge the gap between rich and poor students."
+    },
+    {
+      "word": "gain experience",
+      "meaning": "to get knowledge or skill by doing something",
+      "example": "Internships help students gain experience."
+    },
+    {
+      "word": "set a goal",
+      "meaning": "to decide on something to achieve",
+      "example": "I set a goal of running five kilometres."
+    },
+    {
+      "word": "heavy traffic",
+      "meaning": "a lot of vehicles",
+      "example": "Heavy traffic delayed the bus by an hour."
+    },
+    {
+      "word": "strong evidence",
+      "meaning": "convincing proof",
+      "example": "There is strong evidence that exercise reduces stress."
+    },
+    {
+      "word": "a growing number of",
+      "meaning": "more and more",
+      "example": "A growing number of people work from home."
+    },
+    {
+      "word": "widespread concern",
+      "meaning": "worry felt by many people",
+      "example": "The plans caused widespread concern among residents."
+    },
+    {
+      "word": "highly effective",
+      "meaning": "very successful in producing a result",
+      "example": "The vaccine proved highly effective."
+    },
+    {
+      "word": "deeply rooted",
+      "meaning": "firmly established and hard to change",
+      "example": "The tradition is deeply rooted in village life."
+    },
+    {
+      "word": "widely available",
+      "meaning": "easy to find or buy in many places",
+      "example": "Fresh fruit is now widely available all year."
+    },
+    {
+      "word": "broaden your horizons",
+      "meaning": "to increase your experience and understanding",
+      "example": "Travelling abroad broadens your horizons."
+    },
+    {
+      "word": "keep in touch with",
+      "meaning": "to stay in contact",
+      "example": "Social media helps me keep in touch with old friends."
+    },
+    {
+      "word": "make progress",
+      "meaning": "to improve or move forward",
+      "example": "She has made good progress with her English."
+    },
+    {
+      "word": "do harm to",
+      "meaning": "to damage",
+      "example": "Too much sugar does serious harm to teeth."
+    }
+  ]
+}

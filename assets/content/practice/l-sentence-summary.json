@@ -1,0 +1,125 @@
+{
+  "id": "l-sentence-summary",
+  "skill": "listening",
+  "title": "Sentence and summary completion",
+  "guide": [
+    {
+      "h": "What it tests"
+    },
+    {
+      "p": "Sentence and summary completion is common in Parts 3 and 4. The sentences or summary paraphrase the recording, and the missing words are words you actually hear. You must understand the meaning, not just catch isolated words."
+    },
+    {
+      "h": "How to approach it"
+    },
+    {
+      "bullets": [
+        "Read the whole sentence and decide what grammar fits: a noun? a plural? a verb? an adjective?",
+        "Underline the words around the gap and think of synonyms the speaker might use.",
+        "The answer must fit the sentence grammatically — read it back to yourself.",
+        "A summary may combine two sentences of the lecture into one, so keep listening after you think you have heard the answer.",
+        "Never go over the word limit. Articles (a, the) usually make the answer too long."
+      ]
+    },
+    {
+      "example": "Sentence: 'Students must submit a ___ before the trip.' You hear: 'Before we go, everyone has to hand in a signed consent form.' Answer: consent form (NO MORE THAN TWO WORDS)."
+    },
+    {
+      "tip": "In Part 4 there is no break in the middle of the lecture, so use the pause before it to read every gap."
+    }
+  ],
+  "drill": {
+    "passage": null,
+    "script": [
+      {
+        "id": "dls_001",
+        "speaker": "lecturer",
+        "text": "Today I want to look at how trees affect temperatures in cities. On a summer afternoon, a street with no trees can be up to eight degrees hotter than a nearby park. This difference is often called the urban heat island effect."
+      },
+      {
+        "id": "dls_002",
+        "speaker": "lecturer",
+        "text": "Trees cool streets in two main ways. The first is simple shade, which stops sunlight from heating roads and walls. The second is less obvious. Trees release water through their leaves, and this process, known as transpiration, cools the surrounding air."
+      },
+      {
+        "id": "dls_003",
+        "speaker": "lecturer",
+        "text": "Not all trees are equally useful. Species with wide, dense canopies give the most shade, while trees with small leaves let more light through. Planners also prefer species that can survive drought, since city soil dries out very quickly."
+      },
+      {
+        "id": "dls_004",
+        "speaker": "lecturer",
+        "text": "However, there are costs. Roots can damage pavements, and fallen leaves block drains in autumn. Many councils now plant trees in special underground cells, which give roots room to grow without lifting the pavement."
+      },
+      {
+        "id": "dls_005",
+        "speaker": "lecturer",
+        "text": "Finally, a study in one European city found that residents chose to walk more often on tree-lined streets. So the benefits are not only about temperature, but about health as well."
+      }
+    ],
+    "groups": [
+      {
+        "type": "gap",
+        "from": 1,
+        "to": 3,
+        "layout": "sentences",
+        "instructions": "Complete the sentences below.",
+        "limit": "NO MORE THAN TWO WORDS AND/OR A NUMBER",
+        "lines": [
+          "A street without trees may be up to {{1}} hotter than a park.",
+          "Trees release water through their leaves in a process called {{2}}.",
+          "Trees with wide, dense {{3}} provide the most shade."
+        ],
+        "answers": {
+          "1": [
+            "eight degrees",
+            "8 degrees"
+          ],
+          "2": [
+            "transpiration"
+          ],
+          "3": [
+            "canopies"
+          ]
+        },
+        "explain": {
+          "1": "'a street with no trees can be up to eight degrees hotter than a nearby park.'",
+          "2": "'Trees release water through their leaves, and this process, known as transpiration, cools the surrounding air.'",
+          "3": "'Species with wide, dense canopies give the most shade.'"
+        }
+      },
+      {
+        "type": "gap",
+        "from": 4,
+        "to": 7,
+        "layout": "summary",
+        "instructions": "Complete the summary below.",
+        "limit": "ONE WORD ONLY",
+        "title": "Choosing and managing city trees",
+        "lines": [
+          "Planners select species that can survive {{4}}, because city soil dries out quickly. Problems include damaged pavements and blocked {{5}} in autumn. To protect pavements, some councils plant trees in underground {{6}}. Tree-lined streets also encourage residents to {{7}} more often."
+        ],
+        "answers": {
+          "4": [
+            "drought"
+          ],
+          "5": [
+            "drains"
+          ],
+          "6": [
+            "cells"
+          ],
+          "7": [
+            "walk"
+          ]
+        },
+        "explain": {
+          "4": "'Planners also prefer species that can survive drought, since city soil dries out very quickly.'",
+          "5": "'fallen leaves block drains in autumn.' The plural 'drains' is needed.",
+          "6": "'Many councils now plant trees in special underground cells.'",
+          "7": "'residents chose to walk more often on tree-lined streets.'"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "id": "r-skim-scan",
+  "skill": "reading",
+  "title": "Skimming, scanning and time management",
+  "guide": [
+    {
+      "h": "Why speed matters"
+    },
+    {
+      "p": "The Reading test gives you 60 minutes for 40 questions and about 2,500–2,750 words of text. You do not have time to read every word slowly, and you get no extra time to transfer answers. Strong candidates read selectively: fast where they can, carefully where they must."
+    },
+    {
+      "h": "Skimming — reading for the gist"
+    },
+    {
+      "bullets": [
+        "Read the title, any subtitle and the first sentence of each paragraph.",
+        "Let your eyes move quickly over the rest, noticing names, numbers and repeated words.",
+        "After each paragraph, note its topic in two or three words in the margin.",
+        "Aim for about 2–3 minutes per passage. You are building a map, not learning the details."
+      ]
+    },
+    {
+      "h": "Scanning — finding a detail"
+    },
+    {
+      "bullets": [
+        "Decide exactly what you are looking for: a date, a name, a technical term, a number.",
+        "Move your eyes quickly down the text looking only for that shape. Capital letters and numbers are easy to spot.",
+        "When you find it, stop and read the whole sentence, and the sentence before and after, carefully.",
+        "If the key word is common, scan for a synonym too (for example 'fall' → decline, drop, decrease)."
+      ]
+    },
+    {
+      "h": "Careful reading"
+    },
+    {
+      "p": "Once you have found the right place, slow down. TRUE/FALSE/NOT GIVEN, multiple choice and sentence endings all depend on small words: only, most, not, until, before. Read every word in the key sentence."
+    },
+    {
+      "h": "A timing plan for 60 minutes"
+    },
+    {
+      "bullets": [
+        "Section 1: about 17 minutes. It is usually the easiest, so bank time here.",
+        "Section 2: about 20 minutes.",
+        "Section 3: about 23 minutes. It is the longest and hardest.",
+        "Check the clock at the end of each section. If you are over time, guess the remaining answers in that section and move on."
+      ]
+    },
+    {
+      "h": "Habits that save time"
+    },
+    {
+      "bullets": [
+        "Write answers directly on the answer sheet or into the boxes as you go.",
+        "Do not get stuck: a hard question is worth the same one mark as an easy one.",
+        "Do question groups that follow passage order (TFNG, completion, MCQ) first; leave headings and matching information for when you know the text.",
+        "Use the question numbers to find your place: answers to one group are usually spread evenly through the passage.",
+        "Never leave a blank. A guess has a chance; an empty box does not."
+      ]
+    },
+    {
+      "tip": "Practise with a timer every time. Speed is a habit that only improves under real time pressure."
+    },
+    {
+      "example": "Scanning drill you can do with any article: choose five numbers or names from the text, close it, then open it and time how long it takes to find each one. Aim for under 10 seconds each."
+    }
+  ],
+  "drill": null
+}

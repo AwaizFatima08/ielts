@@ -1,0 +1,146 @@
+{
+  "id": "v-technology",
+  "skill": "vocabulary",
+  "title": "Topic vocabulary: technology",
+  "guide": [
+    {
+      "h": "Why learn technology vocabulary?"
+    },
+    {
+      "p": "Technology appears in every section of IELTS: questions about smartphones in Part 1, apps in Part 2, automation and privacy in Part 3 and Task 2. These words help you discuss both benefits and risks."
+    },
+    {
+      "bullets": [
+        "Learn words in phrases, not alone: notice which verbs, adjectives and prepositions go with them.",
+        "Practise each word in a sentence about your own life or country — it will be easier to use in Speaking.",
+        "In Writing, choose the precise word over the impressive-sounding one. Accuracy beats complexity."
+      ]
+    },
+    {
+      "tip": "'Technology' is usually uncountable in general statements ('Technology has changed our lives'), but 'technologies' is used for specific types ('new medical technologies')."
+    }
+  ],
+  "drill": null,
+  "vocab": [
+    {
+      "word": "cutting-edge",
+      "meaning": "the most advanced, newest",
+      "example": "The hospital uses cutting-edge scanning equipment."
+    },
+    {
+      "word": "innovation",
+      "meaning": "a new idea, method or invention",
+      "example": "Innovation is essential for economic growth."
+    },
+    {
+      "word": "breakthrough",
+      "meaning": "an important discovery or development",
+      "example": "Scientists made a breakthrough in battery design."
+    },
+    {
+      "word": "artificial intelligence",
+      "meaning": "computer systems that perform tasks normally needing human intelligence",
+      "example": "Artificial intelligence is used to detect fraud."
+    },
+    {
+      "word": "automation",
+      "meaning": "using machines or computers to do work instead of people",
+      "example": "Automation has replaced many factory jobs."
+    },
+    {
+      "word": "algorithm",
+      "meaning": "a set of rules a computer follows to solve a problem",
+      "example": "Social media algorithms decide what we see."
+    },
+    {
+      "word": "device",
+      "meaning": "a piece of electronic equipment",
+      "example": "Most teenagers own more than one device."
+    },
+    {
+      "word": "user-friendly",
+      "meaning": "easy to use",
+      "example": "The app is user-friendly, even for older people."
+    },
+    {
+      "word": "tech-savvy",
+      "meaning": "good at using modern technology",
+      "example": "Younger employees are often more tech-savvy."
+    },
+    {
+      "word": "obsolete",
+      "meaning": "no longer used because something newer exists",
+      "example": "Fax machines are now almost obsolete."
+    },
+    {
+      "word": "upgrade",
+      "meaning": "to improve a device or system to a newer version",
+      "example": "The company upgrades its laptops every three years."
+    },
+    {
+      "word": "digital literacy",
+      "meaning": "the ability to use digital technology effectively",
+      "example": "Digital literacy should be taught in schools."
+    },
+    {
+      "word": "digital divide",
+      "meaning": "the gap between people who have access to technology and those who do not",
+      "example": "The digital divide leaves rural families at a disadvantage."
+    },
+    {
+      "word": "data privacy",
+      "meaning": "protection of personal information",
+      "example": "Users are increasingly worried about data privacy."
+    },
+    {
+      "word": "cybersecurity",
+      "meaning": "protection of computer systems from attack",
+      "example": "Banks spend heavily on cybersecurity."
+    },
+    {
+      "word": "cyberbullying",
+      "meaning": "bullying that takes place online",
+      "example": "Schools are tackling cyberbullying through education."
+    },
+    {
+      "word": "screen time",
+      "meaning": "time spent looking at screens",
+      "example": "Doctors recommend limiting children's screen time."
+    },
+    {
+      "word": "e-commerce",
+      "meaning": "buying and selling goods online",
+      "example": "E-commerce has forced many high-street shops to close."
+    },
+    {
+      "word": "remote",
+      "meaning": "done from a distance, e.g. working from home",
+      "example": "Remote working became common after 2020."
+    },
+    {
+      "word": "virtual",
+      "meaning": "existing online or through a computer rather than physically",
+      "example": "Students attended virtual classes during the closure."
+    },
+    {
+      "word": "malfunction",
+      "meaning": "to fail to work properly",
+      "example": "The ticket machines malfunctioned during the storm."
+    },
+    {
+      "word": "rely on",
+      "meaning": "to depend on",
+      "example": "We rely on our phones for almost everything."
+    },
+    {
+      "word": "addictive",
+      "meaning": "making people want to keep doing something",
+      "example": "Many games are designed to be addictive."
+    },
+    {
+      "word": "access",
+      "meaning": "the ability to use or get something",
+      "example": "Everyone should have access to fast internet."
+    }
+  ]
+}

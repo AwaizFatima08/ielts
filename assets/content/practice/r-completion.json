@@ -1,0 +1,158 @@
+{
+  "id": "r-completion",
+  "skill": "reading",
+  "title": "Summary, note, table and flow-chart completion",
+  "guide": [
+    {
+      "h": "What it tests"
+    },
+    {
+      "p": "Completion tasks give you a summary, notes, a table or a flow-chart with gaps. The answers are words taken directly from the passage (or letters from a word list). They test whether you can locate specific information and fit it into a paraphrased context."
+    },
+    {
+      "h": "Two kinds of task"
+    },
+    {
+      "bullets": [
+        "Words from the passage: copy the words exactly, with the same spelling. Do not change the form of the word.",
+        "Word list (A, B, C…): write the letter. The list contains synonyms of words in the passage, so you need to understand the meaning, not just match words."
+      ]
+    },
+    {
+      "h": "Step by step"
+    },
+    {
+      "bullets": [
+        "Read the title of the summary, table or flow-chart — it often tells you which paragraphs to look at.",
+        "Predict the type of word for each gap: noun, verb, adjective, number, singular or plural.",
+        "Answers usually follow passage order in summaries and flow-charts. Tables may be read across or down.",
+        "Find the matching section, then find the exact word that fits both meaning and grammar.",
+        "Check the word limit and spelling. A number written as digits counts as one number."
+      ]
+    },
+    {
+      "tip": "Flow-charts describe a process. Look for sequence words in the passage: first, then, next, after this, finally."
+    }
+  ],
+  "drill": {
+    "script": null,
+    "passage": {
+      "title": "A second life for paper",
+      "paragraphs": [
+        {
+          "label": "",
+          "text": "Paper is one of the most widely recycled materials, yet few people know what happens after a newspaper goes into the recycling bin. The process takes place in a factory called a paper mill, in a series of stages, each designed to remove something that would spoil the finished product."
+        },
+        {
+          "label": "",
+          "text": "First, the collected paper is sorted by grade, because office paper, cardboard and newspaper contain fibres of different quality. The sorted paper is then mixed with water and chemicals in a large machine called a pulper, which breaks it down into a wet mixture of fibres known as pulp."
+        },
+        {
+          "label": "",
+          "text": "Next, the pulp is forced through screens with small holes to remove staples, plastic and glue. It is then spun in cone-shaped cleaners, where heavier particles such as sand are thrown outwards and removed. To remove printing ink, air is bubbled through the pulp; the ink sticks to the bubbles and rises to the surface as foam, which is skimmed off. If white paper is required, the pulp may also be bleached."
+        },
+        {
+          "label": "",
+          "text": "Finally, the clean pulp is sprayed onto a moving wire mesh, where water drains away and the fibres bond together into a sheet. Heated rollers then press and dry the sheet before it is wound into enormous rolls."
+        },
+        {
+          "label": "",
+          "text": "Unfortunately, paper fibres cannot be recycled for ever. Each time they are processed they become shorter and weaker, and after five to seven cycles they are too short to form a sheet. For this reason, some new wood fibre is usually added to keep recycled paper strong."
+        }
+      ]
+    },
+    "groups": [
+      {
+        "type": "gap",
+        "from": 1,
+        "to": 5,
+        "layout": "flowchart",
+        "instructions": "Complete the flow-chart below. Choose ONE WORD ONLY from the passage for each answer.",
+        "limit": "ONE WORD ONLY",
+        "title": "Recycling paper",
+        "lines": [
+          "Paper is sorted according to its {{1}}",
+          "Paper is mixed with water and chemicals in a {{2}}",
+          "Screens remove staples, plastic and glue",
+          "Cone-shaped cleaners remove heavy particles such as {{3}}",
+          "Air bubbles carry ink to the surface as {{4}}, which is skimmed off",
+          "Pulp is sprayed onto a moving wire mesh",
+          "Heated {{5}} press and dry the sheet"
+        ],
+        "answers": {
+          "1": [
+            "grade"
+          ],
+          "2": [
+            "pulper"
+          ],
+          "3": [
+            "sand"
+          ],
+          "4": [
+            "foam"
+          ],
+          "5": [
+            "rollers"
+          ]
+        },
+        "explain": {
+          "1": "'the collected paper is sorted by grade.'",
+          "2": "'mixed with water and chemicals in a large machine called a pulper.'",
+          "3": "'heavier particles such as sand are thrown outwards and removed.'",
+          "4": "'the ink sticks to the bubbles and rises to the surface as foam, which is skimmed off.'",
+          "5": "'Heated rollers then press and dry the sheet.' The plural is needed because the verb is 'press'."
+        }
+      },
+      {
+        "type": "gap",
+        "from": 6,
+        "to": 7,
+        "layout": "summary",
+        "instructions": "Complete the summary using the list of words, A–F, below.",
+        "title": "The limits of recycling",
+        "lines": [
+          "Each time paper fibres are recycled they become {{6}}. After several cycles they are too short to form a sheet, so manufacturers usually add some new {{7}} fibre."
+        ],
+        "options": [
+          {
+            "key": "A",
+            "text": "shorter"
+          },
+          {
+            "key": "B",
+            "text": "longer"
+          },
+          {
+            "key": "C",
+            "text": "sheet"
+          },
+          {
+            "key": "D",
+            "text": "roll"
+          },
+          {
+            "key": "E",
+            "text": "wood"
+          },
+          {
+            "key": "F",
+            "text": "cotton"
+          }
+        ],
+        "answers": {
+          "6": [
+            "A"
+          ],
+          "7": [
+            "E"
+          ]
+        },
+        "explain": {
+          "6": "'Each time they are processed they become shorter and weaker.' B is the opposite.",
+          "7": "'some new wood fibre is usually added.' Cotton is not mentioned."
+        }
+      }
+    ]
+  }
+}

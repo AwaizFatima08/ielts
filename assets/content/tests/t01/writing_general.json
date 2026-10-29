@@ -1,0 +1,47 @@
+{
+  "id": "t01",
+  "section": "writing",
+  "module": "general",
+  "tasks": [
+    {
+      "number": 1,
+      "minutes": 20,
+      "minWords": 150,
+      "prompt": "You live in a block of flats. The company that manages the building has announced that the bicycle storage room on the ground floor will close next month.\n\nWrite a letter to the management company. In your letter",
+      "instructions": "Write at least 150 words. You do NOT need to write any addresses. Begin your letter as follows: Dear Sir or Madam,",
+      "bullets": [
+        "explain how you use the bicycle storage room",
+        "describe the problems that closing the room will cause",
+        "suggest an alternative to closing the room"
+      ],
+      "chart": null,
+      "image": null,
+      "modelAnswer": "Dear Sir or Madam,\n\nI am writing as the tenant of Flat 12, Larch Court, regarding your recent notice that the bicycle storage room on the ground floor is to close at the end of next month. I would be grateful if you could reconsider this decision.\n\nI cycle to work every weekday, and the storage room is the only secure place in the building where I can leave my bicycle overnight. Like several of my neighbours, I also keep a child seat and a small trailer there, neither of which would fit in my flat.\n\nIf the room closes, residents will have to chain their bicycles to the railings outside, where three have already been stolen this year, or carry them up the narrow staircases. This would mark the walls and could even block the fire exits.\n\nIf the problem is overcrowding, might I suggest issuing each resident with a numbered tag instead? Any untagged bicycle could then be removed after two weeks' notice, which would free up a considerable amount of space.\n\nI look forward to hearing from you.\n\nYours faithfully,\n\nDaniel Hughes",
+      "modelBand": 8,
+      "tips": [
+        "The letter is to a company you do not know by name, so it is formal: open with 'Dear Sir or Madam,' and close with 'Yours faithfully,' followed by your full name.",
+        "State your purpose in the first paragraph, then give each bullet point its own paragraph so the examiner can see every point is covered.",
+        "Add specific, believable details (how often you cycle, what else you store, bikes already stolen) – this is what turns a basic answer into a fully developed one.",
+        "Use polite, indirect language for requests and suggestions: 'I would be grateful if…', 'might I suggest…', rather than 'You must not close the room.'"
+      ]
+    },
+    {
+      "number": 2,
+      "minutes": 40,
+      "minWords": 250,
+      "prompt": "In many towns, small local shops are closing because more people now buy goods online.\n\nWhat are the reasons for this? What can be done to help local shops survive?",
+      "instructions": "Give reasons for your answer and include any relevant examples from your own knowledge or experience. Write at least 250 words.",
+      "bullets": [],
+      "chart": null,
+      "image": null,
+      "modelAnswer": "Walk down the high street of almost any town today and you are likely to see empty shop windows where a bookshop, a shoe shop or a hardware store once traded. The main cause is the growth of online shopping, but there are practical steps that could help independent shops to survive.\n\nThe most obvious reason for the decline is convenience. Online retailers allow customers to compare prices, read reviews and order at any hour without leaving home, and goods often arrive the next day. Large internet companies can also offer lower prices, because they buy in enormous quantities and do not pay rent for expensive premises in a town centre. Small shops, by contrast, face rising business rates and energy bills, so they struggle to match these prices even when they would like to.\n\nNevertheless, local shops are not without hope. Firstly, councils could reduce business rates for independent traders and make town-centre parking cheaper or free for short stays, so that a quick visit to the shops is no longer a hassle. Secondly, shops themselves can offer what websites cannot: expert advice, the chance to try a product before buying, and services such as repairs or alterations. A bicycle shop that also services bikes, for example, gives customers a reason to return. Finally, many small retailers now combine the two worlds by selling online as well and letting customers collect orders in person.\n\nIn conclusion, local shops are closing mainly because online competitors are cheaper and more convenient. However, with sensible support from local authorities and a focus on personal service, independent shops can still play a valuable role in their communities.",
+      "modelBand": 8,
+      "tips": [
+        "This is a two-part question: answer BOTH parts (reasons and solutions) in roughly equal depth, with a separate body paragraph for each.",
+        "Make your position clear in the introduction by previewing both parts, then repeat it in different words in the conclusion.",
+        "Support each idea with an explanation or a concrete example (the bicycle shop that also services bikes), not just a list of points.",
+        "Use a range of linking devices – 'by contrast', 'nevertheless', 'firstly', 'finally' – but do not start every sentence with one."
+      ]
+    }
+  ]
+}

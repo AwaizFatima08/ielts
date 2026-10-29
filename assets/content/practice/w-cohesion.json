@@ -1,0 +1,81 @@
+{
+  "id": "w-cohesion",
+  "skill": "writing",
+  "title": "Paragraphs and cohesion",
+  "guide": [
+    {
+      "h": "What a good body paragraph looks like"
+    },
+    {
+      "bullets": [
+        "Topic sentence: the main idea of the paragraph, linked to the question.",
+        "Explanation: why or how this is true.",
+        "Example or evidence: a specific case, a realistic situation, a consequence.",
+        "Link back (optional): how this supports your position."
+      ]
+    },
+    {
+      "p": "Each body paragraph should contain one central idea. If you find yourself writing 'Another point is…' halfway through, you probably need a new paragraph."
+    },
+    {
+      "h": "Coherence and cohesion: the difference"
+    },
+    {
+      "p": "Coherence is about logic: the ideas are in a sensible order and the reader always knows why a sentence is there. Cohesion is about the language that connects them: linking words, pronouns and synonyms. Examiners look at both."
+    },
+    {
+      "h": "Linking words by function"
+    },
+    {
+      "bullets": [
+        "Adding: moreover, furthermore, in addition, what is more, also",
+        "Contrasting: however, nevertheless, on the other hand, whereas, although, despite",
+        "Cause and result: because, since, as a result, therefore, consequently, this means that",
+        "Example: for example, for instance, such as, a case in point is",
+        "Sequencing: firstly, secondly, finally, to begin with, subsequently",
+        "Concluding: in conclusion, overall, to sum up"
+      ]
+    },
+    {
+      "h": "Beyond linking words"
+    },
+    {
+      "bullets": [
+        "Reference: use this, these, such, it, they, the former / the latter to point back to earlier ideas. 'This problem…', 'Such schemes…'.",
+        "Substitution and synonyms: avoid repeating the same noun — 'cars' → 'private vehicles' → 'they'.",
+        "Lexical chains: keep vocabulary connected to the topic so ideas flow naturally."
+      ]
+    },
+    {
+      "h": "Common mistakes"
+    },
+    {
+      "bullets": [
+        "Starting every sentence with a linking word. Band 8 writing uses them where they help, not everywhere.",
+        "Using the wrong linker: 'On the other hand' introduces a contrasting point, not just another point.",
+        "'Besides' and 'moreover' at the start of every paragraph — vary or remove them.",
+        "Unclear 'it' or 'this' when the reader cannot tell what it refers to.",
+        "One-sentence paragraphs or no paragraphs at all."
+      ]
+    },
+    {
+      "tip": "Read your topic sentences alone, one after another. If they make a logical mini-essay, your structure is coherent."
+    }
+  ],
+  "drill": null,
+  "models": [
+    {
+      "title": "Annotated body paragraph",
+      "prompt": "Body paragraph from an essay answering: 'Governments should spend more money on public parks than on new roads. To what extent do you agree?'",
+      "answer": "One important reason to invest in parks is their effect on public health. In crowded cities, many residents have no garden and few safe places to exercise, so a well-maintained park may be the only space where children can play outdoors or adults can go for a run. This matters because regular physical activity reduces the risk of conditions such as heart disease, which place a heavy burden on health services. A city that creates green spaces is therefore not only improving the quality of life of its residents but also, in the long term, reducing the cost of their medical care.",
+      "band": 8,
+      "notes": [
+        "Sentence 1 is the topic sentence: it gives one clear idea (health) linked to the question (investing in parks).",
+        "Sentence 2 explains the situation and gives realistic examples (children playing, adults running).",
+        "'This matters because…' uses reference ('this') to connect the example to a wider consequence.",
+        "'therefore' introduces the conclusion of the paragraph and links back to the writer's position.",
+        "Only two linking words are used, yet the paragraph flows — cohesion also comes from reference and logical order."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,210 @@
+{
+  "id": "r-mcq",
+  "skill": "reading",
+  "title": "Multiple choice",
+  "guide": [
+    {
+      "h": "What it tests"
+    },
+    {
+      "p": "Multiple-choice questions can test a detail, the main idea of a paragraph, or the writer's purpose. You either pick one answer from A–D (or A–C) or choose two or three answers from a longer list. Questions follow passage order."
+    },
+    {
+      "h": "Step by step"
+    },
+    {
+      "bullets": [
+        "Read the stem only and find the relevant part of the passage.",
+        "Read that part carefully and form your own answer.",
+        "Now read the options and eliminate the wrong ones. Each wrong option has a reason: it is false, not mentioned, too extreme, or true but does not answer the question.",
+        "Choose the option that the passage supports, usually in different words."
+      ]
+    },
+    {
+      "h": "Common traps"
+    },
+    {
+      "bullets": [
+        "Options that copy words from the passage but change the meaning.",
+        "Options that are true in real life but are not stated in the passage.",
+        "Options that answer a different question (a cause when the question asks for a result)."
+      ]
+    },
+    {
+      "tip": "For 'Which TWO…' questions, the two answers may come from different paragraphs. Check every option against the passage."
+    }
+  ],
+  "drill": {
+    "script": null,
+    "passage": {
+      "title": "Languages you can whistle",
+      "paragraphs": [
+        {
+          "label": "",
+          "text": "In a few mountainous regions of the world, people have developed a remarkable way of communicating across valleys: they whistle their language. Whistled speech is not a separate code like Morse. Instead, it imitates the spoken language of the area, turning the rise and fall of the voice and the shapes of vowels into changes in pitch."
+        },
+        {
+          "label": "",
+          "text": "The main advantage is distance. A shout fades quickly and is broken up by the wind, but a strong whistle can be understood over several kilometres in quiet conditions. For farmers and shepherds working on steep slopes, where walking from one side of a valley to the other could take an hour, this was a practical solution long before telephones existed."
+        },
+        {
+          "label": "",
+          "text": "Whistled languages are found in places as different as the Canary Islands, northern Turkey and parts of West Africa and Mexico. What these communities share is not a common history but a similar landscape: rugged land, scattered settlements and work that is done outdoors."
+        },
+        {
+          "label": "",
+          "text": "Most whistled languages are now in decline. Mobile phones have removed much of their practical purpose, and young people who move to towns rarely learn them. On the island of La Gomera, however, the local whistled form of Spanish is taught to children in schools, and it has become a source of local pride and an attraction for visitors."
+        },
+        {
+          "label": "",
+          "text": "Linguists are interested in whistled speech for another reason. Because it removes many of the sounds of ordinary speech, it shows which features listeners really need in order to understand words. Studies suggest that experienced listeners can follow surprisingly complex sentences, provided the topic is familiar."
+        }
+      ]
+    },
+    "groups": [
+      {
+        "type": "mcq",
+        "from": 1,
+        "to": 4,
+        "instructions": "Choose the correct letter, A, B, C or D.",
+        "questions": [
+          {
+            "n": 1,
+            "stem": "According to the writer, whistled speech",
+            "options": [
+              {
+                "key": "A",
+                "text": "is a code that has no link to spoken language."
+              },
+              {
+                "key": "B",
+                "text": "copies features of the local spoken language."
+              },
+              {
+                "key": "C",
+                "text": "was invented to replace spoken language."
+              },
+              {
+                "key": "D",
+                "text": "is easier to learn than spoken language."
+              }
+            ],
+            "answer": "B"
+          },
+          {
+            "n": 2,
+            "stem": "The main advantage of whistling over shouting is that a whistle",
+            "options": [
+              {
+                "key": "A",
+                "text": "needs less physical effort."
+              },
+              {
+                "key": "B",
+                "text": "can be understood at a greater distance."
+              },
+              {
+                "key": "C",
+                "text": "is harder for outsiders to understand."
+              },
+              {
+                "key": "D",
+                "text": "works well in windy weather."
+              }
+            ],
+            "answer": "B"
+          },
+          {
+            "n": 3,
+            "stem": "What do communities with whistled languages have in common?",
+            "options": [
+              {
+                "key": "A",
+                "text": "a shared history"
+              },
+              {
+                "key": "B",
+                "text": "a similar physical environment"
+              },
+              {
+                "key": "C",
+                "text": "the same spoken language"
+              },
+              {
+                "key": "D",
+                "text": "a tradition of music"
+              }
+            ],
+            "answer": "B"
+          },
+          {
+            "n": 4,
+            "stem": "On La Gomera, whistled speech",
+            "options": [
+              {
+                "key": "A",
+                "text": "is used mainly by older farmers."
+              },
+              {
+                "key": "B",
+                "text": "has been replaced by mobile phones."
+              },
+              {
+                "key": "C",
+                "text": "is taught to children at school."
+              },
+              {
+                "key": "D",
+                "text": "is understood by most visitors."
+              }
+            ],
+            "answer": "C"
+          }
+        ],
+        "explain": {
+          "1": "Paragraph 1: 'Whistled speech is not a separate code like Morse. Instead, it imitates the spoken language of the area.'",
+          "2": "Paragraph 2: 'a strong whistle can be understood over several kilometres.' D is wrong: wind breaks up a shout, and the whistle works best 'in quiet conditions'.",
+          "3": "Paragraph 3: 'What these communities share is not a common history but a similar landscape.'",
+          "4": "Paragraph 4: 'the local whistled form of Spanish is taught to children in schools.' Visitors find it an attraction, but nothing says they understand it."
+        }
+      },
+      {
+        "type": "multi",
+        "from": 5,
+        "to": 6,
+        "instructions": "Choose TWO letters, A–E.",
+        "stem": "Which TWO reasons for the decline of whistled languages does the writer give?",
+        "options": [
+          {
+            "key": "A",
+            "text": "the spread of mobile phones"
+          },
+          {
+            "key": "B",
+            "text": "government restrictions"
+          },
+          {
+            "key": "C",
+            "text": "young people moving to towns"
+          },
+          {
+            "key": "D",
+            "text": "a lack of written records"
+          },
+          {
+            "key": "E",
+            "text": "the growth of tourism"
+          }
+        ],
+        "answers": [
+          "A",
+          "C"
+        ],
+        "explain": {
+          "5": "Paragraph 4: 'Mobile phones have removed much of their practical purpose.'",
+          "6": "Paragraph 4: 'young people who move to towns rarely learn them.' Tourism is presented as a positive, not a cause of decline."
+        }
+      }
+    ]
+  }
+}

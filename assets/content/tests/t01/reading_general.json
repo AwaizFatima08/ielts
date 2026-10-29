@@ -1,0 +1,350 @@
+{
+  "id": "t01",
+  "section": "reading",
+  "module": "general",
+  "passages": [
+    {
+      "number": 1,
+      "part": 1,
+      "title": "Harbourside Community Centre – Evening and Weekend Courses",
+      "subtitle": "Learn something new this autumn. Book at reception or online.",
+      "paragraphs": [
+        { "label": "A", "text": "Conversational Spanish (Improvers) – Tuesdays, 7–9 pm, 10 weeks, £85. This course is for people who already know some basic Spanish and want to build confidence in speaking. It is not suitable for complete beginners; a beginners' course will run in the spring. The fee includes the course book, which is yours to keep." },
+        { "label": "B", "text": "Furniture Restoration – Saturdays, 10 am–12.30 pm, 6 weeks, £120. Bring along a small piece of furniture, such as a chair or bedside table, and our tutor will show you how to strip, repair and refinish it. Tools are provided, but there is an additional charge of £15 for sandpaper, wax and varnish, payable on the first morning." },
+        { "label": "C", "text": "Digital Photography for Beginners – Wednesdays, 6.30–8.30 pm, 8 weeks, £70. Learn how to compose a picture, use natural light and edit your images. You will need your own camera, although a smartphone is perfectly acceptable. In the final week the group will go on a guided photo walk around the Old Harbour and the fish market, at no extra cost." },
+        { "label": "D", "text": "Cooking on a Budget – Mondays, 6–8 pm, 5 weeks, £60 (£40 for students and those aged over 65). Discover how to prepare healthy family meals for under £2 a portion. All ingredients are provided and you take home whatever you have cooked each week, so remember to bring a container." },
+        { "label": "E", "text": "Creative Writing Workshop – Thursdays, 7–8.30 pm, 10 weeks, £90. Whether you write short stories, poems or memoir, this friendly group will help you develop your voice. If you are unable to get to the centre, you can join each session live by video link from home. At the end of the course, a selection of the group's work will appear on the centre's website." },
+        { "label": "F", "text": "First Aid at Home – one Saturday, 9.30 am–4 pm, £45. A practical one-day course covering burns, choking, cuts and what to do in an emergency until help arrives. Everyone who completes the day receives a certificate, valid for three years. Please bring a packed lunch; tea and coffee are available." }
+      ],
+      "groups": [
+        {
+          "type": "matching",
+          "from": 1,
+          "to": 7,
+          "instructions": "Look at the six advertisements for courses, A–F. For which course are the following statements true? Write the correct letter, A–F. You may use any letter more than once.",
+          "optionsTitle": "Courses",
+          "reuse": true,
+          "options": [
+            { "key": "A", "text": "Conversational Spanish (Improvers)" },
+            { "key": "B", "text": "Furniture Restoration" },
+            { "key": "C", "text": "Digital Photography for Beginners" },
+            { "key": "D", "text": "Cooking on a Budget" },
+            { "key": "E", "text": "Creative Writing Workshop" },
+            { "key": "F", "text": "First Aid at Home" }
+          ],
+          "items": [
+            { "n": 1, "text": "Some people can pay a reduced fee for this course.", "answer": "D" },
+            { "n": 2, "text": "This course is intended for people with some previous knowledge.", "answer": "A" },
+            { "n": 3, "text": "It is possible to take part in this course without coming to the centre.", "answer": "E" },
+            { "n": 4, "text": "Students must pay an extra amount for materials.", "answer": "B" },
+            { "n": 5, "text": "Participants receive a document showing they have finished the course.", "answer": "F" },
+            { "n": 6, "text": "This course includes a visit to another place.", "answer": "C" },
+            { "n": 7, "text": "The price of this course includes a book.", "answer": "A" }
+          ],
+          "explain": {
+            "1": "D: '£60 (£40 for students and those aged over 65)'. No other course mentions a lower price for any group.",
+            "2": "A: 'This course is for people who already know some basic Spanish … It is not suitable for complete beginners.'",
+            "3": "E: 'If you are unable to get to the centre, you can join each session live by video link from home.'",
+            "4": "B: 'there is an additional charge of £15 for sandpaper, wax and varnish'. C's photo walk is 'at no extra cost'.",
+            "5": "F: 'Everyone who completes the day receives a certificate, valid for three years.'",
+            "6": "C: 'the group will go on a guided photo walk around the Old Harbour and the fish market'.",
+            "7": "A: 'The fee includes the course book, which is yours to keep.' E's work appears on a website, not in a book."
+          }
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "part": 1,
+      "title": "Westford Park and Ride – Information for Passengers",
+      "paragraphs": [
+        { "label": "", "text": "Timetable: The Park and Ride service links Northgate car park, at Junction 4 of the ring road, with the city centre. From Monday to Saturday, buses leave every 12 minutes between 6.30 am and 7.30 pm. On Sundays and public holidays, buses run every 20 minutes between 9 am and 6 pm." },
+        { "label": "", "text": "Fares and parking: Parking at Northgate is free – you pay only for your bus journey. An adult return ticket costs £3.50, and up to three children under 16 travel free with each paying adult. Tickets can be bought from the driver by contactless card only; cash is not accepted. Alternatively, buy your ticket in advance on the WestfordGo app and save 10%." },
+        { "label": "", "text": "Overnight parking is not permitted. Vehicles still in the car park after 9 pm will be charged a £60 fee." },
+        { "label": "", "text": "Temporary change from 3 November: Because of resurfacing work on London Road, city-centre buses will stop in Market Square instead of at the Bus Station. The work is expected to last six weeks." },
+        { "label": "", "text": "Bicycles: Folding bicycles may be carried on board. If you would like to cycle to Northgate, secure bicycle lockers are available; please collect a key from the kiosk (£10 deposit)." },
+        { "label": "", "text": "Lost property: Items handed to drivers are kept at the Northgate kiosk for seven days and are then sent to the City Council office in Hill Street." },
+        { "label": "", "text": "Electric vehicles: Eight charging points are available. Please do not remain connected for longer than four hours." }
+      ],
+      "groups": [
+        {
+          "type": "tfng",
+          "variant": "tfng",
+          "from": 8,
+          "to": 14,
+          "instructions": "Do the following statements agree with the information given in the text? Write TRUE if the statement agrees with the information, FALSE if the statement contradicts the information, NOT GIVEN if there is no information on this.",
+          "questions": [
+            { "n": 8, "text": "Buses run more often on Saturdays than on Sundays.", "answer": "TRUE" },
+            { "n": 9, "text": "Drivers have to pay to leave their car at Northgate during the day.", "answer": "FALSE" },
+            { "n": 10, "text": "Passengers can pay the bus driver in cash.", "answer": "FALSE" },
+            { "n": 11, "text": "Tickets bought through the app are cheaper than those bought from the driver.", "answer": "TRUE" },
+            { "n": 12, "text": "The temporary stop in Market Square is closer to the main shops than the Bus Station.", "answer": "NOT GIVEN" },
+            { "n": 13, "text": "Passengers may take any kind of bicycle on the bus.", "answer": "FALSE" },
+            { "n": 14, "text": "Lost items stay at Northgate for one week before being moved elsewhere.", "answer": "TRUE" }
+          ],
+          "explain": {
+            "8": "'From Monday to Saturday, buses leave every 12 minutes' but 'On Sundays … buses run every 20 minutes'.",
+            "9": "'Parking at Northgate is free – you pay only for your bus journey.' (The £60 fee is only for vehicles left after 9 pm.)",
+            "10": "'Tickets can be bought from the driver by contactless card only; cash is not accepted.'",
+            "11": "'buy your ticket in advance on the WestfordGo app and save 10%.'",
+            "12": "The text says buses 'will stop in Market Square instead of at the Bus Station' but says nothing about where the shops are.",
+            "13": "'Folding bicycles may be carried on board.' Only folding bicycles are allowed.",
+            "14": "'Items handed to drivers are kept at the Northgate kiosk for seven days and are then sent to the City Council office'."
+          }
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "part": 2,
+      "title": "Brookfield Logistics – Staff Handbook",
+      "subtitle": "Section 4: Holidays and absence",
+      "paragraphs": [
+        { "label": "", "text": "4.1 Holiday entitlement – Full-time employees are entitled to 28 days' paid holiday per year, including bank holidays. Part-time staff receive a pro-rata amount based on their contracted hours. The holiday year runs from 1 April to 31 March. After five years of continuous service, you will receive one additional day per year, up to a maximum of 32 days." },
+        { "label": "", "text": "4.2 Booking holidays – All requests must be submitted through the online HR portal. Requests for a period of more than one week must be made at least four weeks in advance. Your line manager will normally respond within five working days. Please note that during our peak period, from 15 November to 31 December, no more than two members of each team may be on leave at the same time, and requests are dealt with on a first-come, first-served basis." },
+        { "label": "", "text": "4.3 Carrying over holiday – You may carry up to five unused days into the next holiday year, provided that they are taken by the end of June. Any days not used by then will be lost. In exceptional circumstances, such as long-term illness, the HR department may agree to extend this deadline." },
+        { "label": "", "text": "4.4 Reporting sickness – If you are unable to come to work because of illness, you must telephone your line manager – please do not send a text message or email – no later than one hour before your shift is due to begin. If your manager is unavailable, call the duty supervisor instead. For absences of up to seven calendar days, you will be asked to complete a self-certification form when you return. For longer absences, a fit note from your doctor is required." },
+        { "label": "", "text": "4.5 Other leave – Employees may take up to two days of paid compassionate leave following the death of a close family member. Medical and dental appointments should, wherever possible, be arranged outside working hours or at the very start or end of a shift." }
+      ],
+      "groups": [
+        {
+          "type": "gap",
+          "from": 15,
+          "to": 21,
+          "layout": "notes",
+          "instructions": "Complete the notes below. Choose NO MORE THAN TWO WORDS AND/OR A NUMBER from the text for each answer.",
+          "limit": "NO MORE THAN TWO WORDS AND/OR A NUMBER",
+          "title": "Holidays and sickness at Brookfield Logistics",
+          "lines": [
+            "# Holidays",
+            "- Full-time staff: 28 days a year – this total includes {{15}}",
+            "- Long service: one extra day a year after five years, up to {{16}} days in total",
+            "- Book holidays through the online {{17}}",
+            "- Holidays longer than a week: apply at least {{18}} beforehand",
+            "- 15 Nov – 31 Dec: only two people from each {{19}} can be away at once",
+            "- Up to five unused days can be carried over but must be taken by the end of {{20}}",
+            "# Sickness",
+            "- Phone line manager at least one hour before your {{21}} starts"
+          ],
+          "answers": {
+            "15": ["bank holidays"],
+            "16": ["32", "thirty-two", "thirty two"],
+            "17": ["HR portal"],
+            "18": ["four weeks", "4 weeks"],
+            "19": ["team"],
+            "20": ["June"],
+            "21": ["shift"]
+          },
+          "explain": {
+            "15": "4.1: 'entitled to 28 days' paid holiday per year, including bank holidays.'",
+            "16": "4.1: 'one additional day per year, up to a maximum of 32 days.'",
+            "17": "4.2: 'All requests must be submitted through the online HR portal.'",
+            "18": "4.2: 'Requests for a period of more than one week must be made at least four weeks in advance.'",
+            "19": "4.2: 'no more than two members of each team may be on leave at the same time'.",
+            "20": "4.3: 'provided that they are taken by the end of June.'",
+            "21": "4.4: 'no later than one hour before your shift is due to begin.'"
+          }
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "part": 2,
+      "title": "The Brookfield Training Fund – Guidance for Employees",
+      "paragraphs": [
+        { "label": "", "text": "Who can apply – The Training Fund is open to all permanent employees who have completed their probation period. Temporary and agency staff are not eligible for funding, although they are welcome to attend our free in-house workshops." },
+        { "label": "", "text": "What the fund covers – The fund will contribute up to £1,500 per employee in any twelve-month period towards courses that are relevant to your current role, or to a role you could reasonably progress to within the company. This can include course fees, examination fees and essential textbooks. It does not cover travel, accommodation or meals. Priority is given to courses leading to a recognised qualification, such as a forklift licence, a project management certificate or an accounting qualification." },
+        { "label": "", "text": "How to apply – First, discuss the course with your line manager, who must sign the application form to confirm that the training is relevant to your work. Then send the completed form, together with details of the course provider and the costs involved, to the Learning and Development team. Applications are considered by a panel that meets on the first Tuesday of each month, and you will be informed of the decision in writing within ten days of the meeting." },
+        { "label": "", "text": "Study leave – Employees taking an approved course may be granted up to five days of paid study leave per year to prepare for and sit examinations. Any additional time off must be taken as unpaid leave or as part of your annual holiday." },
+        { "label": "", "text": "Repayment – If you leave the company within one year of completing a course paid for by the fund, you will be asked to repay the full cost. If you leave between one and two years after completion, you will be asked to repay half. No repayment is required if you have been made redundant." },
+        { "label": "", "text": "Further help – The Learning and Development team holds drop-in sessions every Thursday lunchtime in the staff canteen for anyone who would like advice on choosing a suitable course." }
+      ],
+      "groups": [
+        {
+          "type": "mcq",
+          "from": 22,
+          "to": 24,
+          "instructions": "Choose the correct letter, A, B, C or D.",
+          "questions": [
+            {
+              "n": 22,
+              "stem": "Who can receive money from the Training Fund?",
+              "options": [
+                { "key": "A", "text": "any member of staff, including temporary workers" },
+                { "key": "B", "text": "permanent staff who have finished their probation period" },
+                { "key": "C", "text": "agency staff who have attended an in-house workshop" },
+                { "key": "D", "text": "only staff who are applying for a more senior role" }
+              ],
+              "answer": "B"
+            },
+            {
+              "n": 23,
+              "stem": "Which of the following costs can the fund pay for?",
+              "options": [
+                { "key": "A", "text": "a hotel room near the training centre" },
+                { "key": "B", "text": "train tickets to the college" },
+                { "key": "C", "text": "the fee for taking an exam" },
+                { "key": "D", "text": "lunch on the days of the course" }
+              ],
+              "answer": "C"
+            },
+            {
+              "n": 24,
+              "stem": "An employee resigns eighteen months after completing a funded course. What will they have to do?",
+              "options": [
+                { "key": "A", "text": "repay the whole cost of the course" },
+                { "key": "B", "text": "repay 50% of the cost of the course" },
+                { "key": "C", "text": "repay only the cost of the textbooks" },
+                { "key": "D", "text": "repay nothing at all" }
+              ],
+              "answer": "B"
+            }
+          ],
+          "explain": {
+            "22": "'The Training Fund is open to all permanent employees who have completed their probation period. Temporary and agency staff are not eligible'. D is wrong: courses may be relevant to 'your current role'.",
+            "23": "'This can include course fees, examination fees and essential textbooks. It does not cover travel, accommodation or meals.'",
+            "24": "Eighteen months is between one and two years: 'If you leave between one and two years after completion, you will be asked to repay half.'"
+          }
+        },
+        {
+          "type": "gap",
+          "from": 25,
+          "to": 27,
+          "layout": "short",
+          "instructions": "Answer the questions below. Choose NO MORE THAN THREE WORDS from the text for each answer.",
+          "limit": "NO MORE THAN THREE WORDS",
+          "lines": [
+            "Who has to sign the application form? {{25}}",
+            "On which day does the panel meet to consider applications? {{26}}",
+            "Where are the weekly advice sessions held? {{27}}"
+          ],
+          "answers": {
+            "25": ["line manager", "your line manager"],
+            "26": ["Tuesday", "first Tuesday", "the first Tuesday"],
+            "27": ["staff canteen", "the staff canteen", "canteen"]
+          },
+          "explain": {
+            "25": "'discuss the course with your line manager, who must sign the application form'.",
+            "26": "'a panel that meets on the first Tuesday of each month'.",
+            "27": "'drop-in sessions every Thursday lunchtime in the staff canteen'."
+          }
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "part": 3,
+      "title": "Fixing the Throwaway Habit",
+      "subtitle": "Why repair cafés are springing up in towns across Britain",
+      "paragraphs": [
+        { "label": "A", "text": "On a wet Saturday morning in the market town of Kelbridge, a queue has formed outside the church hall well before the doors open at ten. People are holding toasters, table lamps, a torn winter coat, a child's scooter and an old radio that stopped working some years ago. Inside, around twenty volunteers sit at long tables covered with screwdrivers, sewing machines and soldering irons. This is Kelbridge Repair Café, which opened four years ago and now takes place on the second Saturday of every month. Nobody is charged for a repair, although a donations jar by the door helps to cover the cost of tea, biscuits and the occasional replacement part." },
+        { "label": "B", "text": "The idea of holding free community repair events is usually traced back to the Netherlands in the late 2000s, and it has since spread to many countries. There are now several hundred repair cafés in the United Kingdom alone, run in libraries, village halls and community centres. Organisers say the strength of the model lies in its simplicity: all that is needed is a room, some tables, a few basic tools and people who are willing to share what they know. Most cafés belong to informal networks, which provide free guidance on practical matters such as insurance, safety checks and finding volunteers." },
+        { "label": "C", "text": "Supporters of the movement argue that it is a response to a deeper problem. For several decades, a great deal of household equipment has been designed to be replaced rather than repaired. Cases are often glued instead of screwed together, spare parts can be difficult to obtain, and printed instructions are rarely supplied. At the same time, the price of new electrical goods has fallen steadily, so paying a professional to fix an inexpensive kettle or hairdryer has made little financial sense. As demand dropped, many high-street repair shops closed. The result, critics say, is that a whole generation has grown up without the basic skills, or the confidence, to mend everyday objects." },
+        { "label": "D", "text": "The organisers in Kelbridge are keen to stress that they are not simply offering a free repair service. Visitors are expected to sit beside the volunteer and watch, and if possible to help with the work themselves. 'If someone goes home knowing how to change a fuse or replace a broken zip, that's worth more than the repair itself,' says Jean Talbot, a retired electrician who coordinates the volunteers. Several people who first came with a broken appliance have since returned to join the team, bringing skills of their own, from knitting to bicycle maintenance." },
+        { "label": "E", "text": "Not every item can be saved, however. The Kelbridge team keeps a simple record of each visit, and roughly two thirds of the items brought in leave in working order. Clothing and bicycles have the highest success rates, while laptops and mobile phones have the lowest. This is partly because these devices often require specialist tools and parts, and partly because owners are worried about their personal data being seen. For safety reasons, volunteers will not work on gas appliances or microwave ovens, and any item with a damaged mains cable is only tested once the cable has been replaced." },
+        { "label": "F", "text": "Researchers who have studied community repair suggest that the social side of these events matters as much as the practical one. For older visitors who live alone, a monthly repair café may be one of the few regular opportunities to spend time with other people. For younger volunteers, it can provide hands-on experience that is valued by employers, particularly in technical trades. One small study carried out by a university in the north of England found that more than half of the regular visitors interviewed said they had made new friends through their local café." },
+        { "label": "G", "text": "Campaigners also hope that the movement will encourage manufacturers and governments to make repair easier. In recent years, new rules in the UK and the European Union have required the makers of certain household appliances to keep spare parts available for a number of years after a product is sold. Supporters welcome these changes but argue that they should apply to a wider range of goods, and point out that some parts are still sold only to professional repairers rather than to the public. Jean Talbot, for her part, has modest expectations. 'We are not going to save the planet one toaster at a time,' she says. 'But everyone who walks out of here with something they have mended starts to think differently about what they buy next.'" }
+      ],
+      "groups": [
+        {
+          "type": "matching",
+          "from": 28,
+          "to": 34,
+          "instructions": "The text has seven paragraphs, A–G. Choose the correct heading for each paragraph from the list of headings below.",
+          "optionsTitle": "List of Headings",
+          "reuse": false,
+          "options": [
+            { "key": "i", "text": "Benefits that go beyond mending" },
+            { "key": "ii", "text": "Pressure for change on a larger scale" },
+            { "key": "iii", "text": "The appeal of an uncomplicated approach" },
+            { "key": "iv", "text": "How local councils pay for repair events" },
+            { "key": "v", "text": "Teaching people rather than doing the work for them" },
+            { "key": "vi", "text": "A monthly gathering in a market town" },
+            { "key": "vii", "text": "Why repairing things stopped being common" },
+            { "key": "viii", "text": "Disagreement among volunteers about safety" },
+            { "key": "ix", "text": "Limits on what can be fixed" },
+            { "key": "x", "text": "The qualifications needed to become a volunteer" }
+          ],
+          "items": [
+            { "n": 28, "text": "Paragraph A", "answer": "vi" },
+            { "n": 29, "text": "Paragraph B", "answer": "iii" },
+            { "n": 30, "text": "Paragraph C", "answer": "vii" },
+            { "n": 31, "text": "Paragraph D", "answer": "v" },
+            { "n": 32, "text": "Paragraph E", "answer": "ix" },
+            { "n": 33, "text": "Paragraph F", "answer": "i" },
+            { "n": 34, "text": "Paragraph G", "answer": "ii" }
+          ],
+          "explain": {
+            "28": "A describes the Kelbridge event: 'in the market town of Kelbridge … now takes place on the second Saturday of every month.' It is funded by a donations jar, not by a council (iv).",
+            "29": "B: 'Organisers say the strength of the model lies in its simplicity: all that is needed is a room, some tables, a few basic tools'.",
+            "30": "C explains the decline: equipment 'designed to be replaced rather than repaired', cheaper new goods, and 'many high-street repair shops closed'.",
+            "31": "D: 'they are not simply offering a free repair service. Visitors are expected to sit beside the volunteer and watch, and if possible to help'.",
+            "32": "E: 'Not every item can be saved' – success rates vary, and volunteers 'will not work on gas appliances or microwave ovens'.",
+            "33": "F: 'the social side of these events matters as much as the practical one' – company for older people, experience for young volunteers, new friends.",
+            "34": "G: campaigners 'hope that the movement will encourage manufacturers and governments to make repair easier' and want rules for 'a wider range of goods'."
+          }
+        },
+        {
+          "type": "gap",
+          "from": 35,
+          "to": 38,
+          "layout": "sentences",
+          "instructions": "Complete the sentences below. Choose NO MORE THAN TWO WORDS from the text for each answer.",
+          "limit": "NO MORE THAN TWO WORDS",
+          "lines": [
+            "Refreshments and some parts at the Kelbridge café are partly paid for by money left in a {{35}}.",
+            "Many products are hard to repair because their cases are {{36}} rather than screwed together.",
+            "Some people who first came to the café as visitors have since come back to join the {{37}}.",
+            "Laptops and phones are repaired less often, partly because owners are concerned about their {{38}}."
+          ],
+          "answers": {
+            "35": ["donations jar", "jar"],
+            "36": ["glued"],
+            "37": ["team"],
+            "38": ["personal data", "data"]
+          },
+          "explain": {
+            "35": "A: 'a donations jar by the door helps to cover the cost of tea, biscuits and the occasional replacement part.'",
+            "36": "C: 'Cases are often glued instead of screwed together'.",
+            "37": "D: 'Several people who first came with a broken appliance have since returned to join the team'.",
+            "38": "E: 'partly because owners are worried about their personal data being seen.'"
+          }
+        },
+        {
+          "type": "mcq",
+          "from": 39,
+          "to": 40,
+          "instructions": "Choose the correct letter, A, B, C or D.",
+          "questions": [
+            {
+              "n": 39,
+              "stem": "What did the study mentioned in paragraph F find?",
+              "options": [
+                { "key": "A", "text": "Most volunteers at repair cafés are young people looking for work." },
+                { "key": "B", "text": "Over half of the regular visitors interviewed had made friends at their café." },
+                { "key": "C", "text": "Older visitors bring more items for repair than younger ones." },
+                { "key": "D", "text": "Employers prefer to recruit people who have volunteered at a repair café." }
+              ],
+              "answer": "B"
+            },
+            {
+              "n": 40,
+              "stem": "What is Jean Talbot's view in the final paragraph?",
+              "options": [
+                { "key": "A", "text": "Repair cafés will solve many environmental problems." },
+                { "key": "B", "text": "The new rules on spare parts are unnecessary." },
+                { "key": "C", "text": "The cafés' effect is small, but they change how people think about buying." },
+                { "key": "D", "text": "She is disappointed that so few visitors learn to repair things." }
+              ],
+              "answer": "C"
+            }
+          ],
+          "explain": {
+            "39": "F: 'found that more than half of the regular visitors interviewed said they had made new friends through their local café.' The study says nothing about A, C or D.",
+            "40": "G: 'We are not going to save the planet one toaster at a time … But everyone who walks out of here with something they have mended starts to think differently about what they buy next.'"
+          }
+        }
+      ]
+    }
+  ]
+}

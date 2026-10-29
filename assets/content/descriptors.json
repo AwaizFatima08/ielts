@@ -1,0 +1,152 @@
+{
+  "writing1": [
+    {
+      "id": "TA",
+      "name": "Task achievement",
+      "bands": {
+        "9": "You cover everything the task asks for in a fully developed way. The overview is clear and insightful, and every key feature is selected, described and compared accurately.",
+        "8": "You cover all parts of the task. Your overview clearly states the main trends or differences, and the key features are well chosen, clearly presented and supported with accurate figures. Only very minor details are missing.",
+        "7": "You cover the requirements of the task and include a clear overview of the main trends or stages. Key features are highlighted and supported, though some could be developed or compared more fully.",
+        "6": "You address the task and select relevant information, and there is an overview, though it may not be fully clear. Some key features are covered too briefly or details are slightly inaccurate or not well chosen.",
+        "5": "You address the task only partly. There may be no clear overview, you list details mechanically without comparing them, or some figures are inaccurate. Key features are not adequately covered.",
+        "4": "You try to address the task but miss key features, misread the information or confuse the details. There is no overview, and the response may be repetitive or too short."
+      }
+    },
+    {
+      "id": "CC",
+      "name": "Coherence and cohesion",
+      "bands": {
+        "9": "Your writing is so easy to follow that the reader never notices the structure. Ideas flow naturally, paragraphs are perfectly judged, and linking is used with complete control.",
+        "8": "Ideas are in a clear, logical order and each paragraph has a clear purpose. Linking words, pronouns and synonyms connect sentences smoothly; only occasionally is a link slightly awkward.",
+        "7": "Your text is well organised and moves forward logically. You use a range of linking devices, though some are used a little too often or not quite correctly. Each paragraph has a clear central idea.",
+        "6": "The reader can follow your text overall, but some links between sentences are mechanical, repeated or faulty. Paragraphs are used, though not always logically, and it is sometimes unclear what 'this' or 'it' refers to.",
+        "5": "There is some organisation, but the overall progression is hard to follow in places. Linking words are limited, overused or wrong, and paragraphs may be missing or poorly divided.",
+        "4": "Ideas are not arranged in a logical order and the reader has to work hard to follow them. Only a few basic linking words are used, often incorrectly, and there may be no clear paragraphs."
+      }
+    },
+    {
+      "id": "LR",
+      "name": "Lexical resource",
+      "bands": {
+        "9": "You use a wide range of vocabulary naturally and precisely, like a skilled writer. Errors are extremely rare and look like slips rather than gaps in knowledge.",
+        "8": "You use a wide range of words fluently and flexibly to express exact meanings, including less common words and natural collocations. There are only occasional small errors in word choice or spelling.",
+        "7": "You have enough vocabulary to be flexible and reasonably precise, and you use some less common words and collocations with awareness of style. There are some errors in word choice, collocation or spelling, but they do not cause confusion.",
+        "6": "Your vocabulary is adequate for the task, and you attempt some less common words, though not always accurately. Spelling or word-formation errors appear but the meaning is still clear.",
+        "5": "Your vocabulary is limited and repetitive, just enough for the task. Noticeable errors in spelling and word forms sometimes make the reader stop and think.",
+        "4": "You rely on basic, repeated vocabulary that may not suit the task. Frequent errors in word choice, spelling and word form often confuse the reader."
+      }
+    },
+    {
+      "id": "GRA",
+      "name": "Grammatical range and accuracy",
+      "bands": {
+        "9": "You use a full range of sentence structures with complete naturalness and control. Errors are almost impossible to find.",
+        "8": "You use a wide variety of structures, and most sentences contain no errors at all. Any mistakes are rare and minor.",
+        "7": "You use a mix of simple and complex sentences, and many of your sentences are completely correct. Grammar and punctuation are generally well controlled, with a few errors.",
+        "6": "You use both simple and complex sentences, but complex ones often contain errors. Mistakes in grammar and punctuation are noticeable, though they rarely make your meaning unclear.",
+        "5": "You use a limited range of structures. Complex sentences are attempted but are usually less accurate than simple ones, and frequent errors may make the reader work harder.",
+        "4": "You use mainly simple sentences and very few complex ones. Errors are frequent, punctuation is often faulty, and some sentences are hard to understand."
+      }
+    }
+  ],
+  "writing2": [
+    {
+      "id": "TR",
+      "name": "Task response",
+      "bands": {
+        "9": "You answer every part of the question fully and directly. Your position is clear and consistent throughout, and your ideas are relevant, well developed and convincingly supported.",
+        "8": "You answer all parts of the question well. Your position is clear from beginning to end, and your main ideas are relevant, extended and supported with good examples. Any weaknesses are small.",
+        "7": "You address all parts of the question and keep a clear position throughout. Your main ideas are developed and supported, though some may be a little too general or not taken far enough.",
+        "6": "You address all parts of the question, though some more fully than others. Your position is present but may become unclear in places, and some ideas are not fully developed or supported.",
+        "5": "You address the question only partly, or your position is not always clear. Ideas are limited, not well developed, or repetitive, and some may be off-topic. The conclusion may be missing.",
+        "4": "You respond to the question in a minimal way or only partly answer it. Your position is hard to identify, and ideas are few, unclear or not relevant."
+      }
+    },
+    {
+      "id": "CC",
+      "name": "Coherence and cohesion",
+      "bands": {
+        "9": "Your writing is so easy to follow that the reader never notices the structure. Ideas flow naturally, paragraphs are perfectly judged, and linking is used with complete control.",
+        "8": "Ideas are in a clear, logical order and each paragraph has a clear purpose. Linking words, pronouns and synonyms connect sentences smoothly; only occasionally is a link slightly awkward.",
+        "7": "Your text is well organised and moves forward logically. You use a range of linking devices, though some are used a little too often or not quite correctly. Each paragraph has a clear central idea.",
+        "6": "The reader can follow your text overall, but some links between sentences are mechanical, repeated or faulty. Paragraphs are used, though not always logically, and it is sometimes unclear what 'this' or 'it' refers to.",
+        "5": "There is some organisation, but the overall progression is hard to follow in places. Linking words are limited, overused or wrong, and paragraphs may be missing or poorly divided.",
+        "4": "Ideas are not arranged in a logical order and the reader has to work hard to follow them. Only a few basic linking words are used, often incorrectly, and there may be no clear paragraphs."
+      }
+    },
+    {
+      "id": "LR",
+      "name": "Lexical resource",
+      "bands": {
+        "9": "You use a wide range of vocabulary naturally and precisely, like a skilled writer. Errors are extremely rare and look like slips rather than gaps in knowledge.",
+        "8": "You use a wide range of words fluently and flexibly to express exact meanings, including less common words and natural collocations. There are only occasional small errors in word choice or spelling.",
+        "7": "You have enough vocabulary to be flexible and reasonably precise, and you use some less common words and collocations with awareness of style. There are some errors in word choice, collocation or spelling, but they do not cause confusion.",
+        "6": "Your vocabulary is adequate for the task, and you attempt some less common words, though not always accurately. Spelling or word-formation errors appear but the meaning is still clear.",
+        "5": "Your vocabulary is limited and repetitive, just enough for the task. Noticeable errors in spelling and word forms sometimes make the reader stop and think.",
+        "4": "You rely on basic, repeated vocabulary that may not suit the task. Frequent errors in word choice, spelling and word form often confuse the reader."
+      }
+    },
+    {
+      "id": "GRA",
+      "name": "Grammatical range and accuracy",
+      "bands": {
+        "9": "You use a full range of sentence structures with complete naturalness and control. Errors are almost impossible to find.",
+        "8": "You use a wide variety of structures, and most sentences contain no errors at all. Any mistakes are rare and minor.",
+        "7": "You use a mix of simple and complex sentences, and many of your sentences are completely correct. Grammar and punctuation are generally well controlled, with a few errors.",
+        "6": "You use both simple and complex sentences, but complex ones often contain errors. Mistakes in grammar and punctuation are noticeable, though they rarely make your meaning unclear.",
+        "5": "You use a limited range of structures. Complex sentences are attempted but are usually less accurate than simple ones, and frequent errors may make the reader work harder.",
+        "4": "You use mainly simple sentences and very few complex ones. Errors are frequent, punctuation is often faulty, and some sentences are hard to understand."
+      }
+    }
+  ],
+  "speaking": [
+    {
+      "id": "FC",
+      "name": "Fluency and coherence",
+      "bands": {
+        "9": "You speak effortlessly and naturally, with almost no hesitation. Any pauses are to think about ideas, not to search for words, and your answers are fully developed and perfectly connected.",
+        "8": "You speak at length with ease. You only rarely repeat yourself or correct yourself, any hesitation is usually about content, and you develop answers logically and fully.",
+        "7": "You can keep talking at length without obvious effort. Sometimes you hesitate or repeat words while searching for language, but you connect ideas well with a range of linking words.",
+        "6": "You are willing to speak at length, but you sometimes lose fluency through repetition, self-correction or hesitation. You use linking words, though not always appropriately.",
+        "5": "You can usually keep going, but you rely on repetition, self-correction and slow speech to do so. Simple speech is fluent, but more complex ideas cause long pauses, and linking is basic.",
+        "4": "You cannot answer without noticeable pauses and may speak slowly. Linking is limited to simple words like 'and' and 'because', and some answers break down."
+      }
+    },
+    {
+      "id": "LR",
+      "name": "Lexical resource",
+      "bands": {
+        "9": "You use vocabulary on every topic with complete flexibility and precision, including idiomatic language, naturally and accurately.",
+        "8": "You use a wide range of vocabulary easily to express precise meanings, including less common and idiomatic words, with only occasional slips. You paraphrase effectively.",
+        "7": "You talk about a variety of topics flexibly, using some less common and idiomatic vocabulary with some awareness of style, though there are some inappropriate choices. You paraphrase well.",
+        "6": "You have enough vocabulary to discuss topics at length and make your meaning clear, despite some unsuitable word choices. You can usually paraphrase successfully.",
+        "5": "You can talk about familiar and unfamiliar topics, but with limited flexibility. You try to paraphrase, with mixed success.",
+        "4": "You can talk about familiar topics but only express basic meanings on unfamiliar ones. Word choice errors are frequent and you rarely try to paraphrase."
+      }
+    },
+    {
+      "id": "GRA",
+      "name": "Grammatical range and accuracy",
+      "bands": {
+        "9": "You use a full range of structures naturally and appropriately, and your speech is consistently accurate apart from the slips any native speaker makes.",
+        "8": "You use a wide range of structures flexibly. Most sentences are error-free, with only occasional mistakes or basic slips.",
+        "7": "You use a range of complex structures with some flexibility. Many sentences are error-free, although some grammatical mistakes remain.",
+        "6": "You use a mix of simple and complex structures, but with limited flexibility. You make frequent mistakes with complex structures, but they rarely cause misunderstanding.",
+        "5": "You produce basic sentence forms with reasonable accuracy and use a few complex structures, but these usually contain errors that may cause some difficulty for the listener.",
+        "4": "You produce basic sentences and some correct simple sentences, but complex structures are rare. Errors are frequent and may lead to misunderstanding."
+      }
+    },
+    {
+      "id": "P",
+      "name": "Pronunciation",
+      "bands": {
+        "9": "You use the full range of pronunciation features with precision and subtlety. You are effortless to understand throughout, whatever your accent.",
+        "8": "You use a wide range of pronunciation features — stress, rhythm, intonation and linking — and you are easy to understand throughout. Your accent has very little effect on clarity, with only occasional lapses.",
+        "7": "You are easy to understand nearly all the time. You use word stress, sentence stress and intonation well in most of your speech, though control slips now and then, especially in longer or more complex answers.",
+        "6": "You use a range of pronunciation features with mixed control. You can generally be understood, though some words or sounds are unclear at times and reduce clarity.",
+        "5": "You can mostly be understood, but some words and sounds are regularly unclear, and the listener sometimes has to ask or guess. You use some stress and intonation, but not consistently.",
+        "4": "You use a limited range of pronunciation features. Mispronounced words are frequent, and the listener often has to work hard to understand you."
+      }
+    }
+  ]
+}

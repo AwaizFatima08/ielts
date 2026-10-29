@@ -1,0 +1,120 @@
+{
+  "id": "r-ynng",
+  "skill": "reading",
+  "title": "Yes / No / Not Given",
+  "guide": [
+    {
+      "h": "What it tests"
+    },
+    {
+      "p": "YES / NO / NOT GIVEN questions ask about the writer's views or claims, not plain facts. They appear with passages that argue a point: reviews, opinion articles, discussions of research."
+    },
+    {
+      "bullets": [
+        "YES: the writer holds this view.",
+        "NO: the writer holds the opposite view.",
+        "NOT GIVEN: the writer does not say what they think about this."
+      ]
+    },
+    {
+      "h": "Finding the writer's voice"
+    },
+    {
+      "bullets": [
+        "Opinion signals: I believe, in my view, it is clear that, this is simply, worth, unfortunately, should, must.",
+        "Evaluative adjectives and adverbs: unrealistic, convincing, sadly, rightly, surprisingly.",
+        "Other people's views reported by the writer ('supporters claim…', 'critics argue…') are not the writer's own opinion. Read on to see whether the writer agrees.",
+        "Concession words (that said, admittedly, however) often introduce the writer's real position."
+      ]
+    },
+    {
+      "example": "Passage: 'Some argue that homework improves discipline; I see little evidence for this.' Statement: 'Homework improves discipline.' → NO (the writer disagrees with the claim)."
+    },
+    {
+      "tip": "Strong statements (all, always, immediately, should never) are often NO when the writer is cautious and balanced."
+    }
+  ],
+  "drill": {
+    "script": null,
+    "passage": {
+      "title": "Is four days enough?",
+      "paragraphs": [
+        {
+          "label": "",
+          "text": "Few workplace ideas have spread as quickly as the four-day week. Trials in several countries have reported happier staff and, in many cases, no fall in output. It is easy to see why the idea is popular, and I believe that, for many office-based organisations, it deserves to be taken seriously."
+        },
+        {
+          "label": "",
+          "text": "The strongest argument is not about leisure but about focus. Most office workers lose hours every week to unnecessary meetings and constant messages. When a team has only four days, it is forced to remove these distractions, and in my view this discipline is worth more than the extra day off itself."
+        },
+        {
+          "label": "",
+          "text": "That said, supporters sometimes claim that the model would work in every sector. This is simply unrealistic. A hospital ward or a bus route needs people present at fixed times, and a shorter week there would mean hiring more staff, not working more efficiently. Pretending otherwise damages the credibility of the whole movement."
+        },
+        {
+          "label": "",
+          "text": "Another concern is that the results of the trials may have been too positive. Companies volunteered to take part, which means they were probably already well managed and enthusiastic. We cannot assume that a reluctant firm would see the same benefits. I would like to see larger studies that include organisations chosen at random before governments change any laws."
+        },
+        {
+          "label": "",
+          "text": "Finally, there is the question of pay. Some firms have introduced a four-day week by asking employees to work four longer days, while others have cut salaries. Neither of these is a genuine four-day week, and workers should be cautious about schemes that simply squeeze the same hours into fewer days."
+        }
+      ]
+    },
+    "groups": [
+      {
+        "type": "tfng",
+        "variant": "ynng",
+        "from": 1,
+        "to": 7,
+        "instructions": "Do the following statements agree with the views of the writer in the reading passage? Write YES if the statement agrees with the views of the writer, NO if the statement contradicts the views of the writer, NOT GIVEN if it is impossible to say what the writer thinks about this.",
+        "questions": [
+          {
+            "n": 1,
+            "text": "Many office-based employers should give serious thought to a four-day week.",
+            "answer": "YES"
+          },
+          {
+            "n": 2,
+            "text": "The greatest benefit of a four-day week is the extra free time.",
+            "answer": "NO"
+          },
+          {
+            "n": 3,
+            "text": "A four-day week could be introduced easily in hospitals.",
+            "answer": "NO"
+          },
+          {
+            "n": 4,
+            "text": "Most of the trials took place in technology companies.",
+            "answer": "NOT GIVEN"
+          },
+          {
+            "n": 5,
+            "text": "The firms that took part in the trials may not be typical of all businesses.",
+            "answer": "YES"
+          },
+          {
+            "n": 6,
+            "text": "Governments should change working-time laws as soon as possible.",
+            "answer": "NO"
+          },
+          {
+            "n": 7,
+            "text": "Employees who work four longer days usually become less productive.",
+            "answer": "NOT GIVEN"
+          }
+        ],
+        "explain": {
+          "1": "'I believe that, for many office-based organisations, it deserves to be taken seriously.'",
+          "2": "'The strongest argument is not about leisure but about focus … this discipline is worth more than the extra day off itself.'",
+          "3": "The writer calls the claim that it would work in every sector 'simply unrealistic' and says a hospital ward would need 'hiring more staff'.",
+          "4": "The passage mentions office-based organisations but never says which industries the trials were in.",
+          "5": "'Companies volunteered … they were probably already well managed and enthusiastic. We cannot assume that a reluctant firm would see the same benefits.'",
+          "6": "The writer wants 'larger studies … before governments change any laws', so they disagree with changing the law quickly.",
+          "7": "The writer says these schemes are not a 'genuine' four-day week, but says nothing about the productivity of people who work longer days."
+        }
+      }
+    ]
+  }
+}

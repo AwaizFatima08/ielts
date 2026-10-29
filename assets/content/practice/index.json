@@ -1,0 +1,262 @@
+{
+  "units": [
+    {
+      "id": "test-overview",
+      "skill": "test-overview",
+      "title": "The IELTS test at a glance",
+      "summary": "Format and timing of all four sections, Academic vs General Training, paper vs computer, how bands are calculated, and test-day tips."
+    },
+    {
+      "id": "l-form-notes",
+      "skill": "listening",
+      "title": "Form and note completion",
+      "summary": "Fill in forms and notes from everyday conversations: predict the answer type and listen for corrections."
+    },
+    {
+      "id": "l-mcq",
+      "skill": "listening",
+      "title": "Multiple choice",
+      "summary": "Single-answer and choose-TWO questions: paraphrase, rejected options and how to read the options in time."
+    },
+    {
+      "id": "l-matching",
+      "skill": "listening",
+      "title": "Matching",
+      "summary": "Match people, places or days to a list of options while the speaker changes plans."
+    },
+    {
+      "id": "l-maps",
+      "skill": "listening",
+      "title": "Map and plan labelling",
+      "summary": "Follow directions on a map or floor plan: orientation, position language and how to track the speaker."
+    },
+    {
+      "id": "l-sentence-summary",
+      "skill": "listening",
+      "title": "Sentence and summary completion",
+      "summary": "Complete sentences and summaries from a lecture: grammar clues, synonyms and word limits."
+    },
+    {
+      "id": "l-spelling-numbers",
+      "skill": "listening",
+      "title": "Spelling, numbers and dates",
+      "summary": "Letters, phone numbers, postcodes, dates and times — the details that lose easy marks in Part 1."
+    },
+    {
+      "id": "l-distractors",
+      "skill": "listening",
+      "title": "Distractors and signposting",
+      "summary": "Recognise corrections, changed plans and the signpost words that tell you where a speaker is going."
+    },
+    {
+      "id": "r-tfng",
+      "skill": "reading",
+      "title": "True / False / Not Given",
+      "summary": "Decide whether statements match the facts in a passage — and learn the real difference between FALSE and NOT GIVEN."
+    },
+    {
+      "id": "r-ynng",
+      "skill": "reading",
+      "title": "Yes / No / Not Given",
+      "summary": "Identify the writer's opinions and claims in argumentative passages."
+    },
+    {
+      "id": "r-headings",
+      "skill": "reading",
+      "title": "Matching headings",
+      "summary": "Choose the heading that sums up the main idea of each paragraph."
+    },
+    {
+      "id": "r-matching-info",
+      "skill": "reading",
+      "title": "Matching information",
+      "summary": "Find which paragraph contains a specific piece of information — a skill of fast, careful scanning."
+    },
+    {
+      "id": "r-matching-features",
+      "skill": "reading",
+      "title": "Matching features",
+      "summary": "Match statements to people, places, dates or categories described in a passage."
+    },
+    {
+      "id": "r-sentence-endings",
+      "skill": "reading",
+      "title": "Matching sentence endings",
+      "summary": "Complete sentences by choosing the ending that matches both the meaning and the grammar."
+    },
+    {
+      "id": "r-mcq",
+      "skill": "reading",
+      "title": "Multiple choice",
+      "summary": "Single-answer and choose-TWO questions: find the evidence before you look at the options."
+    },
+    {
+      "id": "r-completion",
+      "skill": "reading",
+      "title": "Summary, note, table and flow-chart completion",
+      "summary": "Fill gaps with words from the passage or from a word list, keeping to the word limit."
+    },
+    {
+      "id": "r-diagram-short",
+      "skill": "reading",
+      "title": "Diagram labelling and short-answer questions",
+      "summary": "Label parts of a device or process and answer short questions within the word limit."
+    },
+    {
+      "id": "r-skim-scan",
+      "skill": "reading",
+      "title": "Skimming, scanning and time management",
+      "summary": "Read fast for the gist, find details in seconds and divide your 60 minutes across three sections."
+    },
+    {
+      "id": "r-general-training",
+      "skill": "reading",
+      "title": "General Training Reading",
+      "summary": "How the GT Reading paper differs: notices, adverts, workplace documents and one longer text."
+    },
+    {
+      "id": "w-task1-overview",
+      "skill": "writing",
+      "title": "Academic Task 1: the essentials",
+      "summary": "What examiners look for in a Task 1 report, the four-paragraph structure, and how to write a strong overview."
+    },
+    {
+      "id": "w-task1-charts",
+      "skill": "writing",
+      "title": "Academic Task 1: bar charts, pie charts and tables",
+      "summary": "How to describe and compare static and changing data in bar charts, pie charts and tables, with model answers."
+    },
+    {
+      "id": "w-task1-process-map",
+      "skill": "writing",
+      "title": "Academic Task 1: processes and maps",
+      "summary": "Describe stages in a process and changes on a map, with sequencing and location language and two model answers."
+    },
+    {
+      "id": "w-task1-language",
+      "skill": "writing",
+      "title": "Task 1 language: change and comparison",
+      "summary": "Verbs, nouns, adverbs and comparison structures for describing trends and differences accurately."
+    },
+    {
+      "id": "w-gt-letters",
+      "skill": "writing",
+      "title": "General Training Task 1: letters",
+      "summary": "Formal, semi-formal and informal letters: choosing the tone, covering the three bullet points, and useful phrases."
+    },
+    {
+      "id": "w-task2-opinion-discussion",
+      "skill": "writing",
+      "title": "Task 2: opinion and discussion essays",
+      "summary": "Plan and write 'To what extent do you agree?' and 'Discuss both views' essays with a clear position."
+    },
+    {
+      "id": "w-task2-other-types",
+      "skill": "writing",
+      "title": "Task 2: advantages/disadvantages, problem/solution and two-part questions",
+      "summary": "Recognise the remaining Task 2 question types and answer every part of them, with three model essays."
+    },
+    {
+      "id": "w-cohesion",
+      "skill": "writing",
+      "title": "Paragraphs and cohesion",
+      "summary": "Build clear paragraphs and connect ideas with linking words, reference and substitution — without overdoing it."
+    },
+    {
+      "id": "w-grammar",
+      "skill": "writing",
+      "title": "Common grammar errors",
+      "summary": "The mistakes that most often hold writing below Band 7 — with quick corrections."
+    },
+    {
+      "id": "s-part1",
+      "skill": "speaking",
+      "title": "Speaking Part 1: introduction and interview",
+      "summary": "Answer everyday questions naturally: extend with a reason and an example, without sounding memorised."
+    },
+    {
+      "id": "s-part2",
+      "skill": "speaking",
+      "title": "Speaking Part 2: the long turn",
+      "summary": "Use your one minute of preparation well and keep talking for two minutes with a clear story."
+    },
+    {
+      "id": "s-part3",
+      "skill": "speaking",
+      "title": "Speaking Part 3: discussion",
+      "summary": "Give developed, balanced answers to abstract questions — the part that separates Band 6 from Band 7+."
+    },
+    {
+      "id": "s-fluency-pronunciation",
+      "skill": "speaking",
+      "title": "Fluency and pronunciation",
+      "summary": "Speak smoothly without long pauses, sound natural, and make yourself easy to understand."
+    },
+    {
+      "id": "s-topics",
+      "skill": "speaking",
+      "title": "Common topics and question banks",
+      "summary": "Practice questions for all three parts on the topics that come up most often."
+    },
+    {
+      "id": "v-academic",
+      "skill": "vocabulary",
+      "title": "Academic word list highlights",
+      "summary": "High-frequency academic words that appear across Reading passages, Writing Task 2 and Part 3 answers."
+    },
+    {
+      "id": "v-environment",
+      "skill": "vocabulary",
+      "title": "Topic vocabulary: the environment",
+      "summary": "Climate, pollution, energy and conservation words for Writing Task 2 and Speaking Part 3."
+    },
+    {
+      "id": "v-education",
+      "skill": "vocabulary",
+      "title": "Topic vocabulary: education",
+      "summary": "Schools, universities and learning — words for essays on teaching methods, fees and skills."
+    },
+    {
+      "id": "v-technology",
+      "skill": "vocabulary",
+      "title": "Topic vocabulary: technology",
+      "summary": "Devices, the internet, AI and automation — words to discuss the effects of technology on people and work."
+    },
+    {
+      "id": "v-health",
+      "skill": "vocabulary",
+      "title": "Topic vocabulary: health",
+      "summary": "Lifestyle, diet, healthcare systems and wellbeing — words for public health essays and personal answers."
+    },
+    {
+      "id": "v-work",
+      "skill": "vocabulary",
+      "title": "Topic vocabulary: work and careers",
+      "summary": "Jobs, employment, workplaces and the economy — words for Part 1 answers and Task 2 essays about work."
+    },
+    {
+      "id": "v-urban",
+      "skill": "vocabulary",
+      "title": "Topic vocabulary: cities and urban life",
+      "summary": "Housing, transport, planning and community — words for questions about city and country life."
+    },
+    {
+      "id": "v-culture",
+      "skill": "vocabulary",
+      "title": "Topic vocabulary: culture and tradition",
+      "summary": "Heritage, festivals, globalisation and the arts — words for describing your culture and discussing change."
+    },
+    {
+      "id": "v-collocations",
+      "skill": "vocabulary",
+      "title": "Collocations",
+      "summary": "Natural word partnerships — the fastest way to sound fluent and raise your Lexical Resource score."
+    },
+    {
+      "id": "v-paraphrasing",
+      "skill": "vocabulary",
+      "title": "Paraphrasing techniques",
+      "summary": "Say the same thing in different words — essential for Reading, Listening, Task 1 introductions and Speaking."
+    }
+  ]
+}

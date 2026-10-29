@@ -1,0 +1,146 @@
+{
+  "id": "v-urban",
+  "skill": "vocabulary",
+  "title": "Topic vocabulary: cities and urban life",
+  "guide": [
+    {
+      "h": "Why learn urban vocabulary?"
+    },
+    {
+      "p": "City life is a favourite topic in Task 2 and Part 3: traffic, housing costs, green spaces, moving from the countryside, and how to plan better cities. These words help you describe problems and propose solutions."
+    },
+    {
+      "bullets": [
+        "Learn words in phrases, not alone: notice which verbs, adjectives and prepositions go with them.",
+        "Practise each word in a sentence about your own life or country — it will be easier to use in Speaking.",
+        "In Writing, choose the precise word over the impressive-sounding one. Accuracy beats complexity."
+      ]
+    },
+    {
+      "tip": "'Urban' means of a city; 'rural' means of the countryside. 'Suburban' areas are at the edge of a city."
+    }
+  ],
+  "drill": null,
+  "vocab": [
+    {
+      "word": "urbanisation",
+      "meaning": "the movement of people from the countryside to cities",
+      "example": "Rapid urbanisation has put pressure on housing."
+    },
+    {
+      "word": "infrastructure",
+      "meaning": "basic systems such as roads, water and power",
+      "example": "The city needs to invest in its infrastructure."
+    },
+    {
+      "word": "congestion",
+      "meaning": "too much traffic, causing slow movement",
+      "example": "Congestion charges have reduced traffic in the centre."
+    },
+    {
+      "word": "rush hour",
+      "meaning": "the busiest times for travel to and from work",
+      "example": "The trains are packed during rush hour."
+    },
+    {
+      "word": "commuter",
+      "meaning": "a person who travels regularly to work",
+      "example": "Thousands of commuters arrive by train each morning."
+    },
+    {
+      "word": "public transport",
+      "meaning": "buses, trains and trams available to everyone",
+      "example": "Good public transport reduces car use."
+    },
+    {
+      "word": "pedestrian",
+      "meaning": "a person walking; for people walking (adjective)",
+      "example": "The main street is now a pedestrian zone."
+    },
+    {
+      "word": "cycle lane",
+      "meaning": "part of a road reserved for bicycles",
+      "example": "New cycle lanes have made cycling safer."
+    },
+    {
+      "word": "suburb",
+      "meaning": "a residential area on the edge of a city",
+      "example": "Many families move to the suburbs for more space."
+    },
+    {
+      "word": "urban sprawl",
+      "meaning": "the uncontrolled spread of a city into the countryside",
+      "example": "Urban sprawl increases dependence on cars."
+    },
+    {
+      "word": "high-rise",
+      "meaning": "a very tall building with many floors",
+      "example": "High-rise flats house thousands of people on a small site."
+    },
+    {
+      "word": "affordable housing",
+      "meaning": "homes that people on average incomes can afford",
+      "example": "There is a serious shortage of affordable housing."
+    },
+    {
+      "word": "cost of living",
+      "meaning": "the money needed for basic expenses",
+      "example": "The cost of living in the capital is very high."
+    },
+    {
+      "word": "overcrowding",
+      "meaning": "having too many people in a space",
+      "example": "Overcrowding in flats can affect children's health."
+    },
+    {
+      "word": "homelessness",
+      "meaning": "the state of having no home",
+      "example": "Homelessness has risen as rents increased."
+    },
+    {
+      "word": "amenities",
+      "meaning": "useful facilities such as shops, parks and libraries",
+      "example": "The new estate lacks basic amenities."
+    },
+    {
+      "word": "green space",
+      "meaning": "an area of grass and trees in a town",
+      "example": "Green spaces help to cool the city in summer."
+    },
+    {
+      "word": "residential area",
+      "meaning": "an area mainly of homes",
+      "example": "Lorries are banned from residential areas at night."
+    },
+    {
+      "word": "noise pollution",
+      "meaning": "harmful or annoying levels of noise",
+      "example": "Noise pollution from the airport disturbs residents."
+    },
+    {
+      "word": "regeneration",
+      "meaning": "improving a run-down area",
+      "example": "The regeneration of the docks created thousands of jobs."
+    },
+    {
+      "word": "gentrification",
+      "meaning": "change in a poor area as wealthier people move in, often raising prices",
+      "example": "Gentrification has pushed long-term residents out."
+    },
+    {
+      "word": "inner city",
+      "meaning": "the central, often older and poorer, part of a city",
+      "example": "Inner-city schools face particular challenges."
+    },
+    {
+      "word": "rural",
+      "meaning": "of the countryside",
+      "example": "Rural areas often have fewer bus services."
+    },
+    {
+      "word": "local authority",
+      "meaning": "the organisation that governs a town or area",
+      "example": "The local authority is responsible for rubbish collection."
+    }
+  ]
+}

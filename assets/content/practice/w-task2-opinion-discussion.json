@@ -1,0 +1,81 @@
+{
+  "id": "w-task2-opinion-discussion",
+  "skill": "writing",
+  "title": "Task 2: opinion and discussion essays",
+  "guide": [
+    {
+      "h": "The task"
+    },
+    {
+      "p": "Writing Task 2 is an essay of at least 250 words, written in about 40 minutes. It counts for twice as much as Task 1. The most important thing is to answer the exact question asked and to keep a clear position from the introduction to the conclusion."
+    },
+    {
+      "h": "Opinion essays"
+    },
+    {
+      "p": "Typical wording: 'To what extent do you agree or disagree?', 'Do you agree or disagree?', 'Is this a positive or negative development?'"
+    },
+    {
+      "bullets": [
+        "Decide your position before you plan: completely agree, completely disagree, or agree in part (and say which part).",
+        "State your position in the introduction, repeat it in the conclusion, and make every body paragraph support it.",
+        "A partly-agree essay is fine, but the balance must be clear: 'Although X has some merit, I believe Y.'"
+      ]
+    },
+    {
+      "h": "Discussion essays"
+    },
+    {
+      "p": "Typical wording: 'Discuss both these views and give your own opinion.'"
+    },
+    {
+      "bullets": [
+        "You must do three things: explain view A, explain view B, and give your own opinion.",
+        "Give each view a full body paragraph, explaining why people hold it — even the view you disagree with.",
+        "Your opinion can appear in the introduction and conclusion, or in the paragraph about the view you share. It must be clear."
+      ]
+    },
+    {
+      "h": "A four-paragraph plan"
+    },
+    {
+      "bullets": [
+        "Introduction: paraphrase the topic + your position (or what the essay will do).",
+        "Body 1: one main idea, explained and supported with an example.",
+        "Body 2: a second main idea (or the opposing view), explained and supported.",
+        "Conclusion: summarise your position in fresh words. No new ideas."
+      ]
+    },
+    {
+      "tip": "Spend 5 minutes planning: write your position and the main idea of each paragraph in a few words. A planned essay is easier to make coherent."
+    }
+  ],
+  "drill": null,
+  "models": [
+    {
+      "title": "Opinion: free university education",
+      "prompt": "Some people believe that university education should be free for all students, paid for by the government.\n\nTo what extent do you agree or disagree?\n\nGive reasons for your answer and include any relevant examples from your own knowledge or experience. Write at least 250 words.",
+      "answer": "In many countries, the cost of a university degree has risen to the point where students graduate with large debts. As a result, some argue that higher education should be entirely funded by the state. While I accept that cost should never prevent a talented student from studying, I do not believe that university should be free for everyone.\n\nThe strongest argument for free tuition is fairness. When fees are high, young people from low-income families may decide that a degree is too risky, even if they have the ability to succeed. This wastes talent that society needs, particularly in fields such as medicine and engineering. Supporters also point out that graduates tend to earn more and therefore pay more tax, so the government eventually recovers much of its investment.\n\nHowever, making university free for all students would be expensive and, in my view, poorly targeted. Public money spent on paying the fees of wealthy families who could easily afford them is money that cannot be spent on schools, hospitals or support for those who are struggling. Furthermore, when places are free, governments often limit the number of students they can afford to fund, which can make university harder, not easier, to enter.\n\nA better approach, I believe, is a mixed system in which students from poorer backgrounds receive generous grants, while others repay a share of their fees once they are earning above a certain salary. This protects access without asking taxpayers to cover the full cost for those who do not need help.\n\nIn conclusion, although removing financial barriers to higher education is essential, I disagree that university should be free for every student. Targeted support offers a fairer and more sustainable solution.",
+      "band": 8,
+      "notes": [
+        "The position is clear in the introduction (partly agree with the aim, disagree with the method) and repeated in the conclusion.",
+        "Body 1 fairly presents the other side; Body 2 gives the writer's main counter-argument; Body 3 offers an alternative — all serve the same position.",
+        "Each paragraph has one central idea, a topic sentence, an explanation and an example or consequence.",
+        "Less common vocabulary is used precisely: poorly targeted, sustainable, financial barriers, protects access.",
+        "Complex sentences are controlled and varied (conditional clauses, relative clauses, concession with 'while' and 'although')."
+      ]
+    },
+    {
+      "title": "Discussion: when to start a foreign language",
+      "prompt": "Some people think children should start learning a foreign language at primary school, while others believe it is better to begin at secondary school.\n\nDiscuss both these views and give your own opinion.\n\nGive reasons for your answer and include any relevant examples from your own knowledge or experience. Write at least 250 words.",
+      "answer": "Learning a second language is now part of almost every school system, but there is disagreement about the best age to begin. Some educators favour starting in primary school, while others argue that lessons are more effective once children reach secondary level. In my opinion, an early start is preferable, provided the teaching is suited to young learners.\n\nThose who prefer to wait until secondary school make some reasonable points. Older children have a better understanding of grammar and can use their knowledge of their first language to learn more systematically. They are also more able to concentrate in formal lessons. In addition, primary schools often lack specialist teachers, and a language taught badly for several years may leave children bored and unconfident rather than prepared.\n\nOn the other hand, supporters of an early start argue that young children have important advantages. They are usually less self-conscious about making mistakes, which makes them more willing to speak, and they tend to imitate pronunciation more accurately than teenagers. Starting early also gives pupils many more years of exposure to the language, and regular contact over a long period is one of the strongest predictors of success.\n\nI share the second view, but with a condition. Early lessons are valuable only if they focus on listening, speaking, songs and games rather than on grammar rules, and if schools have properly trained teachers. In my own country, children who learned English through stories and play from the age of seven were noticeably more confident speakers by the time they reached secondary school.\n\nIn conclusion, although older learners can study grammar more efficiently, I believe the confidence and pronunciation benefits of starting at primary school make it the better option, as long as the teaching is age-appropriate.",
+      "band": 8,
+      "notes": [
+        "Both views receive a full, fair paragraph with reasons, as the question requires.",
+        "The writer's opinion is stated in the introduction, developed in a separate paragraph and repeated in the conclusion.",
+        "Signposting makes the structure easy to follow: Those who prefer…, On the other hand…, I share the second view…",
+        "A personal example supports the opinion, which the instructions explicitly invite."
+      ]
+    }
+  ]
+}

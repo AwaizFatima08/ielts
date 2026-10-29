@@ -1,0 +1,146 @@
+{
+  "id": "r-general-training",
+  "skill": "reading",
+  "title": "General Training Reading",
+  "guide": [
+    {
+      "h": "How GT Reading is organised"
+    },
+    {
+      "p": "General Training Reading has the same length (60 minutes, 40 questions) and the same question types as Academic Reading, but the texts are different."
+    },
+    {
+      "bullets": [
+        "Section 1: two or three short everyday texts — notices, advertisements, timetables, information leaflets. You often need to find which text contains a detail.",
+        "Section 2: two texts about work — job descriptions, staff handbooks, training information, company policies.",
+        "Section 3: one longer text on a general-interest topic, similar in style to a magazine article. This is closest to Academic Reading."
+      ]
+    },
+    {
+      "h": "What changes for you"
+    },
+    {
+      "bullets": [
+        "Sections 1 and 2 are full of practical detail: dates, prices, conditions, deadlines and exceptions. Scanning is essential.",
+        "Watch for conditions: 'unless', 'only if', 'except', 'at least', 'no more than'. Many FALSE answers depend on them.",
+        "Short-answer and completion questions are common. Copy numbers and times exactly.",
+        "Because the texts are less difficult, you need more correct answers for the same band than in Academic Reading. Careless mistakes cost more."
+      ]
+    },
+    {
+      "h": "Time plan"
+    },
+    {
+      "bullets": [
+        "Section 1: about 15 minutes.",
+        "Section 2: about 20 minutes.",
+        "Section 3: about 25 minutes — it is the hardest."
+      ]
+    },
+    {
+      "tip": "In matching tasks with several short adverts, give each text a one-word label (price, location, hours) as you skim. It makes finding the answer much faster."
+    }
+  ],
+  "drill": {
+    "script": null,
+    "passage": {
+      "title": "Greenway Logistics – Staff Handbook: Annual leave",
+      "paragraphs": [
+        {
+          "label": "",
+          "text": "Full-time employees are entitled to 25 days of paid annual leave per year, in addition to public holidays. Part-time staff receive an entitlement calculated in proportion to the hours they work. The leave year runs from 1 April to 31 March."
+        },
+        {
+          "label": "",
+          "text": "To request leave, complete the online form on the staff portal at least four weeks before the first day you wish to take. Requests for a single day may be made with one week's notice. Your line manager will normally reply within five working days. Please do not book travel until your request has been approved. If you later need to cancel approved leave, tell your manager as soon as possible."
+        },
+        {
+          "label": "",
+          "text": "During our busiest period, from 1 November to 31 December, no more than two members of any team may be on leave at the same time. Requests for this period are considered in the order in which they are received, so we recommend applying early."
+        },
+        {
+          "label": "",
+          "text": "You may carry up to five unused days into the next leave year. These days must be taken by 30 June, or they will be lost. In exceptional circumstances, such as long-term illness, the Human Resources department may agree to a longer carry-over period."
+        },
+        {
+          "label": "",
+          "text": "If you leave the company, you will be paid for any leave you have earned but not taken. If you have taken more leave than you have earned, the difference will be deducted from your final salary."
+        },
+        {
+          "label": "",
+          "text": "Questions about leave should be sent to your line manager first. If your manager is unavailable, contact the HR helpdesk on extension 2240."
+        }
+      ]
+    },
+    "groups": [
+      {
+        "type": "tfng",
+        "variant": "tfng",
+        "from": 1,
+        "to": 4,
+        "instructions": "Do the following statements agree with the information given in the reading passage? Write TRUE if the statement agrees with the information, FALSE if the statement contradicts the information, NOT GIVEN if there is no information on this.",
+        "questions": [
+          {
+            "n": 1,
+            "text": "The leave year begins in January.",
+            "answer": "FALSE"
+          },
+          {
+            "n": 2,
+            "text": "A request for one day of leave needs one week's notice.",
+            "answer": "TRUE"
+          },
+          {
+            "n": 3,
+            "text": "Staff may book travel before their leave is approved.",
+            "answer": "FALSE"
+          },
+          {
+            "n": 4,
+            "text": "The company sends staff a reminder when they have unused leave.",
+            "answer": "NOT GIVEN"
+          }
+        ],
+        "explain": {
+          "1": "'The leave year runs from 1 April to 31 March.'",
+          "2": "'Requests for a single day may be made with one week's notice.'",
+          "3": "'Please do not book travel until your request has been approved.'",
+          "4": "Unused days and carry-over are explained, but reminders are never mentioned."
+        }
+      },
+      {
+        "type": "gap",
+        "from": 5,
+        "to": 7,
+        "layout": "short",
+        "instructions": "Answer the questions below. Choose NO MORE THAN TWO WORDS AND/OR A NUMBER from the text for each answer.",
+        "limit": "NO MORE THAN TWO WORDS AND/OR A NUMBER",
+        "lines": [
+          "How many unused days can be carried into the next leave year? {{5}}",
+          "By what date must carried-over days be taken? {{6}}",
+          "Who should staff contact if their line manager is unavailable? {{7}}"
+        ],
+        "answers": {
+          "5": [
+            "5",
+            "five"
+          ],
+          "6": [
+            "30 June",
+            "June 30",
+            "30th June"
+          ],
+          "7": [
+            "HR helpdesk",
+            "helpdesk"
+          ]
+        },
+        "explain": {
+          "5": "'You may carry up to five unused days into the next leave year.'",
+          "6": "'These days must be taken by 30 June, or they will be lost.'",
+          "7": "'If your manager is unavailable, contact the HR helpdesk.'"
+        }
+      }
+    ]
+  }
+}

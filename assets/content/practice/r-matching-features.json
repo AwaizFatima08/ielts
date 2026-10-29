@@ -1,0 +1,120 @@
+{
+  "id": "r-matching-features",
+  "skill": "reading",
+  "title": "Matching features",
+  "guide": [
+    {
+      "h": "What it tests"
+    },
+    {
+      "p": "You match a list of statements to a small set of options — often researchers, but also places, time periods, products or categories. You must connect each idea in the passage to the right owner."
+    },
+    {
+      "h": "Step by step"
+    },
+    {
+      "bullets": [
+        "Scan the passage and highlight every place where each option (each name or category) appears.",
+        "Read the text around each option carefully and note what is said about it.",
+        "Then read each statement and find the option that matches its meaning, not just its words.",
+        "Options can usually be used more than once, and some may not be used at all.",
+        "Statements are not in passage order."
+      ]
+    },
+    {
+      "tip": "With researchers, be careful with pronouns: 'he', 'her team', 'the latter' may refer back to a name in an earlier sentence."
+    }
+  ],
+  "drill": {
+    "script": null,
+    "passage": {
+      "title": "Storing renewable energy",
+      "paragraphs": [
+        {
+          "label": "",
+          "text": "Wind and solar power vary with the weather, so electricity grids need ways to store energy when it is plentiful and release it when demand rises. Three technologies are particularly important."
+        },
+        {
+          "label": "",
+          "text": "The oldest is pumped hydro storage. When electricity is cheap, water is pumped from a lower reservoir to a higher one; when power is needed, the water flows back down through turbines. It can store very large amounts of energy for many hours, and plants often operate for more than fifty years. Its main limitation is geography: it requires two reservoirs at different heights, and suitable valleys are rare and often protected."
+        },
+        {
+          "label": "",
+          "text": "Large lithium-ion batteries are the fastest-growing option. They can be built almost anywhere, including on the sites of old power stations, and they respond to changes in demand in a fraction of a second. However, they usually supply power for only a few hours, and their capacity gradually declines, so they need replacing after perhaps fifteen years."
+        },
+        {
+          "label": "",
+          "text": "A third approach stores energy as compressed air, usually in underground caverns cut into salt rock. When electricity is needed, the air is released to drive a turbine. Only a handful of such plants exist. Because compressing air produces heat, early designs wasted much of the energy; newer designs store that heat and reuse it, which considerably improves their efficiency."
+        },
+        {
+          "label": "",
+          "text": "Most experts expect future grids to combine these methods rather than rely on any single one. Each has strengths that the others lack, and the right mix will depend on local landscapes, costs and the pattern of demand."
+        }
+      ]
+    },
+    "groups": [
+      {
+        "type": "matching",
+        "from": 1,
+        "to": 6,
+        "instructions": "Look at the following statements and the list of storage technologies below. Match each statement with the correct technology, A, B or C. You may use any letter more than once.",
+        "optionsTitle": "List of Technologies",
+        "reuse": true,
+        "options": [
+          {
+            "key": "A",
+            "text": "pumped hydro storage"
+          },
+          {
+            "key": "B",
+            "text": "lithium-ion batteries"
+          },
+          {
+            "key": "C",
+            "text": "compressed air storage"
+          }
+        ],
+        "items": [
+          {
+            "n": 1,
+            "text": "It depends on the availability of particular landscapes.",
+            "answer": "A"
+          },
+          {
+            "n": 2,
+            "text": "It can react to demand almost instantly.",
+            "answer": "B"
+          },
+          {
+            "n": 3,
+            "text": "It may use underground spaces in salt rock.",
+            "answer": "C"
+          },
+          {
+            "n": 4,
+            "text": "It can keep working for several decades.",
+            "answer": "A"
+          },
+          {
+            "n": 5,
+            "text": "Its efficiency has been improved by capturing heat.",
+            "answer": "C"
+          },
+          {
+            "n": 6,
+            "text": "It gradually loses some of its ability to store energy.",
+            "answer": "B"
+          }
+        ],
+        "explain": {
+          "1": "Pumped hydro: 'Its main limitation is geography … suitable valleys are rare.'",
+          "2": "Batteries: 'they respond to changes in demand in a fraction of a second.'",
+          "3": "Compressed air: 'usually in underground caverns cut into salt rock.'",
+          "4": "Pumped hydro: 'plants often operate for more than fifty years.'",
+          "5": "Compressed air: 'newer designs store that heat and reuse it, which considerably improves their efficiency.'",
+          "6": "Batteries: 'their capacity gradually declines.'"
+        }
+      }
+    ]
+  }
+}

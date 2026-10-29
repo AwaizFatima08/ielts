@@ -1,0 +1,129 @@
+{
+  "id": "r-matching-info",
+  "skill": "reading",
+  "title": "Matching information",
+  "guide": [
+    {
+      "h": "What it tests"
+    },
+    {
+      "p": "You are given statements such as 'an example of…', 'a reference to…', 'a reason why…' and must find which paragraph contains each one. Unlike matching headings, these are details, not main ideas, and the answers are not in passage order."
+    },
+    {
+      "h": "Step by step"
+    },
+    {
+      "bullets": [
+        "Note the type of information wanted: an example, a comparison, a warning, a description, a number.",
+        "Underline any scannable words (names, dates, technical terms), but expect paraphrase.",
+        "Do the questions with the easiest key words first.",
+        "A paragraph may contain more than one answer, and some paragraphs may contain none. Read the instructions to see if letters can be reused."
+      ]
+    },
+    {
+      "example": "Statement: 'a mention of the cost of a solution'. The paragraph might say: 'the scheme required a large investment'."
+    },
+    {
+      "tip": "This task is often time-consuming. If it is the first group in a section, consider doing the other groups first — by then you will know the passage better."
+    }
+  ],
+  "drill": {
+    "script": null,
+    "passage": {
+      "title": "Sleep and memory",
+      "paragraphs": [
+        {
+          "label": "A",
+          "text": "For centuries, sleep was thought of as a passive state in which the brain simply rested. Since the 1950s, however, recordings of electrical activity have shown that the sleeping brain passes through repeated cycles, each lasting roughly ninety minutes, and that some stages are almost as active as waking."
+        },
+        {
+          "label": "B",
+          "text": "One of the most widely studied functions of these cycles is memory. In a typical experiment, volunteers learn a list of word pairs in the evening. Half of them then sleep normally, while the other half stay awake. When both groups are tested the next morning, those who slept usually remember more of the pairs, even though both groups spent the same time away from the material."
+        },
+        {
+          "label": "C",
+          "text": "Researchers believe that during deep sleep the brain replays recent experiences, moving them from short-term storage into more permanent networks. Recordings in animals support this idea: patterns of activity seen while a rat explores a maze are repeated, at high speed, while the animal sleeps afterwards."
+        },
+        {
+          "label": "D",
+          "text": "Not all memories benefit equally. Skills such as playing a piece of music seem to improve most after a night that includes plenty of light, dreaming sleep near morning. This may explain why people who cut their sleep short by waking very early often find that a newly practised skill feels no better the next day."
+        },
+        {
+          "label": "E",
+          "text": "These findings have practical consequences for students. Staying up all night before an examination may provide more hours of study, but it removes the very process that fixes information in memory. Short naps can help too, although a nap taken late in the evening may make it harder to fall asleep at night."
+        }
+      ]
+    },
+    "groups": [
+      {
+        "type": "matching",
+        "from": 1,
+        "to": 6,
+        "instructions": "The reading passage has five paragraphs, A–E. Which paragraph contains the following information? You may use any letter more than once.",
+        "reuse": true,
+        "options": [
+          {
+            "key": "A",
+            "text": ""
+          },
+          {
+            "key": "B",
+            "text": ""
+          },
+          {
+            "key": "C",
+            "text": ""
+          },
+          {
+            "key": "D",
+            "text": ""
+          },
+          {
+            "key": "E",
+            "text": ""
+          }
+        ],
+        "items": [
+          {
+            "n": 1,
+            "text": "a description of an experiment comparing two groups of people",
+            "answer": "B"
+          },
+          {
+            "n": 2,
+            "text": "a reason why waking very early may affect the learning of a skill",
+            "answer": "D"
+          },
+          {
+            "n": 3,
+            "text": "evidence from studies of animals",
+            "answer": "C"
+          },
+          {
+            "n": 4,
+            "text": "a warning about the timing of naps",
+            "answer": "E"
+          },
+          {
+            "n": 5,
+            "text": "a reference to the length of a sleep cycle",
+            "answer": "A"
+          },
+          {
+            "n": 6,
+            "text": "advice against studying through the night",
+            "answer": "E"
+          }
+        ],
+        "explain": {
+          "1": "B: 'Half of them then sleep normally, while the other half stay awake. When both groups are tested…'",
+          "2": "D: skills improve after 'dreaming sleep near morning', so people 'who cut their sleep short by waking very early' do not improve.",
+          "3": "C: 'Recordings in animals support this idea: patterns of activity seen while a rat explores a maze…'",
+          "4": "E: 'a nap taken late in the evening may make it harder to fall asleep at night.'",
+          "5": "A: 'repeated cycles, each lasting roughly ninety minutes.'",
+          "6": "E: 'Staying up all night before an examination … removes the very process that fixes information in memory.' Letter E is used twice."
+        }
+      }
+    ]
+  }
+}

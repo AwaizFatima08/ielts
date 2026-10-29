@@ -1,0 +1,185 @@
+{
+  "id": "l-mcq",
+  "skill": "listening",
+  "title": "Multiple choice",
+  "guide": [
+    {
+      "h": "What it tests"
+    },
+    {
+      "p": "Multiple-choice questions appear in all four parts, most often in Parts 2 and 3. You either choose one answer from A, B or C, or choose TWO (sometimes THREE) answers from a longer list. They test whether you can follow opinions, reasons and decisions, not only single facts."
+    },
+    {
+      "h": "How to approach it"
+    },
+    {
+      "bullets": [
+        "Use the reading time to underline the key idea in each question stem (why, who, what problem).",
+        "Expect the options to be paraphrased. The recording will rarely use the same words as the correct option.",
+        "Usually all three options are mentioned. Two are rejected, delayed, or true for someone else.",
+        "Listen for the final decision: words like 'in the end', 'so we decided', 'actually' often introduce it.",
+        "For choose-TWO questions, the order of your two letters does not matter, but each letter is one mark."
+      ]
+    },
+    {
+      "example": "Question: Why was the trip moved? A bad weather B a lack of drivers C a clash with exams. You hear: 'People thought it was the weather, but really we just couldn't find anyone to drive the minibus.' Answer: B."
+    },
+    {
+      "tip": "Do not choose an option just because you heard its exact words. Exact words are often the trap."
+    }
+  ],
+  "drill": {
+    "passage": null,
+    "script": [
+      {
+        "id": "dlm_001",
+        "speaker": "woman",
+        "text": "So, Tom, have you decided where the geography field trip should go this year?"
+      },
+      {
+        "id": "dlm_002",
+        "speaker": "man",
+        "text": "We looked at three places. The old quarry was popular last year, but the path there has been closed since the spring floods. So it was between the estuary and the forest reserve."
+      },
+      {
+        "id": "dlm_003",
+        "speaker": "woman",
+        "text": "And which did the group prefer?"
+      },
+      {
+        "id": "dlm_004",
+        "speaker": "man",
+        "text": "Most people wanted the forest at first, but when we realised the estuary has tides we could measure, everyone agreed it was more useful for our project. So, the estuary."
+      },
+      {
+        "id": "dlm_005",
+        "speaker": "woman",
+        "text": "Good choice. How are you getting there? The department minibus is booked that week, remember."
+      },
+      {
+        "id": "dlm_006",
+        "speaker": "man",
+        "text": "Yes, so we'll take the train. It's actually cheaper than hiring a coach, and the station is only a ten-minute walk from the site."
+      },
+      {
+        "id": "dlm_007",
+        "speaker": "woman",
+        "text": "And what does everyone need to bring?"
+      },
+      {
+        "id": "dlm_008",
+        "speaker": "man",
+        "text": "Waterproof boots, definitely, and a paper notebook, because phones don't work well in the wet. We'll provide the measuring equipment, and lunch is at a café there, so nobody needs a packed lunch."
+      }
+    ],
+    "groups": [
+      {
+        "type": "mcq",
+        "from": 1,
+        "to": 3,
+        "instructions": "Choose the correct letter, A, B or C.",
+        "questions": [
+          {
+            "n": 1,
+            "stem": "Why will the group not visit the quarry?",
+            "options": [
+              {
+                "key": "A",
+                "text": "It was too popular last year."
+              },
+              {
+                "key": "B",
+                "text": "The path to it is closed."
+              },
+              {
+                "key": "C",
+                "text": "It is too far from the station."
+              }
+            ],
+            "answer": "B"
+          },
+          {
+            "n": 2,
+            "stem": "The group chose the estuary because",
+            "options": [
+              {
+                "key": "A",
+                "text": "most students preferred it from the start."
+              },
+              {
+                "key": "B",
+                "text": "it allows them to measure tides."
+              },
+              {
+                "key": "C",
+                "text": "it is closer than the forest."
+              }
+            ],
+            "answer": "B"
+          },
+          {
+            "n": 3,
+            "stem": "How will the group travel?",
+            "options": [
+              {
+                "key": "A",
+                "text": "by minibus"
+              },
+              {
+                "key": "B",
+                "text": "by coach"
+              },
+              {
+                "key": "C",
+                "text": "by train"
+              }
+            ],
+            "answer": "C"
+          }
+        ],
+        "explain": {
+          "1": "Man: 'the path there has been closed since the spring floods.' Its popularity is mentioned but is not the reason.",
+          "2": "Man: 'when we realised the estuary has tides we could measure, everyone agreed it was more useful.' Most people wanted the forest at first, so A is wrong.",
+          "3": "The minibus is booked and a coach is more expensive. Man: 'we'll take the train.'"
+        }
+      },
+      {
+        "type": "multi",
+        "from": 4,
+        "to": 5,
+        "instructions": "Choose TWO letters, A–E.",
+        "stem": "Which TWO things must students bring?",
+        "options": [
+          {
+            "key": "A",
+            "text": "waterproof boots"
+          },
+          {
+            "key": "B",
+            "text": "a packed lunch"
+          },
+          {
+            "key": "C",
+            "text": "measuring equipment"
+          },
+          {
+            "key": "D",
+            "text": "a paper notebook"
+          },
+          {
+            "key": "E",
+            "text": "a mobile phone"
+          }
+        ],
+        "answers": [
+          "A",
+          "D"
+        ],
+        "explain": {
+          "4": "Man: 'Waterproof boots, definitely.'",
+          "5": "Man: 'and a paper notebook, because phones don't work well in the wet.' Equipment is provided and lunch is at a café."
+        }
+      }
+    ]
+  }
+}

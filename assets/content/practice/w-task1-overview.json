@@ -1,0 +1,74 @@
+{
+  "id": "w-task1-overview",
+  "skill": "writing",
+  "title": "Academic Task 1: the essentials",
+  "guide": [
+    {
+      "h": "The task"
+    },
+    {
+      "p": "In Academic Writing Task 1 you describe visual information: a line graph, bar chart, pie chart, table, process diagram or map — sometimes two of them together. You have about 20 minutes and must write at least 150 words. You report what the information shows; you do not give opinions or explain causes."
+    },
+    {
+      "h": "A reliable four-paragraph structure"
+    },
+    {
+      "bullets": [
+        "Introduction (1–2 sentences): paraphrase the question — what is shown, where, when, and in what units. Do not copy the prompt word for word.",
+        "Overview (2 sentences): the main trends or most striking features, with no detailed numbers. This is the most important paragraph.",
+        "Body paragraph 1: details for one group of data, with figures to support it.",
+        "Body paragraph 2: details for the other group, with comparisons."
+      ]
+    },
+    {
+      "h": "Writing the overview"
+    },
+    {
+      "p": "The overview answers the question: if you could only say two things about this chart, what would they be? Look for the overall direction (up, down, stable), the biggest and smallest items, any item that changes rank, or the start and end of a process. Begin with 'Overall,' or 'In general,' so the examiner can find it."
+    },
+    {
+      "example": "Weak overview: 'Overall, there were many changes in the period.' Strong overview: 'Overall, car use rose steadily throughout the period, while bus travel declined, and by 2020 cars had become the most common way to commute.'"
+    },
+    {
+      "h": "Choosing and grouping data"
+    },
+    {
+      "bullets": [
+        "You cannot mention every number. Select the key figures: the highest, the lowest, the start and end points and major turning points.",
+        "Group similar items together (for example, 'the three smallest categories all rose slightly').",
+        "Always compare: 'twice as many as', 'by contrast', 'whereas'. A list of numbers without comparison will not score well.",
+        "Use the correct units (%, millions, tonnes) and the right tense — past for past years, present for diagrams with no time, future forms for projections."
+      ]
+    },
+    {
+      "h": "Things to avoid"
+    },
+    {
+      "bullets": [
+        "Giving reasons or opinions ('This is because people became richer').",
+        "A conclusion that repeats the introduction instead of an overview.",
+        "Copying the question's wording exactly.",
+        "Writing far more than needed. About 170–200 words is ideal; extra length does not earn extra marks."
+      ]
+    },
+    {
+      "tip": "Spend the first 3 minutes studying the visual and deciding your two overview points before you write a single word."
+    }
+  ],
+  "drill": null,
+  "models": [
+    {
+      "title": "Line graph: device ownership",
+      "prompt": "The graph below shows the percentage of households in one European country that owned a desktop computer, a laptop and a tablet between 2008 and 2023.\n\nData — Desktop: 2008 62%, 2011 60%, 2014 54%, 2017 47%, 2020 40%, 2023 35%. Laptop: 30%, 45%, 58%, 66%, 74%, 76%. Tablet: 0%, 12%, 35%, 48%, 52%, 51%.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+      "answer": "The line graph compares the proportion of households in a European country that owned a desktop computer, a laptop and a tablet over a fifteen-year period from 2008 to 2023.\n\nOverall, desktop ownership declined steadily, while laptops and tablets became far more common. By the end of the period, laptops had replaced desktops as the most widely owned device.\n\nIn 2008, 62% of households had a desktop computer, roughly double the figure for laptops (30%), and tablets were not yet owned at all. Desktop ownership then fell gradually throughout the period, reaching just 35% in 2023, almost half its original level.\n\nLaptops, by contrast, rose rapidly and overtook desktops between 2011 and 2014. Their share continued to climb, although more slowly after 2020, and finished at 76%. Tablets showed the most dramatic growth in the early years, jumping from zero to 35% between 2008 and 2014. After that, the increase slowed considerably, and tablet ownership levelled off at just over 50% from 2020 onwards, ending the period at 51%.",
+      "band": 8,
+      "notes": [
+        "The introduction paraphrases the prompt: 'percentage of households' becomes 'proportion of households', and the years become 'a fifteen-year period'.",
+        "The overview gives two clear main features — the opposite trends and the change in the leading device — with no detailed figures.",
+        "Body paragraph 1 covers the starting point and the falling line; body paragraph 2 covers the two rising lines.",
+        "Key turning points are selected (overtaking between 2011 and 2014, levelling off after 2020) instead of listing every value.",
+        "A range of language of change: declined steadily, fell gradually, rose rapidly, overtook, jumping, levelled off."
+      ]
+    }
+  ]
+}

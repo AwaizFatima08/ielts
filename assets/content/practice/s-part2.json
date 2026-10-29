@@ -1,0 +1,71 @@
+{
+  "id": "s-part2",
+  "skill": "speaking",
+  "title": "Speaking Part 2: the long turn",
+  "guide": [
+    {
+      "h": "What happens"
+    },
+    {
+      "p": "The examiner gives you a task card with a topic ('Describe a…') and three or four prompts, plus a pencil and paper. You have one minute to prepare, then you speak for one to two minutes. The examiner will stop you after two minutes and may ask one or two short follow-up questions."
+    },
+    {
+      "h": "Using the minute: notes, not sentences"
+    },
+    {
+      "bullets": [
+        "Write keywords only — there is no time for full sentences, and reading sentences aloud sounds unnatural.",
+        "Jot two or three ideas next to each prompt on the card.",
+        "Choose a real example quickly. Do not spend 30 seconds deciding which person or place to talk about.",
+        "Plan the last prompt ('and explain why…') most carefully — it usually leads to the most interesting part of your talk.",
+        "Add one small story or specific moment. Stories are easy to tell for a long time and use natural past tenses."
+      ]
+    },
+    {
+      "example": "Card: Describe a book you enjoyed. Notes → what: 'The Long Walk Home' — novel, gift from aunt | when: last summer, holiday, rainy week | about: refugee family, journey, hope | why: characters real, cried at the end, changed view of migrants."
+    },
+    {
+      "h": "Keeping going for two minutes"
+    },
+    {
+      "bullets": [
+        "Follow the order of the prompts — it gives your talk a natural structure.",
+        "Use signposts: 'I'd like to talk about…', 'As for when…', 'What I remember most is…', 'The main reason I…'.",
+        "If you finish early, add detail: describe what you saw, heard or felt, or compare with another experience.",
+        "Do not worry if the examiner stops you mid-sentence. That is normal and does not lower your score."
+      ]
+    },
+    {
+      "tip": "Practise with a timer. Many candidates speak for only 60–70 seconds at first; two minutes is about 250–300 words."
+    }
+  ],
+  "drill": null,
+  "models": [
+    {
+      "title": "Describe a skill you learned as an adult",
+      "prompt": "Describe a skill you learned as an adult.\nYou should say:\n• what the skill is\n• how you learned it\n• how difficult it was\nand explain how this skill has been useful to you.",
+      "answer": "I'd like to talk about learning to swim properly, which is something I only did when I was about twenty-five. I could just about stay afloat as a child, but I'd never had proper lessons, and to be honest I was quite nervous in deep water.\n\nWhat finally pushed me to do it was a holiday with friends. They spent the whole week diving off rocks and snorkelling, and I spent it sitting on the beach feeling a bit left out. So when I got home, I signed up for an adult beginners' course at my local pool. There were eight of us, all ages, and we had a lesson every Tuesday evening for about three months.\n\nIt was harder than I'd expected, mainly because of the breathing. Putting my face in the water and breathing out slowly felt completely unnatural, and for the first few weeks I kept stopping halfway along the pool, gasping for air. The instructor was very patient, though. She broke everything down into tiny steps, and gradually it started to click. I still remember the evening I swam a full length of front crawl without stopping — I was ridiculously proud of myself.\n\nAs for how it's been useful, the obvious answer is that I can now enjoy holidays by the sea instead of watching from the sand. But it's also become my main form of exercise. I swim twice a week before work, and I find it really clears my head. And more generally, it taught me that it's never too late to learn something, which has given me the confidence to try other new things since.",
+      "band": 8,
+      "notes": [
+        "1-minute notes used: 'swimming – age 25 | holiday, friends diving, felt left out → adult course, Tuesdays, 3 months | hard: breathing, stopping halfway, patient instructor, first full length | useful: holidays, exercise 2×/week, clears head, never too late'.",
+        "Follows the order of the prompts, using signposts: 'What finally pushed me…', 'It was harder than…', 'As for how it's been useful…'.",
+        "A short story (the holiday, the first full length) adds detail and natural past tenses.",
+        "Range of tenses and structures: past perfect (I'd never had), past continuous, present perfect (has been useful), gerund subjects (Putting my face in the water…).",
+        "Natural, less common vocabulary: stay afloat, left out, gasping for air, it started to click, clears my head.",
+        "About 270 words — roughly two minutes at a natural pace."
+      ]
+    },
+    {
+      "title": "Describe a quiet place you like to go to",
+      "prompt": "Describe a quiet place you like to go to.\nYou should say:\n• where it is\n• how often you go there\n• what you do there\nand explain why you like this place.",
+      "answer": "The place I'm going to describe is a small botanical garden that belongs to the university in my city. It's tucked away behind the science buildings, so a lot of people, even students, don't realise it's there. You go through an old iron gate and suddenly the traffic noise just disappears.\n\nI go there maybe once or twice a week, usually at lunchtime, because my office is only a five-minute walk away. In spring and summer I sometimes go after work as well, since it stays open until eight in the evening.\n\nWhat I do there is fairly simple. Most of the time I just find a bench near the pond, eat my lunch and watch the ducks. Sometimes I bring a book, although I have to admit I often end up just staring at the plants instead of reading. There's also a glasshouse full of tropical plants, and on cold, grey days in winter it's lovely to sit in there, because it's warm and humid and smells like a rainforest.\n\nThe main reason I like it is that it gives me a complete break from screens and noise. My job involves a lot of meetings and emails, and by midday my head is usually buzzing. Even twenty minutes in the garden calms me down, and I go back to work feeling much more focused. I suppose I also like the fact that it feels a bit like a secret — it's right in the middle of a busy city, but hardly anyone knows about it.",
+      "band": 8,
+      "notes": [
+        "1-minute notes used: 'uni botanical garden – hidden behind science bldgs, iron gate | 1–2×/week, lunch, summer evenings | bench, pond, ducks, book, glasshouse in winter | why: break from screens, head buzzing → calm, focused, feels secret'.",
+        "Descriptive language that helps the listener picture the place: tucked away, iron gate, warm and humid, smells like a rainforest.",
+        "Honest, natural comments ('I have to admit…', 'I suppose…') sound spontaneous rather than memorised.",
+        "The 'explain why' section is the longest and most developed part."
+      ]
+    }
+  ]
+}

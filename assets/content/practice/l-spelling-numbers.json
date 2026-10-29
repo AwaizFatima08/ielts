@@ -1,0 +1,147 @@
+{
+  "id": "l-spelling-numbers",
+  "skill": "listening",
+  "title": "Spelling, numbers and dates",
+  "guide": [
+    {
+      "h": "Why it matters"
+    },
+    {
+      "p": "Part 1 nearly always includes a name spelt letter by letter, a number and a date or time. These are the easiest marks in the test — and the easiest to lose through one wrong letter."
+    },
+    {
+      "h": "Letters"
+    },
+    {
+      "bullets": [
+        "Practise the letters that are easy to confuse: A/E/I, G/J, B/V/P, M/N, S/F, Q/U, W/double U.",
+        "'Double' means two of the same: 'double L' = LL, 'double seven' = 77.",
+        "Names are often corrected: 'Smith — no, Smyth, with a Y'."
+      ]
+    },
+    {
+      "h": "Numbers"
+    },
+    {
+      "bullets": [
+        "'Oh' means zero in phone numbers: 'oh-one-six-two' = 0162.",
+        "Thirteen/thirty, fourteen/forty, fifteen/fifty, etc.: the stress is at the end in '-teen' (thir-TEEN) and at the start in '-ty' (THIR-ty). Speakers sometimes clarify: 'three-oh, not one-three'.",
+        "Prices: '£12.50' may be said 'twelve fifty' or 'twelve pounds fifty'.",
+        "Times: 'quarter to eleven' = 10.45, 'half past six' = 6.30."
+      ]
+    },
+    {
+      "h": "Dates"
+    },
+    {
+      "bullets": [
+        "You can write dates in any clear form: 3 May, May 3, 3rd May.",
+        "If the form already shows the month, write only the day."
+      ]
+    },
+    {
+      "h": "Postcodes and codes"
+    },
+    {
+      "bullets": [
+        "UK postcodes mix letters and numbers, for example 'BS8 1TH'. Copy the exact order.",
+        "Reference numbers often have a correction or repeated digits."
+      ]
+    },
+    {
+      "tip": "Write letters in capitals while you listen. Lower-case letters like 'a' and 'd' are easy to misread later."
+    }
+  ],
+  "drill": {
+    "passage": null,
+    "script": [
+      {
+        "id": "dln_001",
+        "speaker": "woman",
+        "text": "Westfield Health Centre, registration desk. Can I take your surname, please?"
+      },
+      {
+        "id": "dln_002",
+        "speaker": "man",
+        "text": "Yes, it's Thackeray. T-H-A-C-K-E-R-A-Y."
+      },
+      {
+        "id": "dln_003",
+        "speaker": "woman",
+        "text": "Thank you. And your date of birth?"
+      },
+      {
+        "id": "dln_004",
+        "speaker": "man",
+        "text": "The thirteenth of March, nineteen ninety-four. Sorry, I mean the thirtieth. Three-oh, not one-three."
+      },
+      {
+        "id": "dln_005",
+        "speaker": "woman",
+        "text": "No problem. And a contact number?"
+      },
+      {
+        "id": "dln_006",
+        "speaker": "man",
+        "text": "It's oh-seven-seven-one-four, double five, two, eight, nine, six."
+      },
+      {
+        "id": "dln_007",
+        "speaker": "woman",
+        "text": "And your postcode?"
+      },
+      {
+        "id": "dln_008",
+        "speaker": "man",
+        "text": "L-S-six, four-G-W. And my first appointment is at quarter to eleven, if you need that too."
+      }
+    ],
+    "groups": [
+      {
+        "type": "gap",
+        "from": 1,
+        "to": 5,
+        "layout": "form",
+        "instructions": "Complete the form below.",
+        "limit": "ONE WORD AND/OR A NUMBER",
+        "title": "Westfield Health Centre – new patient",
+        "lines": [
+          "Surname: {{1}}",
+          "Date of birth: {{2}} March 1994",
+          "Contact number: {{3}}",
+          "Postcode: {{4}}",
+          "First appointment: {{5}} a.m."
+        ],
+        "answers": {
+          "1": [
+            "Thackeray"
+          ],
+          "2": [
+            "30",
+            "30th",
+            "thirtieth"
+          ],
+          "3": [
+            "07714552896",
+            "07714 552896"
+          ],
+          "4": [
+            "LS6 4GW",
+            "LS64GW"
+          ],
+          "5": [
+            "10.45",
+            "10:45"
+          ]
+        },
+        "explain": {
+          "1": "The name is spelt: 'T-H-A-C-K-E-R-A-Y.'",
+          "2": "He corrects himself: 'Sorry, I mean the thirtieth. Three-oh, not one-three.'",
+          "3": "'oh-seven-seven-one-four, double five, two, eight, nine, six' = 07714 552896.",
+          "4": "'L-S-six, four-G-W' = LS6 4GW.",
+          "5": "'quarter to eleven' = 10.45."
+        }
+      }
+    ]
+  }
+}

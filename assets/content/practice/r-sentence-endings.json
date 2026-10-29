@@ -1,0 +1,130 @@
+{
+  "id": "r-sentence-endings",
+  "skill": "reading",
+  "title": "Matching sentence endings",
+  "guide": [
+    {
+      "h": "What it tests"
+    },
+    {
+      "p": "You get the first halves of several sentences and a list of possible endings. Each completed sentence must match what the passage says. There are more endings than you need, and the sentence beginnings follow passage order."
+    },
+    {
+      "h": "Step by step"
+    },
+    {
+      "bullets": [
+        "Read each beginning and find its key words in the passage.",
+        "Read that part of the passage carefully and predict how the sentence should finish.",
+        "Choose the ending that matches the meaning — several endings may fit the grammar, but only one is correct.",
+        "Check grammar as a quick filter: singular/plural, verb forms, and whether the beginning needs a noun, a clause or a verb.",
+        "Distractor endings often contain words from the passage but state something the passage does not say."
+      ]
+    },
+    {
+      "tip": "Read the completed sentence aloud in your head. If it says something the writer never claimed, it is wrong."
+    }
+  ],
+  "drill": {
+    "script": null,
+    "passage": {
+      "title": "The return of the night train",
+      "paragraphs": [
+        {
+          "label": "",
+          "text": "For much of the late twentieth century, overnight trains in Europe seemed to belong to the past. Cheap flights and faster daytime trains drew passengers away, and many operators decided that sleeping cars, which carry few people and need staff through the night, were too expensive to run."
+        },
+        {
+          "label": "",
+          "text": "In the last decade, however, interest has returned. Many travellers now worry about the carbon emissions of short flights, and a night train offers a way to cover long distances while losing almost no daytime. A journey that would take a full day by ordinary train can be completed while the passenger sleeps, arriving in a city centre rather than at an airport far outside it."
+        },
+        {
+          "label": "",
+          "text": "Reviving these services is not simple. Sleeping cars are specialised vehicles, and few have been built in recent years, so operators have had to refurbish old carriages while they wait for new ones. Crossing borders adds further difficulty, since each country may have its own safety rules and its own charges for using the tracks."
+        },
+        {
+          "label": "",
+          "text": "Ticket prices are another obstacle. Because each passenger needs a bed, a night train carries far fewer people than a daytime train of the same length, and fares must be higher to cover the costs. Some governments have chosen to support routes with public money, arguing that the environmental benefits justify the expense."
+        },
+        {
+          "label": "",
+          "text": "Whether night trains can grow beyond a niche market will depend largely on these decisions. Supporters argue that, if fares become competitive with flying, demand would be strong enough to fill many more services."
+        }
+      ]
+    },
+    "groups": [
+      {
+        "type": "matching",
+        "from": 1,
+        "to": 5,
+        "instructions": "Complete each sentence with the correct ending, A–G, below.",
+        "optionsTitle": "Endings",
+        "reuse": false,
+        "options": [
+          {
+            "key": "A",
+            "text": "few new sleeping cars have been built."
+          },
+          {
+            "key": "B",
+            "text": "they carry relatively few passengers."
+          },
+          {
+            "key": "C",
+            "text": "they were expensive to run."
+          },
+          {
+            "key": "D",
+            "text": "they believe the environmental gains justify the cost."
+          },
+          {
+            "key": "E",
+            "text": "safety rules are the same in every country."
+          },
+          {
+            "key": "F",
+            "text": "may choose a night train instead of a short flight."
+          },
+          {
+            "key": "G",
+            "text": "airports are being moved closer to city centres."
+          }
+        ],
+        "items": [
+          {
+            "n": 1,
+            "text": "Many operators stopped running night trains because",
+            "answer": "C"
+          },
+          {
+            "n": 2,
+            "text": "Travellers who are concerned about carbon emissions",
+            "answer": "F"
+          },
+          {
+            "n": 3,
+            "text": "Operators have been refurbishing old carriages because",
+            "answer": "A"
+          },
+          {
+            "n": 4,
+            "text": "Night train fares are usually higher than daytime fares because",
+            "answer": "B"
+          },
+          {
+            "n": 5,
+            "text": "Some governments pay to support night routes because",
+            "answer": "D"
+          }
+        ],
+        "explain": {
+          "1": "Paragraph 1: operators 'decided that sleeping cars … were too expensive to run.'",
+          "2": "Paragraph 2: 'Many travellers now worry about the carbon emissions of short flights, and a night train offers a way to cover long distances.'",
+          "3": "Paragraph 3: 'few have been built in recent years, so operators have had to refurbish old carriages.'",
+          "4": "Paragraph 4: 'a night train carries far fewer people … and fares must be higher.'",
+          "5": "Paragraph 4: governments argue 'that the environmental benefits justify the expense.' E contradicts paragraph 3 and G is not mentioned."
+        }
+      }
+    ]
+  }
+}

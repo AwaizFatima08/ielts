@@ -1,0 +1,88 @@
+{
+  "id": "w-task1-charts",
+  "skill": "writing",
+  "title": "Academic Task 1: bar charts, pie charts and tables",
+  "guide": [
+    {
+      "h": "Bar charts"
+    },
+    {
+      "p": "A bar chart may show change over time (like a line graph) or compare categories at one point in time. First decide which kind it is: if the x-axis shows years, use the language of change; if it shows categories (countries, age groups), use the language of comparison."
+    },
+    {
+      "bullets": [
+        "Group bars that behave the same way rather than describing every bar.",
+        "Notice patterns across groups: does one category always lead? Does the gap widen?",
+        "Mention the highest and lowest values and any exceptions."
+      ]
+    },
+    {
+      "h": "Pie charts"
+    },
+    {
+      "p": "Pie charts show proportions of a whole. With two or more pies, the key point is usually how the proportions changed or differed."
+    },
+    {
+      "bullets": [
+        "Use fractions and proportion language: almost half, roughly a quarter, a small minority, the largest share.",
+        "Compare the same slice across the pies: 'Recycling rose from 18% to 39%.'",
+        "Mention the largest slice in the overview and any slice that changes rank."
+      ]
+    },
+    {
+      "h": "Tables"
+    },
+    {
+      "p": "Tables contain a lot of numbers and no visual help, so selection is the main skill. Read across rows and down columns before writing."
+    },
+    {
+      "bullets": [
+        "Find the highest and lowest totals, the biggest changes and any item that moves against the general trend.",
+        "Round figures where it helps: 'just over 300,000', 'nearly 40%'.",
+        "Organise the body paragraphs by group (the rising items vs the falling items), not row by row."
+      ]
+    },
+    {
+      "tip": "For any chart, ask three questions: What is biggest? What changed most? What is the exception? Those answers usually form your overview and body paragraphs."
+    }
+  ],
+  "drill": null,
+  "models": [
+    {
+      "title": "Bar chart: reading habits by age",
+      "prompt": "The chart below shows the average number of minutes per day that people in five age groups in one country spent reading printed books and reading books on screens in 2022.\n\nData (minutes per day) — Printed books: 16–24: 12, 25–34: 15, 35–49: 18, 50–64: 26, 65+: 41. On screens: 16–24: 21, 25–34: 19, 35–49: 14, 50–64: 10, 65+: 6.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+      "answer": "The bar chart illustrates how many minutes per day people in five age groups in one country spent reading printed books and reading books on screens in 2022.\n\nOverall, there was a clear contrast between the generations: older people read far more on paper, while the youngest groups preferred screens. Total reading time was also highest among the oldest age group.\n\nTime spent with printed books rose steadily with age. People aged 16 to 24 spent just 12 minutes a day on them, but the figure increased through each age group to 26 minutes for those aged 50 to 64, and it peaked at 41 minutes among the over-65s, more than three times the figure for the youngest readers.\n\nScreen reading followed the opposite pattern. The 16–24 group read on screens for 21 minutes daily, the highest figure for this format, and the time declined with each older group, falling to only 6 minutes among the over-65s. Only the two youngest groups spent more time reading on screens than on paper; from the age of 35 onwards, printed books were the more popular choice.",
+      "band": 8,
+      "notes": [
+        "The overview identifies the opposite patterns and adds a second feature (total reading time) without numbers.",
+        "Each body paragraph follows one format, which keeps the comparisons clear.",
+        "Comparative language: more than three times the figure, the opposite pattern, the more popular choice.",
+        "The final sentence finds a turning point in the data (the age at which paper overtakes screens) — the kind of observation that lifts a report to Band 8."
+      ]
+    },
+    {
+      "title": "Pie charts: household waste",
+      "prompt": "The pie charts below show how household waste was disposed of in one city in 2005 and 2020.\n\nData — 2005: landfill 64%, recycling 18%, incineration 12%, composting 6%. 2020: landfill 28%, recycling 39%, incineration 21%, composting 12%.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+      "answer": "The two pie charts compare the ways in which household waste was disposed of in one city in 2005 and 2020.\n\nOverall, the city moved away from landfill towards other methods over the fifteen years. While landfill was by far the main method in 2005, recycling had become the most common one by 2020.\n\nIn 2005, almost two thirds of household waste (64%) was sent to landfill. Recycling accounted for 18%, incineration for 12% and composting for a mere 6%, so landfill alone handled far more waste than the other three methods combined.\n\nBy 2020, the picture had changed considerably. The proportion of waste going to landfill had fallen by more than half, to 28%, whereas recycling had more than doubled to 39%, making it the leading method. Incineration and composting also grew, to 21% and 12% respectively, so composting, although still the smallest category, had doubled its share. Taken together, these three alternatives handled almost three quarters of the city's waste in 2020, compared with just over a third in 2005.",
+      "band": 8,
+      "notes": [
+        "The overview states the general shift and the change in the largest slice.",
+        "Proportion language: almost two thirds, a mere 6%, more than doubled, almost three quarters, just over a third.",
+        "'Respectively' lets two figures be given in one clear sentence.",
+        "The last sentence groups three categories to make a comparison the chart does not show directly — careful calculation, not opinion."
+      ]
+    },
+    {
+      "title": "Table: museum visitors",
+      "prompt": "The table below shows the number of visitors (in thousands) to four museums in a city in 2012, 2017 and 2022.\n\nData — Science Museum: 420, 510, 560. Art Gallery: 350, 340, 300. History Museum: 280, 310, 390. Transport Museum: 150, 160, 155.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+      "answer": "The table gives figures for the number of visitors to four museums in one city in 2012, 2017 and 2022, with figures given in thousands.\n\nOverall, the Science Museum was the most visited attraction throughout the period, and both it and the History Museum attracted growing numbers. The Art Gallery, in contrast, lost visitors, while the Transport Museum remained the least popular and changed very little.\n\nThe Science Museum welcomed 420,000 visitors in 2012, and this figure rose to 510,000 in 2017 and 560,000 in 2022. The History Museum showed an even larger proportional rise: after a modest increase from 280,000 to 310,000, it jumped to 390,000 in the final year, overtaking the Art Gallery.\n\nThe Art Gallery began as the second most visited museum, with 350,000 visitors, but its numbers dipped slightly to 340,000 and then fell more noticeably to 300,000. Visitor numbers at the Transport Museum remained almost stable, between 150,000 and 160,000, across all three years, which was less than a third of the Science Museum's total in 2022.",
+      "band": 8,
+      "notes": [
+        "The body is organised by trend (rising museums, then falling and stable ones), not by table row.",
+        "Numbers in thousands are converted into full figures (420,000) — clearer for the reader.",
+        "'An even larger proportional rise' shows the writer has compared percentages, not just raw numbers.",
+        "A change in rank (History Museum overtaking the Art Gallery) is reported, which is a key feature."
+      ]
+    }
+  ]
+}

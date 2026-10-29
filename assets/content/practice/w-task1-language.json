@@ -1,0 +1,217 @@
+{
+  "id": "w-task1-language",
+  "skill": "writing",
+  "title": "Task 1 language: change and comparison",
+  "guide": [
+    {
+      "h": "Two ways to describe a change"
+    },
+    {
+      "p": "You can use a verb with an adverb, or an adjective with a noun. Mixing both patterns gives your writing variety."
+    },
+    {
+      "example": "Verb + adverb: 'Sales rose sharply in 2015.'  Adjective + noun: 'There was a sharp rise in sales in 2015.'"
+    },
+    {
+      "h": "Prepositions with numbers"
+    },
+    {
+      "bullets": [
+        "rose to 40% — the final value",
+        "rose by 10% — the size of the change",
+        "a rise of 10% — the size of the change (noun)",
+        "a rise in sales — what changed (noun)",
+        "stood at / was at 30% — a value at one point",
+        "peaked at 75% — the highest point",
+        "from 20% to 35% — start and end values"
+      ]
+    },
+    {
+      "h": "Choosing the right strength"
+    },
+    {
+      "bullets": [
+        "Big changes: soar, rocket, surge, plummet, plunge; dramatically, sharply, significantly.",
+        "Medium changes: rise, increase, fall, decline; considerably, steadily, noticeably.",
+        "Small changes: dip, edge up; slightly, marginally, gradually.",
+        "No change: remain stable, remain steady, level off, plateau, stay constant.",
+        "Up and down: fluctuate, be volatile."
+      ]
+    },
+    {
+      "tip": "Use strong verbs only when the data really shows a dramatic change. 'Soared' for a 2% rise is inaccurate and is marked down."
+    },
+    {
+      "h": "Comparison structures"
+    },
+    {
+      "bullets": [
+        "X was higher than Y. / X was the highest of all.",
+        "X was twice / three times as high as Y.",
+        "X was almost double the figure for Y.",
+        "X accounted for / made up / represented 40% of the total.",
+        "X rose, whereas / while Y fell.",
+        "By contrast, … / In comparison, … / Similarly, …",
+        "The same was true of …",
+        "X and Y followed similar patterns."
+      ]
+    },
+    {
+      "h": "Approximation"
+    },
+    {
+      "bullets": [
+        "just over / slightly more than 50%",
+        "just under / nearly / almost 50%",
+        "approximately / roughly / around 50%",
+        "about a quarter / a third / half / two thirds / three quarters",
+        "the vast majority / a small minority"
+      ]
+    },
+    {
+      "h": "Time phrases"
+    },
+    {
+      "bullets": [
+        "over the period / throughout the period",
+        "between 2000 and 2010",
+        "in the following decade",
+        "by 2020 (= at or before 2020 — often with past perfect: 'By 2020 the figure had doubled')",
+        "from then on / after that / at the end of the period"
+      ]
+    }
+  ],
+  "drill": null,
+  "vocab": [
+    {
+      "word": "rise / increase",
+      "meaning": "to go up",
+      "example": "The number of cyclists rose by 15% over the decade."
+    },
+    {
+      "word": "climb",
+      "meaning": "to go up gradually, often over a long time",
+      "example": "Prices climbed steadily throughout the 1990s."
+    },
+    {
+      "word": "soar / rocket",
+      "meaning": "to rise very quickly to a high level",
+      "example": "Online sales soared after 2019."
+    },
+    {
+      "word": "surge",
+      "meaning": "a sudden large increase (noun or verb)",
+      "example": "There was a surge in demand for bicycles in 2020."
+    },
+    {
+      "word": "fall / decrease / decline",
+      "meaning": "to go down",
+      "example": "Coal use declined steadily between 1990 and 2020."
+    },
+    {
+      "word": "drop",
+      "meaning": "to fall, often quickly",
+      "example": "Attendance dropped to 40% in the final year."
+    },
+    {
+      "word": "plunge / plummet",
+      "meaning": "to fall very quickly and by a lot",
+      "example": "Profits plummeted from $8 million to $1 million."
+    },
+    {
+      "word": "dip",
+      "meaning": "a small, temporary fall",
+      "example": "Sales dipped slightly in 2014 before recovering."
+    },
+    {
+      "word": "fluctuate",
+      "meaning": "to go up and down irregularly",
+      "example": "The temperature fluctuated between 18 and 24 degrees."
+    },
+    {
+      "word": "level off / plateau",
+      "meaning": "to stop rising or falling and stay at a similar level",
+      "example": "Membership levelled off at around 5,000."
+    },
+    {
+      "word": "remain stable",
+      "meaning": "to stay the same",
+      "example": "The figure for rail travel remained stable at 12%."
+    },
+    {
+      "word": "peak",
+      "meaning": "to reach the highest point",
+      "example": "Visitor numbers peaked at 2.4 million in 2018."
+    },
+    {
+      "word": "hit a low / bottom out",
+      "meaning": "to reach the lowest point before rising again",
+      "example": "Unemployment bottomed out at 4% in 2019."
+    },
+    {
+      "word": "recover",
+      "meaning": "to rise again after a fall",
+      "example": "Tourism recovered quickly after 2021."
+    },
+    {
+      "word": "overtake",
+      "meaning": "to become higher than something that was higher before",
+      "example": "Laptops overtook desktops in 2014."
+    },
+    {
+      "word": "sharply / dramatically",
+      "meaning": "by a large amount, quickly",
+      "example": "Water use increased sharply in summer."
+    },
+    {
+      "word": "considerably / significantly",
+      "meaning": "by a large amount",
+      "example": "The cost of housing rose considerably."
+    },
+    {
+      "word": "steadily / gradually",
+      "meaning": "at a regular, even rate",
+      "example": "The population grew steadily over the century."
+    },
+    {
+      "word": "slightly / marginally",
+      "meaning": "by a small amount",
+      "example": "The figure fell marginally, from 51% to 49%."
+    },
+    {
+      "word": "account for",
+      "meaning": "to form a part or percentage of a total",
+      "example": "Wind power accounted for a quarter of all electricity."
+    },
+    {
+      "word": "whereas / while",
+      "meaning": "used to contrast two facts in one sentence",
+      "example": "Car use rose, whereas bus use fell."
+    },
+    {
+      "word": "twice as … as",
+      "meaning": "two times the size or amount",
+      "example": "Men were twice as likely as women to cycle to work."
+    },
+    {
+      "word": "the majority of",
+      "meaning": "more than half",
+      "example": "The majority of students lived on campus."
+    },
+    {
+      "word": "respectively",
+      "meaning": "in the same order as the things just mentioned",
+      "example": "France and Spain received 30% and 25% respectively."
+    },
+    {
+      "word": "approximately",
+      "meaning": "close to but not exactly",
+      "example": "Approximately 60% of homes had a garden."
+    },
+    {
+      "word": "the figure for",
+      "meaning": "the number or percentage belonging to something",
+      "example": "The figure for Japan was much lower."
+    }
+  ]
+}

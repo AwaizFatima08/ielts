@@ -1,0 +1,186 @@
+{
+  "id": "l-distractors",
+  "skill": "listening",
+  "title": "Distractors and signposting",
+  "guide": [
+    {
+      "h": "What a distractor is"
+    },
+    {
+      "p": "A distractor is information that sounds like an answer but is not. IELTS recordings are full of them: a speaker gives a detail and then corrects it, mentions an option and rejects it, or reports what other people think before giving their own view."
+    },
+    {
+      "h": "Common distractor patterns"
+    },
+    {
+      "bullets": [
+        "Correction: 'The meeting's at three — sorry, half past three.'",
+        "Change of plan: 'We were going to use the hall, but it's being repainted, so we'll be in the gym.'",
+        "Old versus new: 'It used to be free. Now there's a small charge.'",
+        "Other people's opinion versus the speaker's: 'Most people say the price is the problem, but I think it's the location.'",
+        "Contrast words that cancel the first idea: but, however, actually, in fact, although."
+      ]
+    },
+    {
+      "h": "Signposting language"
+    },
+    {
+      "p": "Signposts are phrases that organise talks and lectures. In Parts 2 and 4 they tell you that the next question is coming."
+    },
+    {
+      "bullets": [
+        "Introducing a plan: I'll cover three things… / First… then… finally…",
+        "Moving on: Moving on to… / Turning now to… / Let's look at…",
+        "Adding: What's more… / Another point is…",
+        "Contrasting: On the other hand… / Despite this…",
+        "Giving the main point: The key thing is… / What really matters is…",
+        "Concluding: To sum up… / So, to conclude…"
+      ]
+    },
+    {
+      "tip": "When you hear 'Moving on to…' and you are still waiting for an answer, you have probably missed it. Go straight to the next question."
+    }
+  ],
+  "drill": {
+    "passage": null,
+    "script": [
+      {
+        "id": "dld_001",
+        "speaker": "lecturer",
+        "text": "Before we start, a few changes to the course. Thursday's seminar was going to be in Room 12, but it's now in the library, on the second floor."
+      },
+      {
+        "id": "dld_002",
+        "speaker": "lecturer",
+        "text": "The essay deadline was the fifth of May. Several of you asked for more time, so I've moved it to the twelfth. That's final, I'm afraid."
+      },
+      {
+        "id": "dld_003",
+        "speaker": "lecturer",
+        "text": "Now, today's topic. I'll cover three things: first, why coastal cities are growing; second, the risks they face; and finally, what planners are doing about those risks."
+      },
+      {
+        "id": "dld_004",
+        "speaker": "lecturer",
+        "text": "So, to begin with growth. You might assume it's mainly about tourism, and tourism does matter, but the biggest single driver is actually trade through ports."
+      },
+      {
+        "id": "dld_005",
+        "speaker": "lecturer",
+        "text": "Moving on to risks. Storms get most of the headlines, but the researchers I'll discuss argue that the slow sinking of the land is the greater long-term threat."
+      }
+    ],
+    "groups": [
+      {
+        "type": "mcq",
+        "from": 1,
+        "to": 5,
+        "instructions": "Choose the correct letter, A, B or C.",
+        "questions": [
+          {
+            "n": 1,
+            "stem": "Where will Thursday's seminar take place?",
+            "options": [
+              {
+                "key": "A",
+                "text": "Room 12"
+              },
+              {
+                "key": "B",
+                "text": "the library"
+              },
+              {
+                "key": "C",
+                "text": "Room 2"
+              }
+            ],
+            "answer": "B"
+          },
+          {
+            "n": 2,
+            "stem": "When must the essay be handed in?",
+            "options": [
+              {
+                "key": "A",
+                "text": "5 May"
+              },
+              {
+                "key": "B",
+                "text": "12 May"
+              },
+              {
+                "key": "C",
+                "text": "15 May"
+              }
+            ],
+            "answer": "B"
+          },
+          {
+            "n": 3,
+            "stem": "What will the lecturer talk about last?",
+            "options": [
+              {
+                "key": "A",
+                "text": "why coastal cities are growing"
+              },
+              {
+                "key": "B",
+                "text": "the risks coastal cities face"
+              },
+              {
+                "key": "C",
+                "text": "how planners respond to the risks"
+              }
+            ],
+            "answer": "C"
+          },
+          {
+            "n": 4,
+            "stem": "According to the lecturer, what is the main cause of coastal city growth?",
+            "options": [
+              {
+                "key": "A",
+                "text": "tourism"
+              },
+              {
+                "key": "B",
+                "text": "port trade"
+              },
+              {
+                "key": "C",
+                "text": "people moving from farms"
+              }
+            ],
+            "answer": "B"
+          },
+          {
+            "n": 5,
+            "stem": "The researchers believe the most serious long-term risk is",
+            "options": [
+              {
+                "key": "A",
+                "text": "storms."
+              },
+              {
+                "key": "B",
+                "text": "rising sea levels."
+              },
+              {
+                "key": "C",
+                "text": "sinking land."
+              }
+            ],
+            "answer": "C"
+          }
+        ],
+        "explain": {
+          "1": "'was going to be in Room 12, but it's now in the library.' 'Second floor' is a trap for C.",
+          "2": "'The essay deadline was the fifth of May … I've moved it to the twelfth.'",
+          "3": "Signposting: 'first … second … and finally, what planners are doing about those risks.'",
+          "4": "'You might assume it's mainly about tourism … but the biggest single driver is actually trade through ports.'",
+          "5": "'Storms get most of the headlines, but … the slow sinking of the land is the greater long-term threat.' Sea levels are not mentioned."
+        }
+      }
+    ]
+  }
+}

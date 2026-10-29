@@ -1,0 +1,14 @@
+{
+  "tests": [
+    { "id": "t01", "title": "Test 1", "ready": true },
+    { "id": "t02", "title": "Test 2", "ready": false },
+    { "id": "t03", "title": "Test 3", "ready": false },
+    { "id": "t04", "title": "Test 4", "ready": false },
+    { "id": "t05", "title": "Test 5", "ready": false },
+    { "id": "t06", "title": "Test 6", "ready": false },
+    { "id": "t07", "title": "Test 7", "ready": false },
+    { "id": "t08", "title": "Test 8", "ready": false },
+    { "id": "t09", "title": "Test 9", "ready": false },
+    { "id": "t10", "title": "Test 10", "ready": false }
+  ]
+}

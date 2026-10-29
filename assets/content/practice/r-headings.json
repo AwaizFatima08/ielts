@@ -1,0 +1,140 @@
+{
+  "id": "r-headings",
+  "skill": "reading",
+  "title": "Matching headings",
+  "guide": [
+    {
+      "h": "What it tests"
+    },
+    {
+      "p": "You get a list of headings (i, ii, iii…) and choose the one that best matches the main idea of each paragraph. There are always more headings than paragraphs. This tests whether you can see the overall point of a paragraph rather than its details."
+    },
+    {
+      "h": "Step by step"
+    },
+    {
+      "bullets": [
+        "Read the headings first and underline the key idea of each one.",
+        "Read the first and last sentences of a paragraph — the main idea is often there — then skim the middle.",
+        "Ask: what is this paragraph mainly about? Summarise it in four or five words of your own before you look at the headings.",
+        "Choose the heading that covers the whole paragraph, not one detail of it.",
+        "Do the easy paragraphs first; the remaining choices then become smaller."
+      ]
+    },
+    {
+      "h": "Common traps"
+    },
+    {
+      "bullets": [
+        "A heading that repeats a word from the paragraph but describes a minor detail.",
+        "A heading that is too general (it could fit the whole passage) or too narrow.",
+        "Two headings that seem similar: look for the difference (causes vs effects, past vs future)."
+      ]
+    },
+    {
+      "tip": "This task often comes first in a section but is best done after you have skimmed the whole passage once."
+    }
+  ],
+  "drill": {
+    "script": null,
+    "passage": {
+      "title": "Water from the sea",
+      "paragraphs": [
+        {
+          "label": "A",
+          "text": "Although the oceans hold most of the planet's water, almost none of it can be drunk. For coastal cities in dry regions, however, the sea is the one source that never runs out, and desalination — removing the salt from seawater — has become an essential part of their water supply."
+        },
+        {
+          "label": "B",
+          "text": "Early desalination plants worked by boiling seawater and collecting the steam, leaving the salt behind. The method was reliable but consumed enormous quantities of fuel, so it was mostly used where oil or gas was cheap. Today most new plants use reverse osmosis instead: seawater is pushed at high pressure through membranes with pores so small that salt cannot pass through."
+        },
+        {
+          "label": "C",
+          "text": "Reverse osmosis uses far less energy than boiling, but it is still expensive compared with pumping water from rivers or underground. Electricity is the largest single cost, which is why engineers continue to search for membranes that let water through at lower pressure. Some plants also recover energy from the high-pressure waste stream, cutting their electricity bills considerably."
+        },
+        {
+          "label": "D",
+          "text": "The waste stream itself is a further concern. For every litre of fresh water produced, a plant releases a concentrated salty liquid called brine back into the sea. If brine is released in one place, it sinks to the sea floor and can harm the creatures living there. Careful design, such as spreading the discharge through many small outlets, reduces this damage."
+        },
+        {
+          "label": "E",
+          "text": "Despite these drawbacks, desalination is likely to expand. Cities facing longer droughts see it as a form of insurance: the rain may fail, but the sea will not. The challenge for the coming decades is to power these plants with renewable energy, so that solving one environmental problem does not make another worse."
+        }
+      ]
+    },
+    "groups": [
+      {
+        "type": "matching",
+        "from": 1,
+        "to": 5,
+        "instructions": "The reading passage has five paragraphs, A–E. Choose the correct heading for each paragraph from the list of headings below.",
+        "optionsTitle": "List of Headings",
+        "reuse": false,
+        "options": [
+          {
+            "key": "i",
+            "text": "The search for cheaper operation"
+          },
+          {
+            "key": "ii",
+            "text": "A dependable source for dry coasts"
+          },
+          {
+            "key": "iii",
+            "text": "How the technology has changed"
+          },
+          {
+            "key": "iv",
+            "text": "Why rivers are drying up"
+          },
+          {
+            "key": "v",
+            "text": "Protecting sea life from waste"
+          },
+          {
+            "key": "vi",
+            "text": "The future role of the technology"
+          },
+          {
+            "key": "vii",
+            "text": "Public opposition to new plants"
+          }
+        ],
+        "items": [
+          {
+            "n": 1,
+            "text": "Paragraph A",
+            "answer": "ii"
+          },
+          {
+            "n": 2,
+            "text": "Paragraph B",
+            "answer": "iii"
+          },
+          {
+            "n": 3,
+            "text": "Paragraph C",
+            "answer": "i"
+          },
+          {
+            "n": 4,
+            "text": "Paragraph D",
+            "answer": "v"
+          },
+          {
+            "n": 5,
+            "text": "Paragraph E",
+            "answer": "vi"
+          }
+        ],
+        "explain": {
+          "1": "A explains that for dry coastal cities 'the sea is the one source that never runs out' — a dependable source.",
+          "2": "B moves from 'Early desalination plants' (boiling) to 'Today most new plants use reverse osmosis' — a change in technology.",
+          "3": "C is about costs: 'Electricity is the largest single cost' and ways of 'cutting their electricity bills'.",
+          "4": "D describes brine that 'can harm the creatures living there' and design that 'reduces this damage'.",
+          "5": "E: 'desalination is likely to expand … The challenge for the coming decades…' Heading iv and vii are not discussed."
+        }
+      }
+    ]
+  }
+}

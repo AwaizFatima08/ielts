@@ -1,0 +1,146 @@
+{
+  "id": "v-health",
+  "skill": "vocabulary",
+  "title": "Topic vocabulary: health",
+  "guide": [
+    {
+      "h": "Why learn health vocabulary?"
+    },
+    {
+      "p": "Health questions often ask about lifestyle (diet, exercise, stress), healthcare (who should pay, prevention or treatment) and ageing populations. These words help you discuss both personal habits and public policy."
+    },
+    {
+      "bullets": [
+        "Learn words in phrases, not alone: notice which verbs, adjectives and prepositions go with them.",
+        "Practise each word in a sentence about your own life or country — it will be easier to use in Speaking.",
+        "In Writing, choose the precise word over the impressive-sounding one. Accuracy beats complexity."
+      ]
+    },
+    {
+      "tip": "'Healthy' describes a person, food or lifestyle; 'healthcare' is the system of medical services; 'health' is the general condition."
+    }
+  ],
+  "drill": null,
+  "vocab": [
+    {
+      "word": "sedentary lifestyle",
+      "meaning": "a way of life with little physical activity",
+      "example": "Office work often leads to a sedentary lifestyle."
+    },
+    {
+      "word": "balanced diet",
+      "meaning": "a diet with the right amounts of different foods",
+      "example": "A balanced diet includes plenty of vegetables."
+    },
+    {
+      "word": "nutritious",
+      "meaning": "containing substances the body needs",
+      "example": "School meals should be cheap and nutritious."
+    },
+    {
+      "word": "processed food",
+      "meaning": "food changed by industrial methods, often with added salt or sugar",
+      "example": "Processed food is linked to heart disease."
+    },
+    {
+      "word": "obesity",
+      "meaning": "the condition of being very overweight",
+      "example": "Childhood obesity has doubled in some countries."
+    },
+    {
+      "word": "life expectancy",
+      "meaning": "the average number of years a person is expected to live",
+      "example": "Life expectancy has risen steadily for decades."
+    },
+    {
+      "word": "chronic",
+      "meaning": "lasting a long time (of illness)",
+      "example": "Diabetes is a chronic condition."
+    },
+    {
+      "word": "preventive",
+      "meaning": "intended to stop something happening",
+      "example": "Preventive care is cheaper than treatment."
+    },
+    {
+      "word": "vaccination",
+      "meaning": "giving a substance to protect against a disease",
+      "example": "Vaccination programmes have saved millions of lives."
+    },
+    {
+      "word": "mental health",
+      "meaning": "the condition of a person's mind and emotions",
+      "example": "Exercise has clear benefits for mental health."
+    },
+    {
+      "word": "wellbeing",
+      "meaning": "the state of being healthy and happy",
+      "example": "Green spaces improve residents' wellbeing."
+    },
+    {
+      "word": "stress",
+      "meaning": "mental pressure caused by difficulties",
+      "example": "Long working hours cause stress and poor sleep."
+    },
+    {
+      "word": "burden",
+      "meaning": "a heavy responsibility or cost",
+      "example": "An ageing population places a burden on health services."
+    },
+    {
+      "word": "ageing population",
+      "meaning": "a population with a growing share of older people",
+      "example": "An ageing population needs more care workers."
+    },
+    {
+      "word": "healthcare system",
+      "meaning": "the services and organisations that provide medical care",
+      "example": "The country's healthcare system is funded by taxes."
+    },
+    {
+      "word": "public health campaign",
+      "meaning": "an organised effort to improve health habits",
+      "example": "A public health campaign encouraged people to stop smoking."
+    },
+    {
+      "word": "symptom",
+      "meaning": "a sign of an illness",
+      "example": "Fever is a common symptom of flu."
+    },
+    {
+      "word": "diagnosis",
+      "meaning": "identifying an illness",
+      "example": "Early diagnosis improves the chances of recovery."
+    },
+    {
+      "word": "side effect",
+      "meaning": "an unwanted effect of a medicine",
+      "example": "Drowsiness is a side effect of some medicines."
+    },
+    {
+      "word": "recover from",
+      "meaning": "to become healthy again after an illness",
+      "example": "It took him months to recover from the operation."
+    },
+    {
+      "word": "sleep deprivation",
+      "meaning": "not getting enough sleep",
+      "example": "Sleep deprivation reduces concentration."
+    },
+    {
+      "word": "work out",
+      "meaning": "to exercise, especially in a gym",
+      "example": "I try to work out three times a week."
+    },
+    {
+      "word": "access to healthcare",
+      "meaning": "the ability to get medical services",
+      "example": "Rural areas often have poor access to healthcare."
+    },
+    {
+      "word": "in good shape",
+      "meaning": "physically fit",
+      "example": "Cycling to work keeps me in good shape."
+    }
+  ]
+}

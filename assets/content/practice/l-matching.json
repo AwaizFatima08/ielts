@@ -1,0 +1,130 @@
+{
+  "id": "l-matching",
+  "skill": "listening",
+  "title": "Matching",
+  "guide": [
+    {
+      "h": "What it tests"
+    },
+    {
+      "p": "In matching tasks you connect a numbered list (people, days, places, stages) with a lettered box of options. It usually appears in Parts 2 and 3. There are more options than questions, so some letters are not used."
+    },
+    {
+      "h": "How to approach it"
+    },
+    {
+      "bullets": [
+        "The numbered items are heard in order; the lettered options are not.",
+        "Read the options several times so you can recognise them when they are paraphrased.",
+        "Speakers often give one option and then change it. Wait until the speaker moves on to the next person before you decide.",
+        "Cross out options as you use them, unless the instructions say you may use a letter more than once."
+      ]
+    },
+    {
+      "example": "Option: 'deals with money'. You hear: 'Sam looks after the budget.'"
+    },
+    {
+      "tip": "If two numbered items are mentioned close together, write a quick letter next to both and check at the end."
+    }
+  ],
+  "drill": {
+    "passage": null,
+    "script": [
+      {
+        "id": "dlt_001",
+        "speaker": "woman",
+        "text": "Right, everyone, here are the jobs for Saturday's charity run. Priya, you were going to do registration, but you know the route best, so I'd like you to put up the route signs instead."
+      },
+      {
+        "id": "dlt_002",
+        "speaker": "woman",
+        "text": "Marcus, I'd planned to have you at the finish line handing out water. Actually, no, the water station is at the halfway point this year, so Marcus, you're at halfway."
+      },
+      {
+        "id": "dlt_003",
+        "speaker": "woman",
+        "text": "Hannah has offered to take photos, which is great, because our usual photographer is away."
+      },
+      {
+        "id": "dlt_004",
+        "speaker": "woman",
+        "text": "Leo, you're on registration now that Priya has moved. You'll need to arrive by seven to set up the tables."
+      },
+      {
+        "id": "dlt_005",
+        "speaker": "woman",
+        "text": "And finally, Sofia. Sofia trained as a nurse, so she'll run the first-aid tent near the finish line. Car parking will be handled by the stadium staff, so none of you need to worry about that."
+      }
+    ],
+    "groups": [
+      {
+        "type": "matching",
+        "from": 1,
+        "to": 5,
+        "instructions": "What job will each volunteer do? Choose FIVE answers from the box and write the correct letter, A–F, next to questions 1–5.",
+        "optionsTitle": "Jobs",
+        "reuse": false,
+        "options": [
+          {
+            "key": "A",
+            "text": "registration"
+          },
+          {
+            "key": "B",
+            "text": "route signs"
+          },
+          {
+            "key": "C",
+            "text": "water station"
+          },
+          {
+            "key": "D",
+            "text": "photography"
+          },
+          {
+            "key": "E",
+            "text": "first aid"
+          },
+          {
+            "key": "F",
+            "text": "car parking"
+          }
+        ],
+        "items": [
+          {
+            "n": 1,
+            "text": "Priya",
+            "answer": "B"
+          },
+          {
+            "n": 2,
+            "text": "Marcus",
+            "answer": "C"
+          },
+          {
+            "n": 3,
+            "text": "Hannah",
+            "answer": "D"
+          },
+          {
+            "n": 4,
+            "text": "Leo",
+            "answer": "A"
+          },
+          {
+            "n": 5,
+            "text": "Sofia",
+            "answer": "E"
+          }
+        ],
+        "explain": {
+          "1": "'Priya, you were going to do registration, but … I'd like you to put up the route signs instead.'",
+          "2": "'the water station is at the halfway point this year, so Marcus, you're at halfway.' The finish line is the rejected plan.",
+          "3": "'Hannah has offered to take photos.'",
+          "4": "'Leo, you're on registration now that Priya has moved.'",
+          "5": "'she'll run the first-aid tent near the finish line.' Car parking (F) is done by stadium staff, so it is not used."
+        }
+      }
+    ]
+  }
+}

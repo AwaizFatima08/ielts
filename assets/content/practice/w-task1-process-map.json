@@ -1,0 +1,67 @@
+{
+  "id": "w-task1-process-map",
+  "skill": "writing",
+  "title": "Academic Task 1: processes and maps",
+  "guide": [
+    {
+      "h": "Process diagrams"
+    },
+    {
+      "p": "A process diagram shows how something is made or how a natural cycle works. There are no numbers to compare, so your score depends on describing every stage clearly and in order."
+    },
+    {
+      "bullets": [
+        "Count the stages and find the start and end points. Your overview should say how many stages there are and where the process begins and ends.",
+        "Use the passive for man-made processes: 'The beans are roasted', 'The water is filtered'.",
+        "Use sequencing language: first, next, then, after that, once…, at this stage, finally.",
+        "Include every stage, using the labels on the diagram but changing their form: 'heating' → 'is heated'.",
+        "Natural cycles (the water cycle, a frog's life) are usually described in the active voice."
+      ]
+    },
+    {
+      "h": "Maps"
+    },
+    {
+      "p": "Map tasks usually show the same place at two times, or a place now and a plan for the future. You describe what changed."
+    },
+    {
+      "bullets": [
+        "Overview: the most significant overall change (more housing, less farmland, a more developed town).",
+        "Organise the body by area (north/south, east/west) or by type of change (new buildings, removed features, things that stayed).",
+        "Change language: was replaced by, was converted into, was demolished, was extended, was constructed, made way for, remained unchanged.",
+        "Location language: to the north of, in the south-east corner, alongside the river, opposite the school, on the site of the former…",
+        "Tense: past simple and present perfect for past maps ('A car park has been built'); 'will be' or 'is planned to be' for proposals."
+      ]
+    },
+    {
+      "tip": "For maps, write down a quick list of every difference you can see before you start. It is easy to forget one small change."
+    }
+  ],
+  "drill": null,
+  "models": [
+    {
+      "title": "Process: rainwater harvesting",
+      "prompt": "The diagram below shows how a household rainwater harvesting system works.\n\nThe diagram shows: rain falls on a sloping roof → water runs into gutters → down a downpipe → through a leaf filter → into an underground storage tank (an overflow pipe leads from the tank to the main drain) → an electric pump → an ultraviolet (UV) treatment unit → used for toilets, a washing machine and an outdoor garden tap.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+      "answer": "The diagram illustrates how a household rainwater harvesting system collects rain and makes it ready for use in and around the home.\n\nOverall, the process involves a series of stages, beginning with rain falling on the roof and ending with the treated water being supplied to toilets, a washing machine and a garden tap. Most of the system relies on gravity, with electricity needed only in the final stages.\n\nFirst, rain falls onto the sloping roof and runs into the gutters, which carry it to a downpipe. Before entering storage, the water passes through a filter that removes leaves and other debris. The filtered water then flows into a large underground tank, where it is stored until it is needed. If the tank becomes full, excess water is directed through an overflow pipe into the main drain.\n\nWhen water is required, an electric pump draws it out of the tank and sends it through an ultraviolet treatment unit, where bacteria are killed. Finally, the treated water is piped into the house, where it is used for flushing toilets and washing clothes, and to an outdoor tap for watering the garden.",
+      "band": 8,
+      "notes": [
+        "The overview gives the start and end of the process and one general feature (gravity versus electricity).",
+        "Every stage in the diagram is included, in order, with sequencing words: first, before, then, when, finally.",
+        "Passive forms suit a man-made process: is stored, is directed, are killed, is piped.",
+        "Relative clauses (which carry it…, where it is stored…) join stages smoothly and show grammatical range."
+      ]
+    },
+    {
+      "title": "Maps: a village then and now",
+      "prompt": "The maps below show the village of Elmford in 2000 and today.\n\nIn 2000: a main road runs east to west through the village; farmland lies north of the road; south of the road are a small shop, a post office and a primary school; woodland covers the west of the village; a river runs along the eastern edge, crossed by a footbridge.\n\nToday: the farmland has been replaced by a housing estate with a playground; the shop is now a supermarket with a car park; the post office is now a café; the school has a new extension; the footbridge has been replaced by a road bridge; half of the woodland has been cleared for a sports field; a cycle path runs alongside the river.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+      "answer": "The maps compare the village of Elmford in 2000 with the village as it is today.\n\nOverall, Elmford has developed from a small rural settlement into a larger residential community, with new housing replacing farmland and improved transport and leisure facilities. The main road, however, still follows the same route through the village.\n\nThe most significant change has taken place to the north of the main road, where the farmland has made way for a housing estate that includes a children's playground. To the west, half of the woodland has been cleared to create a sports field, although the remaining trees have been kept.\n\nSouth of the road, the village services have also changed. The small shop has been expanded into a supermarket with its own car park, and the post office has been converted into a café. The primary school is still on its original site but has been extended. Finally, on the eastern edge of the village, the footbridge over the river has been replaced by a road bridge, and a new cycle path has been built alongside the river.",
+      "band": 8,
+      "notes": [
+        "The overview summarises the general change (rural to residential) and notes one feature that stayed the same.",
+        "The body is organised by area — north, west, south, east — so the reader can follow the map.",
+        "A wide range of change verbs: made way for, has been cleared, has been expanded, has been converted into, has been extended, has been replaced by.",
+        "Present perfect passive is used because the second map shows the present day."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,303 @@
+{
+  "id": "t01",
+  "section": "reading",
+  "module": "academic",
+  "passages": [
+    {
+      "number": 1,
+      "part": 1,
+      "title": "Signals Across the Sky",
+      "subtitle": "How a chain of wooden towers gave France the fastest communication system of its age",
+      "paragraphs": [
+        { "label": "", "text": "Long before the electric wire, and centuries after beacon fires had first been lit on hilltops to warn of approaching enemies, France built a communication network that could carry a message across the country in a matter of hours. It used no electricity at all. Instead, it relied on a chain of towers, each topped with a set of wooden arms that could be moved into different positions, and on human operators who watched the neighbouring tower through a telescope and copied whatever shape they saw. For roughly half a century, this 'optical telegraph' was the fastest way of sending information over land anywhere in the world." },
+        { "label": "", "text": "The system was the work of Claude Chappe, a former trainee priest who had lost his church income during the upheavals of the French Revolution. Working with his four brothers, he experimented with several designs before settling on one that observers could read reliably from a distance. A first public demonstration took place in March 1791 in the Sarthe region of western France, where a short message was passed between two points about 14 kilometres apart. The brothers' early trials were not always welcomed: on at least one occasion, a suspicious crowd in Paris, convinced that the apparatus was being used to communicate with enemies of the Revolution, destroyed it." },
+        { "label": "", "text": "The design that eventually succeeded consisted of a long horizontal beam, called the regulator, with a shorter arm, known as an indicator, attached to each end. Ropes and pulleys allowed an operator inside the tower to set the regulator and the two indicators at angles of 45 degrees, producing a large number of distinct shapes. Chappe's team selected 92 of these as usable signals. Rather than spelling out words letter by letter, which would have been slow, the operators sent pairs of signals: the first identified a page in a code book and the second a line on that page. With 92 pages of 92 entries, a single pair could stand for any one of 8,464 words or phrases." },
+        { "label": "", "text": "Crucially, the men who worked the towers were never given the code book. They were trained only to reproduce the shapes accurately and pass them on, so they had no idea what the messages meant. Only the directors at either end of a line could decode them. This arrangement protected military and government secrets, and it also meant that operators could be recruited without much formal education, since the job demanded sharp eyes and patience rather than the ability to read." },
+        { "label": "", "text": "In 1793 the revolutionary government, then at war with several neighbouring states, agreed to fund a line from Paris to Lille, near the northern frontier. It opened the following year with around 15 stations covering about 230 kilometres. Its value was demonstrated almost at once. In August 1794, news that French forces had recaptured the town of Le Quesnoy reached Paris in roughly an hour, whereas a courier on horseback would have needed well over a day. Politicians were quick to grasp what this speed meant for controlling a large and unsettled country, and new lines were soon planned towards Strasbourg, Brest and the south." },
+        { "label": "", "text": "By the 1840s the French network had grown to more than 530 stations and stretched for some 5,000 kilometres, linking Paris with most major cities. Other countries built their own versions. In Sweden, Abraham Niclas Edelcrantz developed a system in which a grid of ten shutters was opened and closed, while in Britain the Admiralty used a shutter telegraph to connect London with naval ports on the south coast. These systems differed in their mechanics, but all of them depended on the same basic principle of relaying visible signals from one station to the next." },
+        { "label": "", "text": "The technology had obvious weaknesses. Because every signal had to be seen, it could not operate at night, and fog, rain or heavy mist could halt traffic for days. Even in good conditions, a mistake made at one tower would be copied faithfully by every tower further down the line. The network was also extremely expensive to run, as each station needed at least two staff on duty throughout the hours of daylight. For these reasons, it was used almost exclusively for official business; ordinary citizens were not permitted to send messages, and a law of 1837 made it a criminal offence to transmit signals without government authority." },
+        { "label": "", "text": "That law was prompted by one of the earliest recorded cases of what might now be called data fraud. Two bankers in Bordeaux bribed telegraph operators to insert deliberate 'errors' into routine government messages. These errors, which went unnoticed by the directors who received the official text, revealed the movement of government bond prices in Paris several days before the news could arrive by mail coach. The scheme ran for about two years before it was discovered in 1836. Since no existing law covered the misuse of a telegraph, the two men could not be convicted." },
+        { "label": "", "text": "The end came with the electric telegraph, which could work in any weather, by day or night, and required far fewer staff. France was slower than Britain to adopt the new invention, partly because officials trusted the security of the old system and doubted that a wire running across open country could be protected from sabotage. During the 1850s, however, the optical lines were closed one after another. Today a handful of towers have been restored as museums, reminders of an age when the fastest message in the world travelled by eyesight." }
+      ],
+      "groups": [
+        {
+          "type": "tfng", "variant": "tfng", "from": 1, "to": 5,
+          "instructions": "Do the following statements agree with the information given in Reading Passage 1? Write TRUE if the statement agrees with the information, FALSE if the statement contradicts the information, NOT GIVEN if there is no information on this.",
+          "questions": [
+            { "n": 1, "text": "Claude Chappe developed the telegraph with the help of members of his family.", "answer": "TRUE" },
+            { "n": 2, "text": "The first public demonstration of the optical telegraph took place in Paris.", "answer": "FALSE" },
+            { "n": 3, "text": "Chappe received a payment from the government after his first demonstration.", "answer": "NOT GIVEN" },
+            { "n": 4, "text": "Tower operators understood the content of the messages they passed on.", "answer": "FALSE" },
+            { "n": 5, "text": "Many of the tower operators had previously served in the army.", "answer": "NOT GIVEN" }
+          ],
+          "explain": {
+            "1": "'Working with his four brothers, he experimented with several designs…' — his brothers are members of his family.",
+            "2": "'A first public demonstration took place in March 1791 in the Sarthe region of western France' — not Paris. (Paris is only mentioned for a later incident in which a crowd destroyed the apparatus.)",
+            "3": "The passage describes the 1791 demonstration but says nothing about any payment or reward to Chappe afterwards. The government's funding in 1793 was for the Paris–Lille line, not a payment for the demonstration.",
+            "4": "'They were trained only to reproduce the shapes accurately and pass them on, so they had no idea what the messages meant.'",
+            "5": "The passage says operators 'could be recruited without much formal education', but gives no information about any military background."
+          }
+        },
+        {
+          "type": "gap", "layout": "table", "from": 6, "to": 9,
+          "instructions": "Complete the table below. Choose ONE WORD AND/OR A NUMBER from the passage for each answer.",
+          "limit": "ONE WORD AND/OR A NUMBER",
+          "title": "The Chappe optical telegraph",
+          "table": {
+            "header": ["Feature", "Details"],
+            "rows": [
+              ["Main horizontal beam", "called the {{6}}"],
+              ["Signals sent in pairs", "first signal = a page in the code book; second signal = a {{7}} on that page"],
+              ["Paris–Lille line (opened 1794)", "around {{8}} stations over about 230 km"],
+              ["Whole French network (1840s)", "more than 530 stations; about {{9}} km long"]
+            ]
+          },
+          "answers": {
+            "6": ["regulator"],
+            "7": ["line"],
+            "8": ["15", "fifteen"],
+            "9": ["5,000", "5000"]
+          },
+          "explain": {
+            "6": "'a long horizontal beam, called the regulator'",
+            "7": "'the first identified a page in a code book and the second a line on that page'",
+            "8": "'It opened the following year with around 15 stations covering about 230 kilometres.'",
+            "9": "'By the 1840s the French network had grown to more than 530 stations and stretched for some 5,000 kilometres'"
+          }
+        },
+        {
+          "type": "gap", "layout": "summary", "from": 10, "to": 13,
+          "instructions": "Complete the summary below. Choose NO MORE THAN TWO WORDS from the passage for each answer.",
+          "limit": "NO MORE THAN TWO WORDS",
+          "title": "Limitations and misuse of the optical telegraph",
+          "lines": [
+            "The optical telegraph could not be used at {{10}}, and poor weather such as fog could stop it for days. Any mistake was repeated by every tower along the line. Because the network was so costly to operate, it was used almost only for {{11}}, and the public could not send messages. A law passed in 1837 followed a case in which two {{12}} from Bordeaux paid operators to add false errors to government messages. These errors gave early information about government {{13}} in Paris."
+          ],
+          "answers": {
+            "10": ["night"],
+            "11": ["official business"],
+            "12": ["bankers"],
+            "13": ["bond prices"]
+          },
+          "explain": {
+            "10": "'Because every signal had to be seen, it could not operate at night'",
+            "11": "'For these reasons, it was used almost exclusively for official business'",
+            "12": "'Two bankers in Bordeaux bribed telegraph operators to insert deliberate \"errors\"'",
+            "13": "'These errors … revealed the movement of government bond prices in Paris several days before the news could arrive by mail coach.'"
+          }
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "part": 2,
+      "title": "Life in the Twilight Zone",
+      "subtitle": "The dim middle layer of the ocean may hold more animal life than anywhere else on Earth — and it is attracting attention from more than just scientists",
+      "paragraphs": [
+        { "label": "A", "text": "Between about 200 and 1,000 metres below the surface of the sea lies a region that oceanographers call the mesopelagic zone, though it is more widely known as the twilight zone. Enough sunlight filters down to create a faint blue gloom by day, but far too little for plants or algae to carry out photosynthesis. It is one of the largest habitats on the planet and also one of the least explored. Its residents are mostly small and easily overlooked: lanternfish no longer than a finger, shrimp-like krill, squid, jellyfish and tiny fish called bristlemouths. Bristlemouths are rarely seen by anyone except specialists, yet some biologists believe they may be the most numerous vertebrates on Earth, with populations numbering in the hundreds of trillions." },
+        { "label": "B", "text": "Ironically, the twilight zone first came to wide attention because of a mistake. During the Second World War, naval vessels using sonar to hunt submarines noticed a strange band that reflected sound at a depth of several hundred metres. At first, many operators assumed they were detecting the sea floor, and the feature became known as the 'false bottom'. What made no sense was its behaviour: the layer rose towards the surface each evening and sank again each morning, something no seabed could do. Only after the war did researchers confirm that the 'deep scattering layer', as it was renamed, was alive. Its echo comes largely from the gas-filled swim bladders of countless small fish, which reflect sound much as a hard surface does." },
+        { "label": "C", "text": "The movement that puzzled those sonar operators is now recognised as the largest migration on the planet when measured by the total mass of animals involved. As darkness falls, vast numbers of twilight-zone creatures swim upwards to feed on the plankton that is plentiful near the surface. Before dawn they descend again, returning to the darkness where predators that hunt by sight, such as many larger fish and seabirds, cannot easily find them. For animals only a few centimetres long, the journey can mean travelling several hundred metres in each direction every day. Scaled up to human size, it would be roughly comparable to a person walking a marathon before breakfast and another one at dusk." },
+        { "label": "D", "text": "This daily commute has consequences that reach far beyond the creatures themselves. Animals that feed in surface waters at night and then descend carry the carbon in their food down with them. At depth, they release much of it through respiration and as waste, and their compact faecal pellets sink quickly towards the deep ocean, where the carbon may remain locked away for centuries. Scientists refer to this process, along with the slow fall of dead plankton, as the 'biological pump'. Models suggest that without it, the concentration of carbon dioxide in the atmosphere would be considerably higher than it is today. The precise contribution of migrating animals, however, remains a matter of debate, and estimates of its magnitude vary widely from one study to another." },
+        { "label": "E", "text": "Part of the difficulty is that nobody knows with any confidence how much life the twilight zone contains. In the 1980s, estimates based on catches from research nets put the total mass of mesopelagic fish at around one billion tonnes. In 2014, however, a study using acoustic surveys from a round-the-world expedition suggested the true figure could be ten times higher. Many researchers now accept that nets give figures that are too low, since lanternfish and similar species are able to detect an approaching net and dart out of its path. Yet acoustic methods have weaknesses of their own. The strength of an echo depends heavily on the size of a fish's swim bladder, which varies between species and even changes as an individual grows, and some species have no gas-filled bladder at all, making them almost invisible to sonar." },
+        { "label": "F", "text": "Uncertain or not, the prospect of such an enormous quantity of fish has not gone unnoticed by industry. Mesopelagic species are too small, bony and oily to be sold whole for human consumption, but they could in principle be processed into fishmeal for the rapidly expanding aquaculture sector, or into oil-based nutritional supplements. Their depth and scattered distribution make them costly to catch, yet several countries have already issued licences for exploratory fishing. Many marine scientists argue that such activity is premature. Removing large numbers of these animals before their role is properly understood could weaken the biological pump and reduce the food available to predators such as tuna, whales and seabirds. Because much of the twilight zone lies in international waters, where regulation is limited, they are calling for a cautious approach to be agreed before large-scale harvesting begins rather than after." }
+      ],
+      "groups": [
+        {
+          "type": "matching", "from": 14, "to": 19,
+          "instructions": "Reading Passage 2 has six paragraphs, A–F. Choose the correct heading for each paragraph from the list of headings below.",
+          "optionsTitle": "List of Headings", "reuse": false,
+          "options": [
+            { "key": "i", "text": "The equipment needed to explore the deep ocean" },
+            { "key": "ii", "text": "A daily journey on an enormous scale" },
+            { "key": "iii", "text": "A little-known region and its inhabitants" },
+            { "key": "iv", "text": "Why some deep-sea animals produce their own light" },
+            { "key": "v", "text": "A potential resource and the risks of exploiting it" },
+            { "key": "vi", "text": "A confusing observation finally explained" },
+            { "key": "vii", "text": "Conflicting figures and the problems of measurement" },
+            { "key": "viii", "text": "An international agreement on fishing limits" },
+            { "key": "ix", "text": "An unseen influence on the Earth's climate" }
+          ],
+          "items": [
+            { "n": 14, "text": "Paragraph A", "answer": "iii" },
+            { "n": 15, "text": "Paragraph B", "answer": "vi" },
+            { "n": 16, "text": "Paragraph C", "answer": "ii" },
+            { "n": 17, "text": "Paragraph D", "answer": "ix" },
+            { "n": 18, "text": "Paragraph E", "answer": "vii" },
+            { "n": 19, "text": "Paragraph F", "answer": "v" }
+          ],
+          "explain": {
+            "14": "Paragraph A introduces the zone as 'one of the largest habitats on the planet and also one of the least explored' and lists 'Its residents'.",
+            "15": "Paragraph B explains the 'false bottom' that 'made no sense' on sonar, until researchers 'confirm[ed] that the \"deep scattering layer\" … was alive'.",
+            "16": "Paragraph C: 'the largest migration on the planet when measured by the total mass of animals involved', made 'every day'.",
+            "17": "Paragraph D: the migration carries carbon to depth; 'without it, the concentration of carbon dioxide in the atmosphere would be considerably higher'.",
+            "18": "Paragraph E contrasts 'around one billion tonnes' with a figure 'ten times higher' and explains why nets and acoustic methods are both unreliable.",
+            "19": "Paragraph F describes commercial uses (fishmeal, supplements) and scientists' warning that harvesting 'could weaken the biological pump and reduce the food available to predators'. Heading viii is wrong: the paragraph says regulation is limited and scientists are only 'calling for' an approach to be agreed."
+          }
+        },
+        {
+          "type": "matching", "from": 20, "to": 22,
+          "instructions": "Reading Passage 2 has six paragraphs, A–F. Which paragraph contains the following information? You may use any letter more than once.",
+          "optionsTitle": "Paragraphs", "reuse": true,
+          "options": [
+            { "key": "A", "text": "" },
+            { "key": "B", "text": "" },
+            { "key": "C", "text": "" },
+            { "key": "D", "text": "" },
+            { "key": "E", "text": "" },
+            { "key": "F", "text": "" }
+          ],
+          "items": [
+            { "n": 20, "text": "a comparison between an animal's movement and a human activity", "answer": "C" },
+            { "n": 21, "text": "a reason why one method of measurement may produce figures that are too low", "answer": "E" },
+            { "n": 22, "text": "examples of animals whose food supply could be affected by fishing", "answer": "F" }
+          ],
+          "explain": {
+            "20": "Paragraph C: 'Scaled up to human size, it would be roughly comparable to a person walking a marathon before breakfast and another one at dusk.'",
+            "21": "Paragraph E: 'nets give figures that are too low, since lanternfish and similar species are able to detect an approaching net and dart out of its path.'",
+            "22": "Paragraph F: removing these animals could 'reduce the food available to predators such as tuna, whales and seabirds.'"
+          }
+        },
+        {
+          "type": "gap", "layout": "summary", "from": 23, "to": 26,
+          "instructions": "Complete the summary using the list of words, A–H, below.",
+          "title": "The biological pump",
+          "lines": [
+            "Many twilight-zone animals {{23}} in surface waters at night and then return to deeper water. There they release carbon through respiration and waste, and their {{24}} sink rapidly towards the deep ocean, where carbon may stay for centuries. Models indicate that this process keeps the level of carbon dioxide in the {{25}} lower than it would otherwise be, although scientists disagree about the {{26}} of the part played by migrating animals."
+          ],
+          "options": [
+            { "key": "A", "text": "feed" },
+            { "key": "B", "text": "rest" },
+            { "key": "C", "text": "pellets" },
+            { "key": "D", "text": "atmosphere" },
+            { "key": "E", "text": "size" },
+            { "key": "F", "text": "shells" },
+            { "key": "G", "text": "seabed" },
+            { "key": "H", "text": "cause" }
+          ],
+          "answers": {
+            "23": ["A"],
+            "24": ["C"],
+            "25": ["D"],
+            "26": ["E"]
+          },
+          "explain": {
+            "23": "'Animals that feed in surface waters at night and then descend carry the carbon in their food down with them.' (A feed)",
+            "24": "'their compact faecal pellets sink quickly towards the deep ocean' (C pellets)",
+            "25": "'without it, the concentration of carbon dioxide in the atmosphere would be considerably higher' (D atmosphere)",
+            "26": "'The precise contribution of migrating animals, however, remains a matter of debate, and estimates of its magnitude vary widely' — magnitude = size (E)."
+          }
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "part": 3,
+      "title": "In Praise of Forgetting",
+      "subtitle": "We treat every lapse of memory as a failure. We may have it the wrong way round.",
+      "paragraphs": [
+        { "label": "", "text": "Few experiences are as quietly humiliating as forgetting the name of someone we have met several times. We apologise, we blame tiredness or age, and we privately wonder whether something is going wrong with our brains. A thriving market has grown up around this anxiety, offering memory-training apps and dietary supplements, all built on the assumption that a good memory is one that holds on to as much as possible. I want to suggest that this assumption is mistaken. A great deal of what we call forgetting is not the brain failing at its job; it is the brain doing its job." },
+        { "label": "", "text": "The scientific study of forgetting began in the 1880s with the German psychologist Hermann Ebbinghaus, who spent years memorising lists of meaningless syllables and testing himself on how many he could recall after different intervals. His results produced what became known as the forgetting curve: most of the material was lost within the first day, after which the rate of loss slowed considerably. For much of the following century, the curve was taken as straightforward evidence that memories simply fade. Yet the same curve lends itself equally well to another reading. A system that rapidly discards information it has no further use for, while retaining what survives that first sorting, would produce exactly the pattern Ebbinghaus observed." },
+        { "label": "", "text": "Recent neuroscience has made that second reading much harder to dismiss. Experiments on animals have identified biological processes whose apparent function is to weaken the connections between neurons that hold a memory, and these processes require the brain to expend energy. Researchers have also found that the birth of new neurons in the hippocampus, a region essential for forming memories, can disrupt older memories stored there, in effect writing over them. To my mind, this is the most compelling evidence of all. If forgetting were merely a by-product of wear and tear, there would be no reason for the brain to invest its limited resources in bringing it about." },
+        { "label": "", "text": "Why would evolution favour a brain that deliberately discards information? One influential review of the field, published in 2017, proposed two answers. The first is flexibility. The world changes, and a memory that was accurate last month may be actively misleading today: knowing where you parked your car yesterday is of no value this morning, and may send you to the wrong level of the car park. The second answer is generalisation. A mind that stored every detail of every experience would struggle to see the common pattern beneath them. Computer scientists know this problem well; they call it overfitting, and it occurs when a learning system memorises its training examples so precisely that it cannot cope with anything new." },
+        { "label": "", "text": "A small number of people appear to have very little ordinary forgetting. Individuals with what is termed highly superior autobiographical memory can recall what they did on almost any day of their adult lives. Popular accounts tend to present this as an enviable gift, but several of those who have it describe it rather differently: old embarrassments and grievances remain as sharp as the day they occurred, and the past refuses to recede. Only a few dozen such cases have been studied in depth, so it would be rash to build any firm theory on them. What they do suggest, at the very least, is that remembering everything is not self-evidently desirable." },
+        { "label": "", "text": "None of this is to make light of the real harm that memory loss can cause. Conditions such as dementia are devastating precisely because they damage the machinery of memory itself, stripping people of the ability to form and retrieve memories at all. That is a fundamentally different matter from the routine, selective forgetting of a healthy brain, and to blur the two would be both inaccurate and unkind. My argument concerns only the latter." },
+        { "label": "", "text": "If forgetting is functional, the implications for education are considerable. Teachers who see students forget material from one week to the next often respond by repeating it more intensively. Research on learning points in a different direction. Information that is recalled with some effort after a delay, once a degree of forgetting has set in, tends to be retained far longer than information that is simply reread while it is still fresh. Forgetting, in other words, is not the opposite of learning but one of its ingredients. It follows that a course assessed by a single examination at the end of term, with no earlier opportunities for students to retrieve what they have learned, is poorly designed." },
+        { "label": "", "text": "The digital age complicates the picture. We now hand over a great deal of remembering to our devices, and some commentators fear that this is making us collectively forgetful. I find it hard to share their alarm about phone numbers and birthdays; the effort we no longer spend on such details can be put to better use. What concerns me more is a different kind of forgetting that we are in danger of losing. Communities have always allowed people to move on from their mistakes, partly because those mistakes gradually faded from collective memory. A permanent, searchable online record removes that possibility. Laws that give individuals a right to request the removal of outdated information are a welcome first step, but they place the burden on the individual and leave most of the record untouched; on their own, they are not nearly enough." },
+        { "label": "", "text": "A healthy memory, then, is not a warehouse that keeps everything but an editor that keeps what matters. The next time a name escapes you, it may be worth remembering that your brain is not necessarily letting you down. It may simply be making a judgement." }
+      ],
+      "groups": [
+        {
+          "type": "mcq", "from": 27, "to": 30,
+          "instructions": "Choose the correct letter, A, B, C or D.",
+          "questions": [
+            { "n": 27, "stem": "In the first paragraph, the writer suggests that most people regard forgetting as",
+              "options": [
+                { "key": "A", "text": "a sign that something may be wrong with them." },
+                { "key": "B", "text": "an unavoidable consequence of growing older." },
+                { "key": "C", "text": "a problem that modern products have solved." },
+                { "key": "D", "text": "a minor inconvenience that is soon forgotten." }
+              ],
+              "answer": "A" },
+            { "n": 28, "stem": "What point does the writer make about Ebbinghaus's forgetting curve?",
+              "options": [
+                { "key": "A", "text": "Later research showed that his results were inaccurate." },
+                { "key": "B", "text": "It can be explained in more than one way." },
+                { "key": "C", "text": "It applies only to meaningless material." },
+                { "key": "D", "text": "It shows that memories are lost at a constant rate." }
+              ],
+              "answer": "B" },
+            { "n": 29, "stem": "What does the writer consider the strongest evidence that forgetting is useful?",
+              "options": [
+                { "key": "A", "text": "the experiences of people with exceptional memories" },
+                { "key": "B", "text": "the fact that the brain uses energy to make forgetting happen" },
+                { "key": "C", "text": "the similarity between human and computer learning" },
+                { "key": "D", "text": "the results of studies on how students learn" }
+              ],
+              "answer": "B" },
+            { "n": 30, "stem": "The writer refers to 'overfitting' in order to show that",
+              "options": [
+                { "key": "A", "text": "computers are now able to learn in the same way as people." },
+                { "key": "B", "text": "remembering too much detail can prevent general understanding." },
+                { "key": "C", "text": "outdated information can lead people into mistakes." },
+                { "key": "D", "text": "computer scientists have solved the problem of forgetting." }
+              ],
+              "answer": "B" }
+          ],
+          "explain": {
+            "27": "'We apologise, we blame tiredness or age, and we privately wonder whether something is going wrong with our brains.' Age is only one of the excuses people give (so not B), and the products are 'built on the assumption' that remembering more is better, not presented as a solution (so not C).",
+            "28": "'Yet the same curve lends itself equally well to another reading.' The writer does not say the results were inaccurate (A), and the curve shows loss slowing after the first day, not a constant rate (D).",
+            "29": "'To my mind, this is the most compelling evidence of all. If forgetting were merely a by-product of wear and tear, there would be no reason for the brain to invest its limited resources in bringing it about.'",
+            "30": "'A mind that stored every detail of every experience would struggle to see the common pattern beneath them. Computer scientists … call it overfitting.' Option C describes the first answer (flexibility), not overfitting."
+          }
+        },
+        {
+          "type": "tfng", "variant": "ynng", "from": 31, "to": 35,
+          "instructions": "Do the following statements agree with the claims of the writer in Reading Passage 3? Write YES if the statement agrees with the claims of the writer, NO if the statement contradicts the claims of the writer, NOT GIVEN if it is impossible to say what the writer thinks about this.",
+          "questions": [
+            { "n": 31, "text": "Memory-training apps are generally effective at improving memory.", "answer": "NOT GIVEN" },
+            { "n": 32, "text": "Studies of people with highly superior autobiographical memory provide a sound basis for a theory of forgetting.", "answer": "NO" },
+            { "n": 33, "text": "The everyday forgetting of a healthy brain should be considered alongside conditions such as dementia.", "answer": "NO" },
+            { "n": 34, "text": "A course that is assessed only by a final examination is badly planned.", "answer": "YES" },
+            { "n": 35, "text": "People need not be worried about no longer remembering details such as phone numbers.", "answer": "YES" }
+          ],
+          "explain": {
+            "31": "The writer mentions that the market offers 'memory-training apps', and disagrees with the assumption behind them, but never says whether the apps work or not.",
+            "32": "'Only a few dozen such cases have been studied in depth, so it would be rash to build any firm theory on them.'",
+            "33": "Dementia 'is a fundamentally different matter from the routine, selective forgetting of a healthy brain, and to blur the two would be both inaccurate and unkind.'",
+            "34": "'a course assessed by a single examination at the end of term, with no earlier opportunities for students to retrieve what they have learned, is poorly designed'",
+            "35": "'I find it hard to share their alarm about phone numbers and birthdays; the effort we no longer spend on such details can be put to better use.'"
+          }
+        },
+        {
+          "type": "matching", "from": 36, "to": 40,
+          "instructions": "Complete each sentence with the correct ending, A–H, below.",
+          "optionsTitle": "Sentence endings", "reuse": false,
+          "options": [
+            { "key": "A", "text": "may interfere with memories that already exist." },
+            { "key": "B", "text": "can cause errors when circumstances have changed." },
+            { "key": "C", "text": "is more effective once some forgetting has taken place." },
+            { "key": "D", "text": "may prevent people from leaving their past mistakes behind." },
+            { "key": "E", "text": "was long regarded as proof that memories simply fade." },
+            { "key": "F", "text": "is found mainly among older adults." },
+            { "key": "G", "text": "can only be achieved with the help of digital devices." },
+            { "key": "H", "text": "removes the burden from the individual." }
+          ],
+          "items": [
+            { "n": 36, "text": "The production of new neurons in the hippocampus", "answer": "A" },
+            { "n": 37, "text": "Information that is out of date", "answer": "B" },
+            { "n": 38, "text": "Recalling information with effort after a delay", "answer": "C" },
+            { "n": 39, "text": "A permanent online record", "answer": "D" },
+            { "n": 40, "text": "The pattern of loss that Ebbinghaus recorded", "answer": "E" }
+          ],
+          "explain": {
+            "36": "'the birth of new neurons in the hippocampus … can disrupt older memories stored there, in effect writing over them.'",
+            "37": "'a memory that was accurate last month may be actively misleading today … and may send you to the wrong level of the car park.'",
+            "38": "'Information that is recalled with some effort after a delay, once a degree of forgetting has set in, tends to be retained far longer'",
+            "39": "'Communities have always allowed people to move on from their mistakes … A permanent, searchable online record removes that possibility.'",
+            "40": "'For much of the following century, the curve was taken as straightforward evidence that memories simply fade' (H is wrong: the writer says removal laws 'place the burden on the individual')."
+          }
+        }
+      ]
+    }
+  ]
+}

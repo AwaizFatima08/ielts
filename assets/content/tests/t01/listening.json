@@ -1,0 +1,1260 @@
+{
+  "id": "t01",
+  "section": "listening",
+  "speakers": {
+    "announcer": {
+      "voice": "bm_george",
+      "label": "Announcer"
+    },
+    "rachel": {
+      "voice": "bf_emma",
+      "label": "Rachel (customer)"
+    },
+    "callum": {
+      "voice": "am_michael",
+      "label": "Callum (Coastal Cycle Hire)"
+    },
+    "fiona": {
+      "voice": "af_bella",
+      "label": "Fiona Marsh (volunteer coordinator)"
+    },
+    "leila": {
+      "voice": "bf_emma",
+      "label": "Leila (student)"
+    },
+    "tomasz": {
+      "voice": "am_michael",
+      "label": "Tomasz (student)"
+    },
+    "lecturer": {
+      "voice": "bf_emma",
+      "label": "Lecturer"
+    }
+  },
+  "parts": [
+    {
+      "number": 1,
+      "context": "A woman phones a bicycle hire company to book bikes for a family holiday in Cornwall.",
+      "script": [
+        {
+          "id": "p1_001",
+          "speaker": "announcer",
+          "text": "Part 1. You will hear a woman telephoning a bicycle hire company to book bikes for a family holiday. First, you have some time to look at questions 1 to 5."
+        },
+        {
+          "pause": 30,
+          "note": "Look at questions 1 to 5"
+        },
+        {
+          "id": "p1_002",
+          "speaker": "announcer",
+          "text": "You will see that there is an example that has been done for you. On this occasion only, the conversation relating to this will be played first."
+        },
+        {
+          "id": "p1_003",
+          "speaker": "callum",
+          "text": "Good morning, Coastal Cycle Hire, Callum speaking. How can I help?"
+        },
+        {
+          "id": "p1_004",
+          "speaker": "rachel",
+          "text": "Oh, hello. I'm ringing about hiring bikes for a family holiday in Porthcarrow next month. A friend told me you deliver there."
+        },
+        {
+          "id": "p1_005",
+          "speaker": "callum",
+          "text": "We do, yes. How many bikes were you thinking of?"
+        },
+        {
+          "id": "p1_006",
+          "speaker": "rachel",
+          "text": "Well, there are five of us, but my youngest is only three, so she won't need a bike of her own. So that's four bikes altogether."
+        },
+        {
+          "id": "p1_007",
+          "speaker": "announcer",
+          "text": "The woman needs four bikes, so 'four' has been written in the space. Now we shall begin. You should answer the questions as you listen, because you will not hear the recording a second time. Listen carefully and answer questions 1 to 5."
+        },
+        {
+          "id": "p1_008",
+          "speaker": "callum",
+          "text": "Four bikes, lovely. Let me open a booking form for you. Could I take your name, please?"
+        },
+        {
+          "id": "p1_009",
+          "speaker": "rachel",
+          "text": "Yes, it's Rachel Tremayne."
+        },
+        {
+          "id": "p1_010",
+          "speaker": "callum",
+          "text": "Could you spell the surname for me?"
+        },
+        {
+          "id": "p1_011",
+          "speaker": "rachel",
+          "text": "Of course. It's T-R-E-M-A-Y-N-E. People often write an 'I' instead of the 'Y', but it's definitely a 'Y'."
+        },
+        {
+          "id": "p1_012",
+          "speaker": "callum",
+          "text": "T-R-E-M-A-Y-N-E. Got it. And which dates would you need the bikes for?"
+        },
+        {
+          "id": "p1_013",
+          "speaker": "rachel",
+          "text": "We arrive on the fifteenth of August, but it'll be quite late in the evening, so there's no point having them that day. Could we start from the sixteenth instead?"
+        },
+        {
+          "id": "p1_014",
+          "speaker": "callum",
+          "text": "Certainly. So, from the sixteenth, and until when?"
+        },
+        {
+          "id": "p1_015",
+          "speaker": "rachel",
+          "text": "Until the twenty-second. We drive home on the twenty-third, so we'd like to hand them back the evening before."
+        },
+        {
+          "id": "p1_016",
+          "speaker": "callum",
+          "text": "That's fine. Now, the bikes themselves. What sort of riding will you be doing?"
+        },
+        {
+          "id": "p1_017",
+          "speaker": "rachel",
+          "text": "Mostly quiet lanes and a few cycle paths. My husband wanted a mountain bike at first, but I think that would be rather heavy on the roads. What would you suggest?"
+        },
+        {
+          "id": "p1_018",
+          "speaker": "callum",
+          "text": "For a mix of lanes and gravel paths, most people go for a hybrid. It's lighter than a mountain bike, but it can still cope with a rough track."
+        },
+        {
+          "id": "p1_019",
+          "speaker": "rachel",
+          "text": "That sounds right. Put him down for a hybrid, then, and I'll have the same."
+        },
+        {
+          "id": "p1_020",
+          "speaker": "callum",
+          "text": "Two hybrids. And the children?"
+        },
+        {
+          "id": "p1_021",
+          "speaker": "rachel",
+          "text": "My son's twelve and my daughter's nine. They both ride well."
+        },
+        {
+          "id": "p1_022",
+          "speaker": "callum",
+          "text": "Then they'll be fine on junior bikes. And for your three-year-old, we have child seats that fit behind the saddle, or a trailer that's towed behind an adult bike."
+        },
+        {
+          "id": "p1_023",
+          "speaker": "rachel",
+          "text": "I tried a child seat once and it made the bike very wobbly. I think a trailer would be safer. Is it more expensive?"
+        },
+        {
+          "id": "p1_024",
+          "speaker": "callum",
+          "text": "No, it's the same price as the seat, so I'll put you down for a trailer."
+        },
+        {
+          "id": "p1_025",
+          "speaker": "rachel",
+          "text": "Great. What about helmets? Do we need to bring our own?"
+        },
+        {
+          "id": "p1_026",
+          "speaker": "callum",
+          "text": "Helmets are included for everyone, and each bike comes with a lock. Some customers also hire a GPS unit, although most people find their phones do the job."
+        },
+        {
+          "id": "p1_027",
+          "speaker": "rachel",
+          "text": "We'll manage with our phones, I think. Actually, though, a proper paper map would be useful, because the signal can be terrible down there."
+        },
+        {
+          "id": "p1_028",
+          "speaker": "callum",
+          "text": "Very true. I'll add a map. It's free with any booking of a week or more."
+        },
+        {
+          "id": "p1_029",
+          "speaker": "announcer",
+          "text": "Before you hear the rest of the conversation, you have some time to look at questions 6 to 10."
+        },
+        {
+          "pause": 30,
+          "note": "Look at questions 6 to 10"
+        },
+        {
+          "id": "p1_030",
+          "speaker": "announcer",
+          "text": "Now listen and answer questions 6 to 10."
+        },
+        {
+          "id": "p1_031",
+          "speaker": "callum",
+          "text": "Now, delivery. Where exactly are you staying?"
+        },
+        {
+          "id": "p1_032",
+          "speaker": "rachel",
+          "text": "We've rented a cottage on Fore Street. But I've just remembered, there's no parking outside and the street's very narrow, so I don't think your van could stop there."
+        },
+        {
+          "id": "p1_033",
+          "speaker": "callum",
+          "text": "That's quite common in those villages. In Porthcarrow we'd normally use the car park beside the harbour. Would that work?"
+        },
+        {
+          "id": "p1_034",
+          "speaker": "rachel",
+          "text": "Yes, that's only a two-minute walk from the cottage."
+        },
+        {
+          "id": "p1_035",
+          "speaker": "callum",
+          "text": "And what time would suit you on the sixteenth? Our driver starts his round at eight."
+        },
+        {
+          "id": "p1_036",
+          "speaker": "rachel",
+          "text": "We were hoping to set off early. Could he be there at nine?"
+        },
+        {
+          "id": "p1_037",
+          "speaker": "callum",
+          "text": "Let me check. Ah, he's already got a drop-off in the next village at nine, so he'd be with you a little later than that, but definitely by 9:30 at the latest."
+        },
+        {
+          "id": "p1_038",
+          "speaker": "rachel",
+          "text": "That's fine."
+        },
+        {
+          "id": "p1_039",
+          "speaker": "callum",
+          "text": "Now, the cost. Four bikes and a trailer for seven days would normally come to £260."
+        },
+        {
+          "id": "p1_040",
+          "speaker": "rachel",
+          "text": "Hmm, that's a bit more than I was expecting."
+        },
+        {
+          "id": "p1_041",
+          "speaker": "callum",
+          "text": "Ah, but because it's a full week, you get a ten per cent discount, which brings it down to £234. We take a deposit of fifty pounds today by card, and the rest is paid when the driver brings the bikes, so on delivery."
+        },
+        {
+          "id": "p1_042",
+          "speaker": "rachel",
+          "text": "Could I pay the rest at the end of the week, when we return them?"
+        },
+        {
+          "id": "p1_043",
+          "speaker": "callum",
+          "text": "I'm afraid not. The balance has to be settled on delivery, before you ride off. The driver carries a card machine, so it's quite easy."
+        },
+        {
+          "id": "p1_044",
+          "speaker": "rachel",
+          "text": "No problem. One last thing: can you recommend a ride that would suit the children?"
+        },
+        {
+          "id": "p1_045",
+          "speaker": "callum",
+          "text": "Most families ask about the cliff-top route, but it's very hilly and there's traffic in places. With younger riders, I'd suggest the Penhallow Trail. It follows the old railway line inland, so it's completely flat, there are no cars, and there's a café about halfway along."
+        },
+        {
+          "id": "p1_046",
+          "speaker": "rachel",
+          "text": "Perfect. Thanks so much."
+        },
+        {
+          "id": "p1_047",
+          "speaker": "callum",
+          "text": "Great. I'll email you a confirmation this afternoon. Enjoy your holiday."
+        },
+        {
+          "id": "p1_048",
+          "speaker": "announcer",
+          "text": "That is the end of Part 1. You now have half a minute to check your answers."
+        },
+        {
+          "pause": 30,
+          "note": "Check your answers to Part 1"
+        }
+      ],
+      "groups": [
+        {
+          "type": "gap",
+          "from": 1,
+          "to": 5,
+          "layout": "form",
+          "instructions": "Complete the form below.",
+          "limit": "ONE WORD AND/OR A NUMBER",
+          "title": "Coastal Cycle Hire – Booking Form",
+          "lines": [
+            "Example: Number of bikes needed: four",
+            "Customer name: Rachel {{1}}",
+            "Hire period: from {{2}} August to 22 August",
+            "Adult bikes: two {{3}} bikes",
+            "For youngest child: a {{4}}",
+            "Helmets and locks: included",
+            "Free extra: a {{5}}"
+          ],
+          "answers": {
+            "1": [
+              "Tremayne"
+            ],
+            "2": [
+              "16",
+              "16th",
+              "sixteenth"
+            ],
+            "3": [
+              "hybrid"
+            ],
+            "4": [
+              "trailer"
+            ],
+            "5": [
+              "map"
+            ]
+          },
+          "explain": {
+            "1": "Rachel: 'It's T-R-E-M-A-Y-N-E. People often write an 'I' instead of the 'Y', but it's definitely a 'Y'.'",
+            "2": "She arrives on the fifteenth but says 'there's no point having them that day. Could we start from the sixteenth instead?'",
+            "3": "The husband 'wanted a mountain bike at first', but Rachel decides: 'Put him down for a hybrid, then, and I'll have the same.'",
+            "4": "A child seat is rejected: 'I think a trailer would be safer.' Callum: 'I'll put you down for a trailer.'",
+            "5": "The GPS unit is rejected. Rachel: 'a proper paper map would be useful'. Callum: 'I'll add a map. It's free with any booking of a week or more.'"
+          }
+        },
+        {
+          "type": "gap",
+          "from": 6,
+          "to": 10,
+          "layout": "notes",
+          "instructions": "Complete the notes below.",
+          "limit": "ONE WORD AND/OR A NUMBER",
+          "title": "Delivery and payment",
+          "lines": [
+            "- Delivery point: the car park beside the {{6}}",
+            "- Delivery time: no later than {{7}} on the first day",
+            "- Total cost (with weekly discount): £{{8}}",
+            "- Deposit: £50 by card today",
+            "- Balance to be paid on {{9}}",
+            "# Suggested ride",
+            "- Penhallow Trail: follows an old {{10}} line, flat and traffic-free"
+          ],
+          "answers": {
+            "6": [
+              "harbour",
+              "harbor"
+            ],
+            "7": [
+              "9:30",
+              "9.30",
+              "9.30 am",
+              "9:30 am",
+              "9.30am",
+              "9:30am"
+            ],
+            "8": [
+              "234"
+            ],
+            "9": [
+              "delivery"
+            ],
+            "10": [
+              "railway"
+            ]
+          },
+          "explain": {
+            "6": "The cottage street is too narrow, so Callum says: 'we'd normally use the car park beside the harbour.'",
+            "7": "Rachel asks for nine, but the driver is busy then: 'he'd be with you a little later than that, but definitely by 9:30 at the latest.'",
+            "8": "£260 is the normal price, but 'you get a ten per cent discount, which brings it down to £234.'",
+            "9": "Rachel asks to pay at the end of the week. Callum: 'I'm afraid not. The balance has to be settled on delivery.'",
+            "10": "The cliff-top route is rejected. 'I'd suggest the Penhallow Trail. It follows the old railway line inland.'"
+          }
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "context": "A volunteer coordinator welcomes new volunteers to a wetland nature reserve and describes the site.",
+      "script": [
+        {
+          "id": "p2_001",
+          "speaker": "announcer",
+          "text": "Part 2. You will hear a volunteer coordinator talking to a group of new volunteers at a wetland nature reserve. First, you have some time to look at questions 11 to 14."
+        },
+        {
+          "pause": 30,
+          "note": "Look at questions 11 to 14"
+        },
+        {
+          "id": "p2_002",
+          "speaker": "announcer",
+          "text": "Now listen carefully and answer questions 11 to 14."
+        },
+        {
+          "id": "p2_003",
+          "speaker": "fiona",
+          "text": "Good morning, everyone, and welcome to Millbrook Wetland Centre. My name's Fiona Marsh, and I coordinate the volunteer programme here. Thank you all for giving up your Saturday morning."
+        },
+        {
+          "id": "p2_004",
+          "speaker": "fiona",
+          "text": "Before we head outside, I'd like to give you a little background, and then I'll show you around the site using the map you've each been given."
+        },
+        {
+          "id": "p2_005",
+          "speaker": "fiona",
+          "text": "First, some history. A lot of visitors assume this was always marshland, and to be fair, a few hundred years ago much of the valley was wet meadow, used for grazing cattle."
+        },
+        {
+          "id": "p2_006",
+          "speaker": "fiona",
+          "text": "But the land you're standing on was actually dug out for gravel, from the 1950s right up until the late 1980s. When the quarry closed, the pits slowly filled with water, and the wildlife moved in long before we did."
+        },
+        {
+          "id": "p2_007",
+          "speaker": "fiona",
+          "text": "For a while, the council planned to use the empty pits as a landfill site for household rubbish. Fortunately, a group of local residents campaigned against the idea, and in 1992 the reserve opened instead."
+        },
+        {
+          "id": "p2_008",
+          "speaker": "fiona",
+          "text": "Now, what we need from you. Over the past year, our largest group of volunteers has been the people who lead guided walks, and we're very grateful to them. We've also got a lovely team in the café. But this year, the real gap is out on the reserve itself."
+        },
+        {
+          "id": "p2_009",
+          "speaker": "fiona",
+          "text": "Several of our boardwalks and footpaths were badly damaged in the winter floods, so most of the new volunteer hours this season will go into repairing paths. That's where we'll need the majority of you, at least until the autumn."
+        },
+        {
+          "id": "p2_010",
+          "speaker": "fiona",
+          "text": "As for what to bring. You don't need to bring any food, because volunteers get a free lunch in the café on any day they work a full shift. We've also got plenty of binoculars that you can borrow from reception, so please don't go out and buy any."
+        },
+        {
+          "id": "p2_011",
+          "speaker": "fiona",
+          "text": "What you really must have, though, is a pair of waterproof boots. Trainers are simply no good out here, and I'm afraid we can't lend footwear."
+        },
+        {
+          "id": "p2_012",
+          "speaker": "fiona",
+          "text": "Finally, you may have heard that we've developed a visitor app, with an audio guide and a live map of bird sightings. It was supposed to be released in March, but there have been technical problems with the map, so it still isn't available to the public. For now, if visitors ask about it, just apologise and hand them one of the printed maps from reception."
+        },
+        {
+          "id": "p2_013",
+          "speaker": "announcer",
+          "text": "Now look at the map. You have some time to look at questions 15 to 20."
+        },
+        {
+          "pause": 30,
+          "note": "Look at questions 15 to 20"
+        },
+        {
+          "id": "p2_014",
+          "speaker": "announcer",
+          "text": "Now listen and answer questions 15 to 20."
+        },
+        {
+          "id": "p2_015",
+          "speaker": "fiona",
+          "text": "Right. If you look at your map, you'll see that we're in the visitor centre, just inside the main entrance at the bottom of the map. Let me point out the places that visitors ask about most often."
+        },
+        {
+          "id": "p2_016",
+          "speaker": "fiona",
+          "text": "Lots of people arrive by bike. The bike storage used to be right outside the visitor centre, but it got in the way of wheelchair users, so we moved it. Now, if you walk back down the main path towards the entrance, it's at the point where the path from the car park joins it, on the car park side, just above the car park itself."
+        },
+        {
+          "id": "p2_017",
+          "speaker": "fiona",
+          "text": "Our education room is where school groups begin their visits. It isn't a separate building. It's been built onto the back of the visitor centre, so it faces north towards the lake, and you reach it from the short path that leads up to the lakeside trail."
+        },
+        {
+          "id": "p2_018",
+          "speaker": "fiona",
+          "text": "The lakeside trail goes all the way round the Main Lake. Many people expect the bird hide to be in the reed beds, but in fact it's on the far side of the lake from here, right in the middle of the northern shore, looking south across the water."
+        },
+        {
+          "id": "p2_019",
+          "speaker": "fiona",
+          "text": "You'll also notice the corner at the top left, where the trail bends. That's where the old hide used to stand, but it was taken down last year."
+        },
+        {
+          "id": "p2_020",
+          "speaker": "fiona",
+          "text": "For children, the most popular activity is pond dipping. The platform is on the western side of the lakeside trail, about halfway along, and it sticks out into the reed beds, where the water is shallow and full of life."
+        },
+        {
+          "id": "p2_021",
+          "speaker": "fiona",
+          "text": "If you're asked about picnics, please remember we don't allow eating along the lakeside, because of the birds. Instead, send people out of the visitor centre by the east door, along the path towards the stream. The picnic area is on the grass on the left, almost immediately. You can see it from the café windows."
+        },
+        {
+          "id": "p2_022",
+          "speaker": "fiona",
+          "text": "And lastly, the first aid point. Keep following that same path down towards the stream, and just before you cross the bridge, you'll find it on the right-hand side. One more thing: the woodland at the top right of the map is closed this season while some trees are felled, so please don't send anyone up there."
+        },
+        {
+          "id": "p2_023",
+          "speaker": "fiona",
+          "text": "Okay, that's the tour on paper. Let's get our boots on and see it for real."
+        },
+        {
+          "id": "p2_024",
+          "speaker": "announcer",
+          "text": "That is the end of Part 2. You now have half a minute to check your answers."
+        },
+        {
+          "pause": 30,
+          "note": "Check your answers to Part 2"
+        }
+      ],
+      "groups": [
+        {
+          "type": "mcq",
+          "from": 11,
+          "to": 14,
+          "instructions": "Choose the correct letter, A, B or C.",
+          "title": "Millbrook Wetland Centre",
+          "questions": [
+            {
+              "n": 11,
+              "stem": "Immediately before the reserve opened, the site had been used as",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "grazing land for cattle."
+                },
+                {
+                  "key": "B",
+                  "text": "a gravel quarry."
+                },
+                {
+                  "key": "C",
+                  "text": "a landfill site."
+                }
+              ],
+              "answer": "B"
+            },
+            {
+              "n": 12,
+              "stem": "This season, most new volunteers will work on",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "leading guided walks."
+                },
+                {
+                  "key": "B",
+                  "text": "serving in the café."
+                },
+                {
+                  "key": "C",
+                  "text": "repairing paths."
+                }
+              ],
+              "answer": "C"
+            },
+            {
+              "n": 13,
+              "stem": "Volunteers are asked to bring their own",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "lunch."
+                },
+                {
+                  "key": "B",
+                  "text": "binoculars."
+                },
+                {
+                  "key": "C",
+                  "text": "boots."
+                }
+              ],
+              "answer": "C"
+            },
+            {
+              "n": 14,
+              "stem": "What does the speaker say about the visitor app?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It has not been released yet."
+                },
+                {
+                  "key": "B",
+                  "text": "It is only available in summer."
+                },
+                {
+                  "key": "C",
+                  "text": "It has replaced the printed maps."
+                }
+              ],
+              "answer": "A"
+            }
+          ],
+          "explain": {
+            "11": "The valley was once wet meadow for cattle, 'But the land you're standing on was actually dug out for gravel ... When the quarry closed, the pits slowly filled with water.' The landfill was only planned: 'a group of local residents campaigned against the idea'.",
+            "12": "Guided walks were last year's largest group. This year 'most of the new volunteer hours this season will go into repairing paths.'",
+            "13": "Lunch is free and binoculars can be borrowed. 'What you really must have, though, is a pair of waterproof boots.'",
+            "14": "'It was supposed to be released in March, but there have been technical problems with the map, so it still isn't available to the public.'"
+          }
+        },
+        {
+          "type": "matching",
+          "from": 15,
+          "to": 20,
+          "instructions": "Label the map below. Write the correct letter, A–H, next to Questions 15–20.",
+          "title": "Millbrook Wetland Centre",
+          "image": "assets/images/t01_listening_map.svg",
+          "optionsTitle": "Map letters",
+          "reuse": false,
+          "options": [
+            {
+              "key": "A",
+              "text": ""
+            },
+            {
+              "key": "B",
+              "text": ""
+            },
+            {
+              "key": "C",
+              "text": ""
+            },
+            {
+              "key": "D",
+              "text": ""
+            },
+            {
+              "key": "E",
+              "text": ""
+            },
+            {
+              "key": "F",
+              "text": ""
+            },
+            {
+              "key": "G",
+              "text": ""
+            },
+            {
+              "key": "H",
+              "text": ""
+            }
+          ],
+          "items": [
+            {
+              "n": 15,
+              "text": "Bird hide",
+              "answer": "C"
+            },
+            {
+              "n": 16,
+              "text": "Picnic area",
+              "answer": "E"
+            },
+            {
+              "n": 17,
+              "text": "Education room",
+              "answer": "H"
+            },
+            {
+              "n": 18,
+              "text": "Pond-dipping platform",
+              "answer": "G"
+            },
+            {
+              "n": 19,
+              "text": "Bike storage",
+              "answer": "A"
+            },
+            {
+              "n": 20,
+              "text": "First aid point",
+              "answer": "F"
+            }
+          ],
+          "explain": {
+            "15": "'it's on the far side of the lake from here, right in the middle of the northern shore, looking south across the water.' B (top-left corner) is where the old hide 'used to stand'.",
+            "16": "'send people out of the visitor centre by the east door, along the path towards the stream. The picnic area is on the grass on the left, almost immediately.'",
+            "17": "'It's been built onto the back of the visitor centre, so it faces north towards the lake, and you reach it from the short path that leads up to the lakeside trail.'",
+            "18": "'The platform is on the western side of the lakeside trail, about halfway along, and it sticks out into the reed beds.'",
+            "19": "'it's at the point where the path from the car park joins it, on the car park side, just above the car park itself.'",
+            "20": "'Keep following that same path down towards the stream, and just before you cross the bridge, you'll find it on the right-hand side.'"
+          }
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "context": "Two Environmental Studies students discuss their research project on community fridges.",
+      "script": [
+        {
+          "id": "p3_001",
+          "speaker": "announcer",
+          "text": "Part 3. You will hear two Environmental Studies students, Leila and Tomasz, discussing a research project on community fridges. First, you have some time to look at questions 21 to 25."
+        },
+        {
+          "pause": 30,
+          "note": "Look at questions 21 to 25"
+        },
+        {
+          "id": "p3_002",
+          "speaker": "announcer",
+          "text": "Now listen carefully and answer questions 21 to 25."
+        },
+        {
+          "id": "p3_003",
+          "speaker": "leila",
+          "text": "Okay, Tomasz, before we meet Dr Ashworth on Thursday, we should agree how to explain why we chose community fridges. She's bound to ask."
+        },
+        {
+          "id": "p3_004",
+          "speaker": "tomasz",
+          "text": "Well, she did suggest food banks to us at first, remember? So she might wonder why we didn't take her advice."
+        },
+        {
+          "id": "p3_005",
+          "speaker": "leila",
+          "text": "True, but food banks have been studied to death. When I searched the journals, I found dozens of papers on them, and hardly anything on community fridges. That gap is our strongest argument."
+        },
+        {
+          "id": "p3_006",
+          "speaker": "tomasz",
+          "text": "Agreed. And I'd say the other big point is practical. The organiser of the Eastgate fridge has already offered to help us and to introduce us to her volunteers. Without that, we'd struggle to get anyone to talk to us."
+        },
+        {
+          "id": "p3_007",
+          "speaker": "leila",
+          "text": "Definitely. I was going to say it's a topic that's always in the news, but actually, when I looked, there's been very little coverage. That surprised me."
+        },
+        {
+          "id": "p3_008",
+          "speaker": "tomasz",
+          "text": "Me too. And let's not claim it's about our careers. Neither of us wants to work in the food industry, and she knows that."
+        },
+        {
+          "id": "p3_009",
+          "speaker": "leila",
+          "text": "Fine. Now, the pilot survey. How did it go? You were dealing with that."
+        },
+        {
+          "id": "p3_010",
+          "speaker": "tomasz",
+          "text": "Mixed. I was worried we wouldn't get enough replies, but in fact thirty people filled it in, which is more than I'd hoped for. And most of them did it in under five minutes, so length isn't an issue."
+        },
+        {
+          "id": "p3_011",
+          "speaker": "leila",
+          "text": "So what went wrong?"
+        },
+        {
+          "id": "p3_012",
+          "speaker": "tomasz",
+          "text": "The wording. Question four asked how often people used the fridge, but some people counted the times they took food, and others counted the times they left food. So the answers don't mean the same thing, and we can't compare them."
+        },
+        {
+          "id": "p3_013",
+          "speaker": "leila",
+          "text": "Right, so we'll need to split that into two separate questions. That's easy enough to fix."
+        },
+        {
+          "id": "p3_014",
+          "speaker": "tomasz",
+          "text": "Yes. Now, about our research question. I still think it's too broad. 'How successful are community fridges in reducing food waste?' That could cover the whole country."
+        },
+        {
+          "id": "p3_015",
+          "speaker": "leila",
+          "text": "I don't agree, actually. We've already limited it to one city, so the scope's fine. What worries me is the word 'successful'. How would we ever measure that? By kilos of food? By number of users? We'd have no clear way of showing it."
+        },
+        {
+          "id": "p3_016",
+          "speaker": "tomasz",
+          "text": "Hmm, that's a fair point. Maybe we should ask about the amount of food that passes through the fridge each week. That's something we can actually count."
+        },
+        {
+          "id": "p3_017",
+          "speaker": "leila",
+          "text": "Good, let's suggest that. And the presentation. Have you thought about it?"
+        },
+        {
+          "id": "p3_018",
+          "speaker": "tomasz",
+          "text": "I had an idea we could show a short video of the fridge in action. But when I mentioned it, the volunteers said they really didn't want to be filmed, so that's out."
+        },
+        {
+          "id": "p3_019",
+          "speaker": "leila",
+          "text": "Pity. You also said I should present all the findings while you did the introduction, but I think we should share the findings equally. Otherwise it looks unbalanced."
+        },
+        {
+          "id": "p3_020",
+          "speaker": "tomasz",
+          "text": "Fair enough. What we do both agree on is that last time we had far too many slides. Let's set a limit of ten this time."
+        },
+        {
+          "id": "p3_021",
+          "speaker": "leila",
+          "text": "Yes, ten at the most. Good."
+        },
+        {
+          "id": "p3_022",
+          "speaker": "announcer",
+          "text": "Before you hear the rest of the discussion, you have some time to look at questions 26 to 30."
+        },
+        {
+          "pause": 30,
+          "note": "Look at questions 26 to 30"
+        },
+        {
+          "id": "p3_023",
+          "speaker": "announcer",
+          "text": "Now listen and answer questions 26 to 30."
+        },
+        {
+          "id": "p3_024",
+          "speaker": "tomasz",
+          "text": "So, let's go through the sources of information we listed. First, interviews with the volunteers who run the fridges."
+        },
+        {
+          "id": "p3_025",
+          "speaker": "leila",
+          "text": "Those could be the best thing we have. The volunteers see everything: who comes, what gets taken, what gets thrown away. I think the interviews could tell us more than anything else."
+        },
+        {
+          "id": "p3_026",
+          "speaker": "tomasz",
+          "text": "I agree. Then the council's statistics on household food waste."
+        },
+        {
+          "id": "p3_027",
+          "speaker": "leila",
+          "text": "I looked at those. The problem is how they're produced. They weigh the bins from a handful of streets and then multiply up for the whole city. So the figures might be quite a long way from the truth."
+        },
+        {
+          "id": "p3_028",
+          "speaker": "tomasz",
+          "text": "Hasn't someone already analysed them, though? I thought there was a report."
+        },
+        {
+          "id": "p3_029",
+          "speaker": "leila",
+          "text": "That was the national figures, not the city ones. So no, nobody's done it locally. But we'd still have to treat the numbers with caution."
+        },
+        {
+          "id": "p3_030",
+          "speaker": "tomasz",
+          "text": "Okay. What about social media? The fridge has quite an active page, with people posting photos of what's in it."
+        },
+        {
+          "id": "p3_031",
+          "speaker": "leila",
+          "text": "It's easy to collect, but the people who post are mostly the same small group of keen regulars. It wouldn't tell us anything about the wider range of users. It's just too narrow."
+        },
+        {
+          "id": "p3_032",
+          "speaker": "tomasz",
+          "text": "Right. And the supermarket donation records? The store on Wharf Road gives its leftover bread and vegetables to the fridge every evening."
+        },
+        {
+          "id": "p3_033",
+          "speaker": "leila",
+          "text": "Those would be great, but the manager said he can't release them himself. The request has to be approved by their head office first. I'll write to them this week."
+        },
+        {
+          "id": "p3_034",
+          "speaker": "tomasz",
+          "text": "And finally, my idea of asking some users to keep a food diary."
+        },
+        {
+          "id": "p3_035",
+          "speaker": "leila",
+          "text": "I like it in principle, but to be useful it would need to run for at least six weeks, and then we'd have to type up and code every entry. Our deadline is in eight weeks. We simply don't have that kind of time."
+        },
+        {
+          "id": "p3_036",
+          "speaker": "tomasz",
+          "text": "I suppose you're right. Let's put it in the section on future research instead."
+        },
+        {
+          "id": "p3_037",
+          "speaker": "announcer",
+          "text": "That is the end of Part 3. You now have half a minute to check your answers."
+        },
+        {
+          "pause": 30,
+          "note": "Check your answers to Part 3"
+        }
+      ],
+      "groups": [
+        {
+          "type": "multi",
+          "from": 21,
+          "to": 22,
+          "instructions": "Choose TWO letters, A–E.",
+          "stem": "Which TWO reasons for choosing community fridges as their topic will the students give?",
+          "options": [
+            {
+              "key": "A",
+              "text": "There is little previous research on them."
+            },
+            {
+              "key": "B",
+              "text": "They are frequently discussed in the media."
+            },
+            {
+              "key": "C",
+              "text": "Their tutor recommended the topic."
+            },
+            {
+              "key": "D",
+              "text": "It relates to their future careers."
+            },
+            {
+              "key": "E",
+              "text": "Someone involved has offered to help them."
+            }
+          ],
+          "answers": [
+            "A",
+            "E"
+          ],
+          "explain": {
+            "21": "A: 'I found dozens of papers on them [food banks], and hardly anything on community fridges. That gap is our strongest argument.' (B is wrong: 'there's been very little coverage'; C: the tutor suggested food banks; D: 'Neither of us wants to work in the food industry'.)",
+            "22": "E: 'The organiser of the Eastgate fridge has already offered to help us and to introduce us to her volunteers.'"
+          }
+        },
+        {
+          "type": "mcq",
+          "from": 23,
+          "to": 25,
+          "instructions": "Choose the correct letter, A, B or C.",
+          "questions": [
+            {
+              "n": 23,
+              "stem": "What was the main problem with the pilot survey?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Too few people responded to it."
+                },
+                {
+                  "key": "B",
+                  "text": "One question was understood in different ways."
+                },
+                {
+                  "key": "C",
+                  "text": "It took people too long to complete."
+                }
+              ],
+              "answer": "B"
+            },
+            {
+              "n": 24,
+              "stem": "Leila wants to change the research question because",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "it covers too wide an area."
+                },
+                {
+                  "key": "B",
+                  "text": "a key term in it cannot easily be measured."
+                },
+                {
+                  "key": "C",
+                  "text": "it is too similar to previous studies."
+                }
+              ],
+              "answer": "B"
+            },
+            {
+              "n": 25,
+              "stem": "What do the students agree about their presentation?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Leila will present all of the findings."
+                },
+                {
+                  "key": "B",
+                  "text": "It will include a short video."
+                },
+                {
+                  "key": "C",
+                  "text": "It will have fewer slides than last time."
+                }
+              ],
+              "answer": "C"
+            }
+          ],
+          "explain": {
+            "23": "Thirty replies was 'more than I'd hoped for' and most took 'under five minutes'. The problem was 'The wording ... some people counted the times they took food, and others counted the times they left food.'",
+            "24": "Tomasz thinks it is too broad, but Leila disagrees: 'the scope's fine. What worries me is the word \"successful\". How would we ever measure that?'",
+            "25": "The video is rejected ('so that's out') and Leila wants to share the findings. Both agree: 'last time we had far too many slides. Let's set a limit of ten this time.'"
+          }
+        },
+        {
+          "type": "matching",
+          "from": 26,
+          "to": 30,
+          "instructions": "What opinion do the students express about each of the following sources of information? Choose FIVE answers from the box and write the correct letter, A–F, next to Questions 26–30.",
+          "optionsTitle": "Opinions",
+          "reuse": false,
+          "options": [
+            {
+              "key": "A",
+              "text": "It may not be accurate."
+            },
+            {
+              "key": "B",
+              "text": "It would take too long to collect."
+            },
+            {
+              "key": "C",
+              "text": "It needs official permission."
+            },
+            {
+              "key": "D",
+              "text": "It could be the most revealing."
+            },
+            {
+              "key": "E",
+              "text": "It has already been analysed by others."
+            },
+            {
+              "key": "F",
+              "text": "It is too limited in scope."
+            }
+          ],
+          "items": [
+            {
+              "n": 26,
+              "text": "interviews with volunteers",
+              "answer": "D"
+            },
+            {
+              "n": 27,
+              "text": "council food waste statistics",
+              "answer": "A"
+            },
+            {
+              "n": 28,
+              "text": "social media posts",
+              "answer": "F"
+            },
+            {
+              "n": 29,
+              "text": "supermarket donation records",
+              "answer": "C"
+            },
+            {
+              "n": 30,
+              "text": "users' food diaries",
+              "answer": "B"
+            }
+          ],
+          "explain": {
+            "26": "Leila: 'Those could be the best thing we have ... I think the interviews could tell us more than anything else.'",
+            "27": "'They weigh the bins from a handful of streets and then multiply up ... So the figures might be quite a long way from the truth.' (E is wrong: 'That was the national figures ... nobody's done it locally.')",
+            "28": "'the people who post are mostly the same small group of keen regulars ... It's just too narrow.'",
+            "29": "'the manager said he can't release them himself. The request has to be approved by their head office first.'",
+            "30": "'it would need to run for at least six weeks ... Our deadline is in eight weeks. We simply don't have that kind of time.'"
+          }
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "context": "A university lecture on the history, biology and modern uses of seaweed.",
+      "script": [
+        {
+          "id": "p4_001",
+          "speaker": "announcer",
+          "text": "Part 4. You will hear a lecturer giving a talk about seaweed and the ways people have used it. First, you have some time to look at questions 31 to 40."
+        },
+        {
+          "pause": 45,
+          "note": "Look at questions 31 to 40"
+        },
+        {
+          "id": "p4_002",
+          "speaker": "announcer",
+          "text": "Now listen carefully and answer questions 31 to 40."
+        },
+        {
+          "id": "p4_003",
+          "speaker": "lecturer",
+          "text": "Good afternoon. In today's lecture in our series on marine resources, I want to look at something most of us only notice when we slip on it at the beach: seaweed."
+        },
+        {
+          "id": "p4_004",
+          "speaker": "lecturer",
+          "text": "I'll start with how coastal communities have used it in the past, then say a little about its biology, and finish with some of the newer uses that researchers are excited about, along with the problems they raise."
+        },
+        {
+          "id": "p4_005",
+          "speaker": "lecturer",
+          "text": "Let's begin with history. In the Scottish islands and along the west coast of Ireland, seaweed was gathered from the shore for centuries. You might assume it was mainly used to feed animals, and it's true that on one or two islands sheep grazed on it. But its chief value was agricultural."
+        },
+        {
+          "id": "p4_006",
+          "speaker": "lecturer",
+          "text": "Farmers carried it up from the beach in baskets and spread it over their fields as a fertiliser, because the soil there was thin and poor."
+        },
+        {
+          "id": "p4_007",
+          "speaker": "lecturer",
+          "text": "In the eighteenth century, a much bigger industry developed. Seaweed was dried and burnt in stone pits to produce an ash known as kelp. This ash was rich in alkali, which manufacturers needed to make soap and, above all, glass. For a few decades, kelp burning employed tens of thousands of people, and some landowners became extremely wealthy."
+        },
+        {
+          "id": "p4_008",
+          "speaker": "lecturer",
+          "text": "That boom didn't last, as cheaper alkali became available from other sources. However, in the nineteenth century, seaweed found a new market. Chemists discovered that it was the richest natural source of iodine, which was soon in great demand in medicine, particularly for treating wounds. So for a while, seaweed remained an important export from these remote coasts."
+        },
+        {
+          "id": "p4_009",
+          "speaker": "lecturer",
+          "text": "Now, a little biology. Although we tend to think of seaweeds as plants, they're actually algae, and they don't have roots. Instead, they have a structure called a holdfast. It doesn't take in any nutrients. It simply grips onto rocks, which is why you rarely find large seaweeds growing on sandy beaches or in mud. There's nothing solid there for the holdfast to hold."
+        },
+        {
+          "id": "p4_010",
+          "speaker": "lecturer",
+          "text": "Some species grow astonishingly fast. Giant kelp, for instance, has been recorded growing as much as fifty centimetres in a single day. Not a week, not a month: a day. That makes it one of the fastest-growing organisms on the planet."
+        },
+        {
+          "id": "p4_011",
+          "speaker": "lecturer",
+          "text": "That rapid growth is part of the reason seaweed attracts so much interest from climate scientists. Like land plants, seaweeds take in carbon dioxide as they grow. And because they remove it from the water around them, dense seaweed beds can reduce the acidity of the nearby seawater. That gives some protection to shellfish, which struggle to build their shells in more acidic conditions."
+        },
+        {
+          "id": "p4_012",
+          "speaker": "lecturer",
+          "text": "So, to modern uses. Many of you have probably used a seaweed product already today without realising it. Substances extracted from seaweed are excellent thickening agents, and one product where they're widely used is toothpaste. They're what stops it running straight off your brush."
+        },
+        {
+          "id": "p4_013",
+          "speaker": "lecturer",
+          "text": "Agriculture is another area of research. Cattle produce large amounts of methane as they digest grass, and methane is a powerful greenhouse gas. Trials have shown that adding a small quantity of one particular red seaweed to cattle feed can sharply cut the methane the animals produce. The difficulty, at the moment, is growing enough of that seaweed to make a difference."
+        },
+        {
+          "id": "p4_014",
+          "speaker": "lecturer",
+          "text": "Then there's packaging. A number of companies are developing edible films made from seaweed to replace plastic. At several city marathons, organisers have handed runners small pods of water wrapped in a seaweed skin instead of plastic bottles. Runners simply bite the pod or swallow it whole, and there's nothing left on the road afterwards."
+        },
+        {
+          "id": "p4_015",
+          "speaker": "lecturer",
+          "text": "Finally, the challenges. As demand grows, there's a temptation to harvest more wild seaweed. But this has to be carefully controlled, because kelp forests are vital habitats. In particular, they provide shelter for young fish, which hide among the fronds from predators until they're large enough to survive in open water. Remove too much kelp, and fish numbers can fall."
+        },
+        {
+          "id": "p4_016",
+          "speaker": "lecturer",
+          "text": "Seaweed farming may be part of the answer, but that brings its own questions, which we'll look at next week."
+        },
+        {
+          "id": "p4_017",
+          "speaker": "announcer",
+          "text": "That is the end of Part 4. You now have half a minute to check your answers."
+        },
+        {
+          "pause": 30,
+          "note": "Check your answers to Part 4"
+        },
+        {
+          "id": "p4_018",
+          "speaker": "announcer",
+          "text": "That is the end of the listening test."
+        }
+      ],
+      "groups": [
+        {
+          "type": "gap",
+          "from": 31,
+          "to": 40,
+          "layout": "notes",
+          "instructions": "Complete the notes below.",
+          "limit": "ONE WORD ONLY",
+          "title": "Seaweed: past, present and future",
+          "lines": [
+            "# Traditional uses",
+            "- In parts of Scotland and Ireland, it was spread on fields as a {{31}}",
+            "- Burnt to produce kelp ash, which was used to make soap and {{32}}",
+            "- In the 19th century, it became an important source of {{33}} for medical use",
+            "# Biology",
+            "- Seaweeds are algae with no roots; a holdfast attaches them to {{34}}",
+            "- Giant kelp can grow up to 50 cm in one {{35}}",
+            "- Seaweed beds absorb carbon dioxide and can lower the {{36}} of nearby seawater",
+            "# Modern uses",
+            "- Seaweed extracts act as a thickener in products such as {{37}}",
+            "- Adding a red seaweed to cattle feed can reduce the {{38}} that cattle produce",
+            "- Edible seaweed pods have been used to give marathon runners {{39}}",
+            "# Challenges",
+            "- Wild harvesting must be controlled, as kelp forests provide {{40}} for young fish"
+          ],
+          "answers": {
+            "31": [
+              "fertiliser",
+              "fertilizer"
+            ],
+            "32": [
+              "glass"
+            ],
+            "33": [
+              "iodine"
+            ],
+            "34": [
+              "rocks",
+              "rock"
+            ],
+            "35": [
+              "day"
+            ],
+            "36": [
+              "acidity"
+            ],
+            "37": [
+              "toothpaste"
+            ],
+            "38": [
+              "methane"
+            ],
+            "39": [
+              "water"
+            ],
+            "40": [
+              "shelter"
+            ]
+          },
+          "explain": {
+            "31": "Animal feed is a distractor: 'its chief value was agricultural ... spread it over their fields as a fertiliser'.",
+            "32": "'manufacturers needed to make soap and, above all, glass.'",
+            "33": "'it was the richest natural source of iodine, which was soon in great demand in medicine'.",
+            "34": "'It simply grips onto rocks, which is why you rarely find large seaweeds growing on sandy beaches or in mud.'",
+            "35": "'as much as fifty centimetres in a single day. Not a week, not a month: a day.'",
+            "36": "'dense seaweed beds can reduce the acidity of the nearby seawater.'",
+            "37": "'Substances extracted from seaweed are excellent thickening agents, and one product where they're widely used is toothpaste.'",
+            "38": "'adding a small quantity of one particular red seaweed to cattle feed can sharply cut the methane the animals produce.'",
+            "39": "'organisers have handed runners small pods of water wrapped in a seaweed skin instead of plastic bottles.'",
+            "40": "'they provide shelter for young fish, which hide among the fronds from predators'."
+          }
+        }
+      ]
+    }
+  ]
+}

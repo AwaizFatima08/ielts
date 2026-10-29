@@ -1,0 +1,80 @@
+{
+  "id": "w-task2-other-types",
+  "skill": "writing",
+  "title": "Task 2: advantages/disadvantages, problem/solution and two-part questions",
+  "guide": [
+    {
+      "h": "Advantages and disadvantages"
+    },
+    {
+      "bullets": [
+        "'What are the advantages and disadvantages?' — describe both; no opinion is required, though a brief one is acceptable.",
+        "'Do the advantages outweigh the disadvantages?' — this is an opinion question. You must decide which side is stronger and say so clearly.",
+        "Plan: Body 1 = advantages, Body 2 = disadvantages, then judge in the conclusion (or put the weaker side first and the stronger side second)."
+      ]
+    },
+    {
+      "h": "Problem / cause and solution"
+    },
+    {
+      "bullets": [
+        "Typical wording: 'What problems does this cause? What solutions can you suggest?' or 'What are the causes and what measures could be taken?'",
+        "Plan: Body 1 = causes or problems, Body 2 = solutions.",
+        "Link each solution to a cause or problem you described — it makes the essay coherent.",
+        "Make solutions specific: who should do what, and how would it help?"
+      ]
+    },
+    {
+      "h": "Two-part (direct) questions"
+    },
+    {
+      "bullets": [
+        "Two separate questions on one topic, e.g. 'Why is this happening? Is it a positive or negative development?'",
+        "Answer both questions fully — one body paragraph each is a good plan.",
+        "Underline both questions in the prompt so you do not forget the second one."
+      ]
+    },
+    {
+      "tip": "Whatever the type, the introduction should show the examiner that you have understood the exact question. Paraphrase it and outline your answer."
+    }
+  ],
+  "drill": null,
+  "models": [
+    {
+      "title": "Advantages outweigh disadvantages: working from home",
+      "prompt": "In many countries, an increasing number of people are working from home rather than in an office.\n\nDo the advantages of this trend outweigh the disadvantages?\n\nGive reasons for your answer and include any relevant examples from your own knowledge or experience. Write at least 250 words.",
+      "answer": "Over the past few years, working from home has changed from an unusual privilege into a normal arrangement for millions of office employees. Although this trend has some genuine drawbacks, I believe its benefits are greater, both for workers and for society.\n\nThe most obvious advantage is the time and money saved on commuting. An employee who previously spent an hour each way on crowded trains gains ten hours a week, which can be spent on family, exercise or rest. Fewer journeys also mean less traffic and lower emissions in city centres. Moreover, many people find that they can concentrate better at home, away from the constant interruptions of an open-plan office.\n\nNevertheless, there are real disadvantages. Some workers, especially those living alone, feel isolated and miss the informal conversations that build friendships and help new ideas to develop. Young employees in particular may learn more slowly when they cannot watch experienced colleagues at work. In addition, the boundary between work and home can become unclear, leading some people to answer emails late into the evening.\n\nIn my view, however, most of these problems can be reduced by sensible management, whereas the benefits are built into the arrangement itself. Many companies now use a hybrid model, with staff in the office two or three days a week for meetings and training, and at home for focused tasks. Clear rules about working hours can also protect employees' personal time.\n\nIn conclusion, while working from home can cause loneliness and blur the line between work and private life, these issues are manageable. The savings in time, money and pollution, together with improved concentration, mean that the advantages clearly outweigh the disadvantages.",
+      "band": 8,
+      "notes": [
+        "The question asks for a judgement, so the writer states a clear answer in the introduction and conclusion.",
+        "Body 3 explains why the advantages are stronger — this comparison is what makes the essay answer 'outweigh'.",
+        "Concession language (Although, Nevertheless, while…) shows balanced thinking without losing the position.",
+        "Examples are realistic and specific (an hour each way, ten hours a week, hybrid model)."
+      ]
+    },
+    {
+      "title": "Causes and solutions: traffic congestion",
+      "prompt": "Traffic congestion is becoming a serious problem in many cities around the world.\n\nWhat are the causes of this problem, and what measures could be taken to solve it?\n\nGive reasons for your answer and include any relevant examples from your own knowledge or experience. Write at least 250 words.",
+      "answer": "In cities across the world, roads that were designed decades ago are now filled with far more vehicles than they can handle, and journeys that should take minutes can last over an hour. This essay will examine the main reasons for this congestion and suggest some practical measures to reduce it.\n\nThe first cause is the rapid growth of urban populations. As people move to cities for work, the number of daily journeys rises, but road space cannot easily be expanded in crowded centres. A second cause is the lack of reliable alternatives to the car. Where buses are infrequent and trains are overcrowded, many commuters feel they have no choice but to drive. Finally, the way cities are planned plays a role: when homes are built in suburbs far from offices, shops and schools, almost every trip requires a vehicle.\n\nTo address these causes, governments should first invest heavily in public transport. Frequent, affordable services such as dedicated bus lanes and metro lines can move far more people than private cars using the same space. Secondly, cities could introduce congestion charges, which make drivers pay to enter the centre at busy times. Where such schemes have been introduced, traffic has generally fallen, and the money raised can be used to improve public transport further. In the longer term, planners should create mixed neighbourhoods where people can live, work and shop within walking or cycling distance.\n\nIn conclusion, traffic congestion is caused mainly by population growth, poor public transport and car-dependent planning. A combination of better transport services, charges for driving at peak times and smarter urban design offers the most effective way to keep cities moving.",
+      "band": 8,
+      "notes": [
+        "Body 1 covers causes and Body 2 covers solutions, matching the two parts of the question.",
+        "Each solution clearly answers a cause (poor transport → investment; car-dependent planning → mixed neighbourhoods).",
+        "Sequencing words (The first cause…, A second cause…, Finally…, first…, Secondly…, In the longer term…) give strong coherence.",
+        "Claims are cautious and accurate ('traffic has generally fallen'), which is better than exaggeration."
+      ]
+    },
+    {
+      "title": "Two-part question: social media",
+      "prompt": "Many people today spend a large amount of their free time on social media.\n\nWhy is this the case? Is this a positive or negative development?\n\nGive reasons for your answer and include any relevant examples from your own knowledge or experience. Write at least 250 words.",
+      "answer": "For many people, checking social media is now the first thing they do in the morning and the last thing they do at night. This essay will explain why these platforms take up so much of our free time and argue that, on balance, the trend is a negative one.\n\nThere are several reasons why social media is so time-consuming. Firstly, it is always available: a smartphone in every pocket means that any spare moment, from a bus journey to a queue in a shop, can be filled with scrolling. Secondly, the platforms are deliberately designed to hold attention. Endless feeds, notifications and personalised recommendations ensure that there is always something new to see. Finally, social media meets a real need for connection, allowing people to keep in touch with friends and family who live far away.\n\nDespite these benefits, I believe the overall effect is more negative than positive. The time spent online often replaces activities that are better for wellbeing, such as exercise, reading or face-to-face conversation. Many users, particularly teenagers, also compare themselves with the carefully edited lives they see on screen, which can damage their self-esteem. Furthermore, the habit of constantly switching between short posts may make it harder to concentrate on longer tasks at work or school.\n\nThis does not mean that social media should be avoided altogether. Used in moderation, it can be a useful way to share news and maintain relationships. The problem lies in the amount of time people spend on it, rather than in the technology itself.\n\nIn conclusion, social media absorbs so much free time because it is constantly accessible, designed to be addictive and meets a genuine social need. However, as it increasingly replaces healthier activities and affects mental wellbeing, I consider this a negative development overall.",
+      "band": 8,
+      "notes": [
+        "The introduction tells the examiner that both questions will be answered and gives the writer's view.",
+        "Body 1 answers 'Why?' with three clear reasons; Body 2 answers 'positive or negative?' with a clear judgement.",
+        "Body 3 adds nuance (moderate use is fine) without contradicting the position.",
+        "The conclusion summarises the answers to both questions in fresh words."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "id": "l-maps",
+  "skill": "listening",
+  "title": "Map and plan labelling",
+  "guide": [
+    {
+      "h": "What it tests"
+    },
+    {
+      "p": "In Part 2 you may see a map of a town, park or campus, or a floor plan of a building. Some places are marked with letters. You hear a speaker describe where things are and you match each place to a letter."
+    },
+    {
+      "h": "What the map looks like"
+    },
+    {
+      "p": "Imagine a simple plan of a park. The main gate is at the bottom (south). A path runs straight up the middle to a lake at the top. To the left of the path, near the gate, is a car park; to the right is a playground. A café sits on the east side of the lake, and a bridge crosses the lake towards a garden on the far side. The letters A–G mark empty buildings and areas around the path. Your job is to decide which letter is the café, the toilets, the visitor centre and so on."
+    },
+    {
+      "h": "How to approach it"
+    },
+    {
+      "bullets": [
+        "Before listening, find the starting point ('You are here', the entrance) and any compass arrow.",
+        "Turn the map in your mind so that you are facing the way the speaker is walking. 'On your left' depends on direction.",
+        "Notice the labelled places already given — the speaker uses them as landmarks.",
+        "Trace the route with your pencil or finger while you listen.",
+        "Places are heard in question order, so the route usually moves smoothly from one to the next."
+      ]
+    },
+    {
+      "h": "Language to listen for"
+    },
+    {
+      "bullets": [
+        "Direction: straight ahead, turn left/right, go past, go through, follow the path round, cross over.",
+        "Position: opposite, next to, beside, between X and Y, behind, in front of, at the end of, in the corner, just before you reach.",
+        "Compass: in the north-east corner, on the west side, to the south of.",
+        "Floors: on the ground floor, upstairs, in the basement, on the first floor."
+      ]
+    },
+    {
+      "example": "'Go past the playground and take the first path on your right. The toilets are just there, opposite the bike racks.'"
+    },
+    {
+      "tip": "Positions often change: 'The café used to be by the gate, but it has moved to the lake.' Mark only the new position."
+    },
+    {
+      "p": "The drill below practises the same position language with sentences instead of a map."
+    }
+  ],
+  "drill": {
+    "passage": null,
+    "script": [
+      {
+        "id": "dlp_001",
+        "speaker": "woman",
+        "text": "Welcome to the Northgate Museum. You're standing in the entrance hall. Straight ahead of you is the main staircase, and the gift shop is on your left as you come in."
+      },
+      {
+        "id": "dlp_002",
+        "speaker": "woman",
+        "text": "The café used to be on the ground floor, but it has moved upstairs. Go up the stairs, turn right, and it's at the end of the corridor, overlooking the garden."
+      },
+      {
+        "id": "dlp_003",
+        "speaker": "woman",
+        "text": "The children's gallery is on the ground floor. Walk past the staircase and take the first door on your left. It's opposite the toilets."
+      },
+      {
+        "id": "dlp_004",
+        "speaker": "woman",
+        "text": "Lockers for coats and bags are downstairs in the basement, next to the lift. Please don't leave bags in the corridors."
+      },
+      {
+        "id": "dlp_005",
+        "speaker": "woman",
+        "text": "And the lecture theatre is behind the entrance hall. Follow the signs through the double doors into the north wing."
+      }
+    ],
+    "groups": [
+      {
+        "type": "gap",
+        "from": 1,
+        "to": 5,
+        "layout": "sentences",
+        "instructions": "Complete the sentences below.",
+        "limit": "ONE WORD ONLY",
+        "title": "Northgate Museum",
+        "lines": [
+          "The gift shop is on the visitor's {{1}} when entering.",
+          "The café now looks out over the {{2}}.",
+          "The children's gallery is opposite the {{3}}.",
+          "The lockers are in the {{4}}, next to the lift.",
+          "The lecture theatre is in the {{5}} wing."
+        ],
+        "answers": {
+          "1": [
+            "left"
+          ],
+          "2": [
+            "garden"
+          ],
+          "3": [
+            "toilets"
+          ],
+          "4": [
+            "basement"
+          ],
+          "5": [
+            "north"
+          ]
+        },
+        "explain": {
+          "1": "'the gift shop is on your left as you come in.'",
+          "2": "'it's at the end of the corridor, overlooking the garden.' The ground floor was its old position.",
+          "3": "'It's opposite the toilets.'",
+          "4": "'Lockers … are downstairs in the basement, next to the lift.'",
+          "5": "'through the double doors into the north wing.'"
+        }
+      }
+    ]
+  }
+}

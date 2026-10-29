@@ -1,0 +1,138 @@
+{
+  "id": "r-diagram-short",
+  "skill": "reading",
+  "title": "Diagram labelling and short-answer questions",
+  "guide": [
+    {
+      "h": "Diagram labelling"
+    },
+    {
+      "p": "Diagram tasks show a drawing of a machine, a building, a natural process or an object, with some labels missing. The passage describes it in words; you find the words that name each part. Most diagram questions come from one or two paragraphs."
+    },
+    {
+      "bullets": [
+        "Look at the diagram first: what does it show, and where do the labels point?",
+        "Find the paragraph that describes the object. It is usually full of position words: at the top, beneath, along the edge, inside.",
+        "Labels are often nouns (glass, pipe, channel). Copy the exact word from the passage.",
+        "Answers are not always in passage order, so use the position words to match each label."
+      ]
+    },
+    {
+      "h": "Short-answer questions"
+    },
+    {
+      "p": "Short-answer questions ask you a direct question (What…? How many…? Where…?) to be answered with a few words from the passage. They follow passage order."
+    },
+    {
+      "bullets": [
+        "Underline the question word: 'how much' needs an amount, 'where' a place, 'what' usually a noun.",
+        "Copy the words from the passage; do not write a full sentence.",
+        "Leave out unnecessary words such as 'a' or 'the' if they push you over the limit."
+      ]
+    },
+    {
+      "tip": "NO MORE THAN THREE WORDS AND/OR A NUMBER means you may write up to three words plus a number, for example '3 to 4 litres'."
+    },
+    {
+      "p": "In the drill below, the labels of a solar still diagram are given as notes."
+    }
+  ],
+  "drill": {
+    "script": null,
+    "passage": {
+      "title": "The solar still",
+      "paragraphs": [
+        {
+          "label": "",
+          "text": "In places where fresh water is scarce but sunshine is plentiful, a simple device called a solar still can produce drinking water from salty or dirty water. It uses no fuel and has no moving parts, which makes it suitable for remote areas."
+        },
+        {
+          "label": "",
+          "text": "A basic still consists of a shallow basin painted black and covered by a sloping sheet of glass. The black surface absorbs sunlight and heats the water in the basin. As the water warms, it evaporates, leaving salt and most other impurities behind."
+        },
+        {
+          "label": "",
+          "text": "The water vapour rises until it meets the underside of the glass, which is cooler than the air inside because it is in contact with the outside air. There the vapour condenses into droplets. Because the glass slopes, the droplets run down its inner surface into a narrow channel along the lower edge, which carries the clean water to a collection bottle."
+        },
+        {
+          "label": "",
+          "text": "The amount of water produced depends mainly on the strength of the sunlight. A still with an area of one square metre may produce around three to four litres on a sunny day, which is enough for the drinking needs of one or two people but far too little for cooking and washing. Output falls sharply in cloudy weather and almost stops at night."
+        },
+        {
+          "label": "",
+          "text": "Designers have tried several improvements. Adding a reflector behind the basin directs extra sunlight onto the water, and some stills use several basins stacked one above another, so that heat released by condensation in one level warms the water in the next."
+        }
+      ]
+    },
+    "groups": [
+      {
+        "type": "gap",
+        "from": 1,
+        "to": 4,
+        "layout": "notes",
+        "instructions": "Complete the labels below. Choose ONE WORD ONLY from the passage for each answer.",
+        "limit": "ONE WORD ONLY",
+        "title": "Parts of a basic solar still",
+        "lines": [
+          "- Cover: a sloping sheet of {{1}}",
+          "- Basin: shallow and painted {{2}} to absorb sunlight",
+          "- Along the lower edge: a narrow {{3}} that collects the droplets",
+          "- Storage: clean water flows into a collection {{4}}"
+        ],
+        "answers": {
+          "1": [
+            "glass"
+          ],
+          "2": [
+            "black"
+          ],
+          "3": [
+            "channel"
+          ],
+          "4": [
+            "bottle"
+          ]
+        },
+        "explain": {
+          "1": "'covered by a sloping sheet of glass.'",
+          "2": "'a shallow basin painted black … The black surface absorbs sunlight.'",
+          "3": "'the droplets run down its inner surface into a narrow channel along the lower edge.'",
+          "4": "'which carries the clean water to a collection bottle.'"
+        }
+      },
+      {
+        "type": "gap",
+        "from": 5,
+        "to": 7,
+        "layout": "short",
+        "instructions": "Answer the questions below. Choose NO MORE THAN THREE WORDS AND/OR A NUMBER from the passage for each answer.",
+        "limit": "NO MORE THAN THREE WORDS AND/OR A NUMBER",
+        "lines": [
+          "Apart from other impurities, what substance stays in the basin when the water evaporates? {{5}}",
+          "How many litres of water can a one-square-metre still produce on a sunny day? {{6}}",
+          "What can be placed behind the basin to increase the sunlight on the water? {{7}}"
+        ],
+        "answers": {
+          "5": [
+            "salt"
+          ],
+          "6": [
+            "three to four",
+            "3 to 4",
+            "3-4",
+            "3–4"
+          ],
+          "7": [
+            "a reflector",
+            "reflector"
+          ]
+        },
+        "explain": {
+          "5": "'it evaporates, leaving salt and most other impurities behind.'",
+          "6": "'may produce around three to four litres on a sunny day.'",
+          "7": "'Adding a reflector behind the basin directs extra sunlight onto the water.'"
+        }
+      }
+    ]
+  }
+}

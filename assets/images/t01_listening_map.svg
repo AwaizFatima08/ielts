@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 450" width="600" height="450" font-family="Arial, Helvetica, sans-serif">
+  <title>Millbrook Wetland Centre – site map</title>
+  <rect x="0" y="0" width="600" height="450" fill="#ffffff"/>
+
+  <!-- site boundary with entrance gap at bottom centre -->
+  <path d="M285 432 H27 Q15 432 15 420 V27 Q15 15 27 15 H573 Q585 15 585 27 V420 Q585 432 573 432 H315" fill="none" stroke="#888888" stroke-width="2"/>
+
+  <!-- reed beds -->
+  <rect x="28" y="70" width="84" height="180" rx="6" fill="#e4f0d9" stroke="#9cbf86" stroke-width="1"/>
+  <g stroke="#8fb878" stroke-width="1.5">
+    <line x1="40" y1="90" x2="40" y2="102"/><line x1="58" y1="84" x2="58" y2="96"/><line x1="76" y1="92" x2="76" y2="104"/>
+    <line x1="46" y1="170" x2="46" y2="182"/><line x1="64" y1="160" x2="64" y2="172"/><line x1="82" y1="176" x2="82" y2="188"/>
+    <line x1="40" y1="200" x2="40" y2="212"/><line x1="70" y1="196" x2="70" y2="208"/><line x1="96" y1="206" x2="96" y2="218"/>
+  </g>
+  <text x="70" y="240" font-size="12" text-anchor="middle" fill="#333333">Reed Beds</text>
+
+  <!-- woodland -->
+  <rect x="497" y="30" width="78" height="200" rx="6" fill="#dcebd3" stroke="#9cbf86" stroke-width="1"/>
+  <g fill="#a9cf96" stroke="#7fae68" stroke-width="1">
+    <circle cx="515" cy="55" r="9"/><circle cx="545" cy="62" r="10"/><circle cx="560" cy="95" r="9"/>
+    <circle cx="520" cy="100" r="10"/><circle cx="548" cy="135" r="9"/><circle cx="515" cy="150" r="9"/>
+    <circle cx="555" cy="175" r="10"/>
+  </g>
+  <text x="536" y="218" font-size="12" text-anchor="middle" fill="#333333">Woodland</text>
+
+  <!-- stream and bridge -->
+  <path d="M512 232 C498 290 548 335 528 385 S540 420 546 432" fill="none" stroke="#7fb3d5" stroke-width="6" stroke-linecap="round"/>
+  <text x="526" y="258" font-size="12" fill="#333333">Stream</text>
+
+  <!-- paths -->
+  <g fill="none" stroke="#c8b796" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="300" cy="140" rx="175" ry="100"/>
+    <line x1="300" y1="240" x2="300" y2="290"/>
+    <line x1="300" y1="335" x2="300" y2="432"/>
+    <line x1="200" y1="398" x2="300" y2="398"/>
+    <polyline points="350,312 440,312 528,385 575,385"/>
+  </g>
+  <!-- bridge over the stream -->
+  <rect x="515" y="377" width="26" height="16" fill="#a67c52" stroke="#7a5a3a" stroke-width="1"/>
+
+  <!-- lake -->
+  <ellipse cx="300" cy="140" rx="120" ry="55" fill="#cfe6f5" stroke="#7fb3d5" stroke-width="2"/>
+  <text x="300" y="145" font-size="14" text-anchor="middle" fill="#2b5876">Main Lake</text>
+
+  <!-- visitor centre -->
+  <rect x="250" y="290" width="100" height="45" fill="#f1ece2" stroke="#555555" stroke-width="1.5"/>
+  <text x="300" y="317" font-size="12" text-anchor="middle" fill="#222222">Visitor Centre</text>
+
+  <!-- car park -->
+  <rect x="40" y="370" width="160" height="52" fill="#eeeeee" stroke="#999999" stroke-width="1.5"/>
+  <text x="120" y="400" font-size="12" text-anchor="middle" fill="#333333">Car Park</text>
+
+  <!-- entrance -->
+  <text x="300" y="446" font-size="11" text-anchor="middle" fill="#333333">Main Entrance</text>
+
+  <!-- compass -->
+  <g transform="translate(48,48)">
+    <polygon points="0,-14 6,4 0,0 -6,4" fill="#333333"/>
+    <text x="0" y="-18" font-size="11" text-anchor="middle" fill="#333333">N</text>
+  </g>
+
+  <!-- letters A–H -->
+  <g font-size="14" font-weight="bold" text-anchor="middle" fill="#111111">
+    <g><circle cx="224" cy="374" r="12" fill="#ffffff" stroke="#222222" stroke-width="2"/><text x="224" y="379">A</text></g>
+    <g><circle cx="172" cy="54" r="12" fill="#ffffff" stroke="#222222" stroke-width="2"/><text x="172" y="59">B</text></g>
+    <g><circle cx="300" cy="63" r="12" fill="#ffffff" stroke="#222222" stroke-width="2"/><text x="300" y="68">C</text></g>
+    <g><circle cx="470" cy="58" r="12" fill="#ffffff" stroke="#222222" stroke-width="2"/><text x="470" y="63">D</text></g>
+    <g><circle cx="400" cy="287" r="12" fill="#ffffff" stroke="#222222" stroke-width="2"/><text x="400" y="292">E</text></g>
+    <g><circle cx="488" cy="402" r="12" fill="#ffffff" stroke="#222222" stroke-width="2"/><text x="488" y="407">F</text></g>
+    <g><circle cx="98" cy="140" r="12" fill="#ffffff" stroke="#222222" stroke-width="2"/><text x="98" y="145">G</text></g>
+    <g><circle cx="332" cy="265" r="12" fill="#ffffff" stroke="#222222" stroke-width="2"/><text x="332" y="270">H</text></g>
+  </g>
+</svg>

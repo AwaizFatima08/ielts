@@ -1,0 +1,137 @@
+{
+  "id": "l-form-notes",
+  "skill": "listening",
+  "title": "Form and note completion",
+  "guide": [
+    {
+      "h": "What it tests"
+    },
+    {
+      "p": "Form and note completion usually appears in Part 1 (a conversation about booking, registering or enquiring) and sometimes in Part 4 (notes on a lecture). You hear specific details — names, numbers, days, prices, objects — and write them in the gaps."
+    },
+    {
+      "h": "How to approach it"
+    },
+    {
+      "bullets": [
+        "Read the title first: it tells you the situation (a hotel booking, a job enquiry).",
+        "For each gap, predict the kind of answer: a number, a price, a day, a noun, a plural noun.",
+        "Check the word limit. ONE WORD AND/OR A NUMBER means 'seventeen' or '17' or 'garage' but never 'the garage'.",
+        "The questions follow the order of the recording. If you miss one, move on immediately.",
+        "Write exactly the words you hear. Do not change the form of the word."
+      ]
+    },
+    {
+      "h": "The classic traps"
+    },
+    {
+      "bullets": [
+        "Self-correction: 'Tuesday — no, sorry, Wednesday is better.' The second answer is right.",
+        "Two options mentioned, one rejected: 'We have a single or a double… the double is fully booked.'",
+        "Changed details: 'It used to cost £40, but now it's £45.'",
+        "Information that is already on the form is not tested again — skip it."
+      ]
+    },
+    {
+      "example": "You read: 'Deposit: £___'. You hear: 'The deposit was thirty pounds last year, but it's gone up to thirty-five.' Answer: 35."
+    },
+    {
+      "tip": "Gaps next to units (£, km, a.m.) need only the number. Do not write the unit again."
+    }
+  ],
+  "drill": {
+    "passage": null,
+    "script": [
+      {
+        "id": "dlf_001",
+        "speaker": "woman",
+        "text": "Good afternoon, Harbour Cycle Hire. How can I help?"
+      },
+      {
+        "id": "dlf_002",
+        "speaker": "man",
+        "text": "Hi, I'd like to book a bike for this weekend. I was thinking of a mountain bike, but actually I'll mostly be on the coast road, so a hybrid would be better."
+      },
+      {
+        "id": "dlf_003",
+        "speaker": "woman",
+        "text": "Fine, a hybrid. And how long do you need it for? We charge by the day."
+      },
+      {
+        "id": "dlf_004",
+        "speaker": "man",
+        "text": "From Friday to Sunday, so three days. Can I collect it on Friday morning, around nine?"
+      },
+      {
+        "id": "dlf_005",
+        "speaker": "woman",
+        "text": "I'm afraid we don't open until half past nine on Fridays."
+      },
+      {
+        "id": "dlf_006",
+        "speaker": "man",
+        "text": "Then half past nine is fine. Do I need to bring my own helmet?"
+      },
+      {
+        "id": "dlf_007",
+        "speaker": "woman",
+        "text": "No, a helmet's included free. But if you want a lock, that's two pounds extra per day. And we take a deposit of sixty pounds. It used to be fifty, but it went up this year."
+      },
+      {
+        "id": "dlf_008",
+        "speaker": "man",
+        "text": "Okay. I'll take the lock as well, then."
+      }
+    ],
+    "groups": [
+      {
+        "type": "gap",
+        "from": 1,
+        "to": 6,
+        "layout": "notes",
+        "instructions": "Complete the notes below.",
+        "limit": "ONE WORD AND/OR A NUMBER",
+        "title": "Harbour Cycle Hire – booking",
+        "lines": [
+          "Type of bike: {{1}}",
+          "Number of days: {{2}}",
+          "Collection time on Friday: {{3}} a.m.",
+          "Included free: a {{4}}",
+          "Extra item chosen: a {{5}} (£2 per day)",
+          "Deposit: £{{6}}"
+        ],
+        "answers": {
+          "1": [
+            "hybrid"
+          ],
+          "2": [
+            "3",
+            "three"
+          ],
+          "3": [
+            "9.30",
+            "9:30"
+          ],
+          "4": [
+            "helmet"
+          ],
+          "5": [
+            "lock"
+          ],
+          "6": [
+            "60",
+            "sixty"
+          ]
+        },
+        "explain": {
+          "1": "Man: 'I was thinking of a mountain bike, but … a hybrid would be better.' The mountain bike is rejected.",
+          "2": "Man: 'From Friday to Sunday, so three days.'",
+          "3": "Woman: 'we don't open until half past nine on Fridays.' Man: 'Then half past nine is fine.' Nine o'clock is the distractor.",
+          "4": "Woman: 'a helmet's included free.'",
+          "5": "Woman: 'if you want a lock, that's two pounds extra per day.' Man: 'I'll take the lock as well.'",
+          "6": "Woman: 'a deposit of sixty pounds. It used to be fifty.' Fifty is the old price."
+        }
+      }
+    ]
+  }
+}

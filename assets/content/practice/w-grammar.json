@@ -1,0 +1,90 @@
+{
+  "id": "w-grammar",
+  "skill": "writing",
+  "title": "Common grammar errors",
+  "guide": [
+    {
+      "h": "Why accuracy matters"
+    },
+    {
+      "p": "The grammar criterion rewards both range (using varied, complex structures) and accuracy (how many sentences are free from errors). At Band 7 and above, most sentences should be error-free. The errors below are the most frequent in IELTS writing."
+    },
+    {
+      "h": "Uncountable nouns"
+    },
+    {
+      "bullets": [
+        "✗ informations, advices, researches, equipments, knowledges → ✓ information, advice, research, equipment, knowledge",
+        "✗ a useful advice → ✓ a useful piece of advice / useful advice",
+        "✗ many evidence → ✓ much evidence / a lot of evidence"
+      ]
+    },
+    {
+      "h": "Articles"
+    },
+    {
+      "bullets": [
+        "✗ Government should invest in education. → ✓ The government should invest in education.",
+        "✗ The education is important for the children. → ✓ Education is important for children. (general meaning, no 'the')",
+        "✗ In the 2010 → ✓ In 2010. But: in the 1990s, in the following year."
+      ]
+    },
+    {
+      "h": "Subject–verb agreement"
+    },
+    {
+      "bullets": [
+        "✗ The number of students have increased. → ✓ The number of students has increased.",
+        "✗ A number of student has complained. → ✓ A number of students have complained.",
+        "✗ Everyone have a phone. → ✓ Everyone has a phone.",
+        "✗ One of the reasons are cost. → ✓ One of the reasons is cost."
+      ]
+    },
+    {
+      "h": "Sentence boundaries"
+    },
+    {
+      "bullets": [
+        "Fragment: ✗ Because cities are crowded. → ✓ Many people cycle because cities are crowded.",
+        "Comma splice: ✗ Prices rose, people bought less. → ✓ Prices rose, so people bought less. / Prices rose; as a result, people bought less.",
+        "'However' needs a full stop or semicolon before it when it joins two sentences: ✓ Cars are convenient. However, they pollute."
+      ]
+    },
+    {
+      "h": "Task 1 specifics"
+    },
+    {
+      "bullets": [
+        "✗ an increase of sales → ✓ an increase in sales; ✓ an increase of 10%",
+        "✗ the amount of people → ✓ the number of people (countable); ✓ the amount of water (uncountable)",
+        "✗ It was increased sharply. → ✓ It increased sharply. (rise, fall, increase are not passive here)",
+        "Keep tenses consistent: past simple for finished years; past perfect with 'by': 'By 2010 it had doubled.'"
+      ]
+    },
+    {
+      "h": "Word forms and comparatives"
+    },
+    {
+      "bullets": [
+        "✗ more higher, more easier → ✓ higher, easier",
+        "✗ the most cheapest → ✓ the cheapest",
+        "✗ economical growth → ✓ economic growth (economical = saving money)",
+        "✗ It is benefit for society. → ✓ It is beneficial to society. / It benefits society."
+      ]
+    },
+    {
+      "h": "Prepositions that are often wrong"
+    },
+    {
+      "bullets": [
+        "✓ affect something (verb, no preposition) / have an effect on something",
+        "✓ responsible for, interested in, depend on, focus on, discuss something (not 'discuss about')",
+        "✓ according to the chart (not 'according to me' — use 'in my opinion')"
+      ]
+    },
+    {
+      "tip": "Keep a personal list of the errors you make most often and check your essay for those first in the last 3 minutes."
+    }
+  ],
+  "drill": null
+}

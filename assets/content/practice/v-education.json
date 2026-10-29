@@ -1,0 +1,146 @@
+{
+  "id": "v-education",
+  "skill": "vocabulary",
+  "title": "Topic vocabulary: education",
+  "guide": [
+    {
+      "h": "Why learn education vocabulary?"
+    },
+    {
+      "p": "Education questions are extremely common: the purpose of school, university fees, online learning, exams, practical versus academic subjects. These words help you describe systems and arguments precisely."
+    },
+    {
+      "bullets": [
+        "Learn words in phrases, not alone: notice which verbs, adjectives and prepositions go with them.",
+        "Practise each word in a sentence about your own life or country — it will be easier to use in Speaking.",
+        "In Writing, choose the precise word over the impressive-sounding one. Accuracy beats complexity."
+      ]
+    },
+    {
+      "tip": "Be careful with 'learn' and 'teach': students learn, teachers teach. 'Study' is used for formal learning: 'I study economics.'"
+    }
+  ],
+  "drill": null,
+  "vocab": [
+    {
+      "word": "curriculum",
+      "meaning": "the subjects and content taught in a school or course",
+      "example": "Coding has been added to the primary school curriculum."
+    },
+    {
+      "word": "compulsory",
+      "meaning": "required by law or rules",
+      "example": "Education is compulsory until the age of sixteen."
+    },
+    {
+      "word": "tuition fees",
+      "meaning": "money paid for teaching at a college or university",
+      "example": "Tuition fees have tripled over the past decade."
+    },
+    {
+      "word": "higher education",
+      "meaning": "education at college or university level",
+      "example": "More young people are entering higher education than ever before."
+    },
+    {
+      "word": "vocational",
+      "meaning": "relating to skills needed for a particular job",
+      "example": "Vocational courses train students as electricians and chefs."
+    },
+    {
+      "word": "extracurricular",
+      "meaning": "activities outside the normal timetable",
+      "example": "Extracurricular activities such as sport and drama build confidence."
+    },
+    {
+      "word": "rote learning",
+      "meaning": "learning by repetition rather than understanding",
+      "example": "Rote learning may help students pass exams but not solve problems."
+    },
+    {
+      "word": "critical thinking",
+      "meaning": "the ability to analyse and judge information carefully",
+      "example": "Universities value critical thinking above memory."
+    },
+    {
+      "word": "assessment",
+      "meaning": "the process of judging students' work or ability",
+      "example": "Continuous assessment reduces exam stress."
+    },
+    {
+      "word": "academic performance",
+      "meaning": "how well a student does in their studies",
+      "example": "Sleep has a strong effect on academic performance."
+    },
+    {
+      "word": "literacy",
+      "meaning": "the ability to read and write",
+      "example": "Adult literacy rates have risen sharply."
+    },
+    {
+      "word": "numeracy",
+      "meaning": "the ability to use numbers",
+      "example": "Basic numeracy is essential in everyday life."
+    },
+    {
+      "word": "scholarship",
+      "meaning": "money given to a student to pay for their studies",
+      "example": "She won a scholarship to study medicine."
+    },
+    {
+      "word": "distance learning",
+      "meaning": "studying from home using online or posted materials",
+      "example": "Distance learning suits people with full-time jobs."
+    },
+    {
+      "word": "mixed-ability class",
+      "meaning": "a class with students of different levels",
+      "example": "Teaching a mixed-ability class requires careful planning."
+    },
+    {
+      "word": "drop out",
+      "meaning": "to leave a course before finishing it",
+      "example": "Some students drop out because of financial pressure."
+    },
+    {
+      "word": "graduate",
+      "meaning": "to complete a degree; a person who has done so",
+      "example": "Graduates often struggle to find their first job."
+    },
+    {
+      "word": "undergraduate",
+      "meaning": "a university student studying for a first degree",
+      "example": "Undergraduates usually study for three or four years."
+    },
+    {
+      "word": "discipline",
+      "meaning": "control of behaviour; also an academic subject",
+      "example": "Strict discipline was common in schools in the past."
+    },
+    {
+      "word": "lifelong learning",
+      "meaning": "continuing to learn throughout life",
+      "example": "Lifelong learning helps workers adapt to new technology."
+    },
+    {
+      "word": "coursework",
+      "meaning": "work done during a course that counts towards the final grade",
+      "example": "Coursework accounts for 40% of the final mark."
+    },
+    {
+      "word": "specialise in",
+      "meaning": "to focus on one particular subject",
+      "example": "She decided to specialise in environmental law."
+    },
+    {
+      "word": "peer pressure",
+      "meaning": "influence from people of the same age to behave in a certain way",
+      "example": "Peer pressure can affect students' choices."
+    },
+    {
+      "word": "acquire skills",
+      "meaning": "to gain abilities through learning or experience",
+      "example": "Volunteering is a good way to acquire practical skills."
+    }
+  ]
+}

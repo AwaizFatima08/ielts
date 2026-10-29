@@ -1,0 +1,146 @@
+{
+  "id": "v-environment",
+  "skill": "vocabulary",
+  "title": "Topic vocabulary: the environment",
+  "guide": [
+    {
+      "h": "Why learn environment vocabulary?"
+    },
+    {
+      "p": "The environment is one of the most frequent topics in Writing Task 2 and Speaking Part 3 — climate change, waste, transport, energy and wildlife. Precise vocabulary lets you go beyond 'pollution is bad' and discuss causes and solutions clearly."
+    },
+    {
+      "bullets": [
+        "Learn words in phrases, not alone: notice which verbs, adjectives and prepositions go with them.",
+        "Practise each word in a sentence about your own life or country — it will be easier to use in Speaking.",
+        "In Writing, choose the precise word over the impressive-sounding one. Accuracy beats complexity."
+      ]
+    },
+    {
+      "tip": "Avoid repeating 'pollution' and 'environment' — use the more specific terms below: emissions, waste, habitats, ecosystems."
+    }
+  ],
+  "drill": null,
+  "vocab": [
+    {
+      "word": "climate change",
+      "meaning": "long-term changes in the Earth's temperature and weather",
+      "example": "Climate change is making heatwaves more frequent."
+    },
+    {
+      "word": "greenhouse gases",
+      "meaning": "gases such as carbon dioxide that trap heat in the atmosphere",
+      "example": "Transport is a major source of greenhouse gases."
+    },
+    {
+      "word": "carbon emissions",
+      "meaning": "carbon dioxide released into the air, e.g. by burning fuel",
+      "example": "Airlines are under pressure to cut carbon emissions."
+    },
+    {
+      "word": "carbon footprint",
+      "meaning": "the total amount of carbon a person or activity produces",
+      "example": "Eating less meat can reduce your carbon footprint."
+    },
+    {
+      "word": "fossil fuels",
+      "meaning": "coal, oil and gas",
+      "example": "Many countries still depend heavily on fossil fuels."
+    },
+    {
+      "word": "renewable energy",
+      "meaning": "energy from sources that do not run out, such as wind and sun",
+      "example": "Renewable energy now supplies a third of the country's electricity."
+    },
+    {
+      "word": "biodiversity",
+      "meaning": "the variety of plant and animal life in an area",
+      "example": "Draining wetlands reduces biodiversity."
+    },
+    {
+      "word": "ecosystem",
+      "meaning": "all the living things in an area and how they interact",
+      "example": "Plastic waste is damaging marine ecosystems."
+    },
+    {
+      "word": "habitat",
+      "meaning": "the natural home of an animal or plant",
+      "example": "Road building has destroyed the habitat of many birds."
+    },
+    {
+      "word": "endangered species",
+      "meaning": "animals or plants at risk of disappearing completely",
+      "example": "The tiger is an endangered species."
+    },
+    {
+      "word": "deforestation",
+      "meaning": "cutting down forests on a large scale",
+      "example": "Deforestation is linked to soil erosion and flooding."
+    },
+    {
+      "word": "conservation",
+      "meaning": "protecting nature and wildlife",
+      "example": "Conservation projects have helped some whale populations recover."
+    },
+    {
+      "word": "sustainable",
+      "meaning": "able to continue without damaging the environment",
+      "example": "Sustainable farming protects the soil for future generations."
+    },
+    {
+      "word": "biodegradable",
+      "meaning": "able to break down naturally",
+      "example": "Shops are switching to biodegradable packaging."
+    },
+    {
+      "word": "single-use plastic",
+      "meaning": "plastic items designed to be used once and thrown away",
+      "example": "Several countries have banned single-use plastic bags."
+    },
+    {
+      "word": "landfill",
+      "meaning": "a site where waste is buried",
+      "example": "Most household waste still ends up in landfill."
+    },
+    {
+      "word": "contaminate",
+      "meaning": "to make something dirty or poisonous",
+      "example": "Chemicals from factories contaminated the river."
+    },
+    {
+      "word": "drought",
+      "meaning": "a long period with little or no rain",
+      "example": "The drought destroyed half of the region's crops."
+    },
+    {
+      "word": "extreme weather",
+      "meaning": "unusually severe storms, floods or heatwaves",
+      "example": "Extreme weather is becoming more common."
+    },
+    {
+      "word": "overfishing",
+      "meaning": "catching so many fish that populations cannot recover",
+      "example": "Overfishing has led to the collapse of some fish stocks."
+    },
+    {
+      "word": "raise awareness",
+      "meaning": "to make people know more about a problem",
+      "example": "Campaigns aim to raise awareness of food waste."
+    },
+    {
+      "word": "eco-friendly",
+      "meaning": "not harmful to the environment",
+      "example": "Electric buses are a more eco-friendly option."
+    },
+    {
+      "word": "reforestation",
+      "meaning": "planting trees in areas where forests were lost",
+      "example": "Reforestation can help to absorb carbon."
+    },
+    {
+      "word": "depletion",
+      "meaning": "reduction in the amount of a natural resource",
+      "example": "The depletion of groundwater threatens farming."
+    }
+  ]
+}

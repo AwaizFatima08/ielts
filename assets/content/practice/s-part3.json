@@ -1,0 +1,79 @@
+{
+  "id": "s-part3",
+  "skill": "speaking",
+  "title": "Speaking Part 3: discussion",
+  "guide": [
+    {
+      "h": "What happens"
+    },
+    {
+      "p": "Part 3 lasts 4–5 minutes. The examiner asks more abstract questions connected to the Part 2 topic — about society, trends, causes, the future. You are expected to give opinions, explain them and consider other points of view."
+    },
+    {
+      "h": "Extending an answer"
+    },
+    {
+      "bullets": [
+        "Give your view clearly in the first sentence.",
+        "Explain the reason behind it.",
+        "Support it with an example — from your country, your experience or something you have read.",
+        "Add depth: a contrast ('On the other hand…'), a condition ('It depends on…'), or a consequence ('This means that…')."
+      ]
+    },
+    {
+      "p": "A strong Part 3 answer is often 40–60 seconds long. The examiner may interrupt with a follow-up question — that is a sign the conversation is going well."
+    },
+    {
+      "h": "Useful language"
+    },
+    {
+      "bullets": [
+        "Giving opinions: I'd say that… / As I see it… / I'm convinced that… / I'm not entirely sure, but…",
+        "Generalising: On the whole… / Generally speaking… / In most cases…",
+        "Speculating about the future: It's likely that… / I imagine we'll see… / There's a good chance that…",
+        "Comparing past and present: Compared with my grandparents' generation… / These days… whereas in the past…",
+        "Balancing: That said… / Admittedly… / Having said that… / It's not as simple as…",
+        "Buying time: That's a difficult question. Let me think… / I've never really considered that, but…"
+      ]
+    },
+    {
+      "tip": "If you do not know much about a topic, talk about why it is hard to answer, or what it depends on. Reasoning still shows language ability."
+    }
+  ],
+  "drill": null,
+  "models": [
+    {
+      "title": "Learning as adults",
+      "prompt": "Why do some people stop learning new things as they get older?",
+      "answer": "I think there are a few reasons, but the main one is probably time. Once people have full-time jobs and families, their free time shrinks dramatically, and learning something new — whether it's a language or an instrument — needs regular practice. So it's often the first thing to be dropped.\n\nAnother factor, I'd say, is fear of looking foolish. Children are used to being beginners at everything, but adults are used to being competent, and it can be uncomfortable to suddenly be the worst person in the room. That said, I think this is changing. With so many online courses now, people can learn privately at their own pace, which removes some of that embarrassment.",
+      "band": 8,
+      "notes": [
+        "Opens with a clear answer and a main reason, then adds a second reason — well-organised development.",
+        "'That said…' adds balance and shows the answer is not one-sided.",
+        "Abstract vocabulary used accurately: shrinks dramatically, competent, at their own pace."
+      ]
+    },
+    {
+      "title": "Practical skills at school",
+      "prompt": "Should schools teach practical skills such as cooking or managing money?",
+      "answer": "Yes, I'm convinced they should, especially managing money. A lot of young people leave school knowing how to solve equations but with no idea how a loan or a credit card works, and that can lead to serious debt later on. Even a few lessons on budgeting would make a real difference.\n\nCooking is a bit different. I think it's valuable, but it's also something families can teach at home, so I'd see it as less urgent. The difficulty, of course, is that the school timetable is already very full, so adding new subjects means cutting something else. Perhaps the answer is to build these skills into existing subjects — for instance, using real household budgets in maths lessons.",
+      "band": 8,
+      "notes": [
+        "Distinguishes between the two examples in the question instead of treating them as one — shows critical thinking.",
+        "Acknowledges a practical difficulty and proposes a solution — sophisticated development.",
+        "Hedging and degrees of certainty: I'm convinced, I'd see it as, Perhaps the answer is…"
+      ]
+    },
+    {
+      "title": "Technology and learning",
+      "prompt": "How might technology change the way people learn in the future?",
+      "answer": "I imagine the biggest change will be personalisation. At the moment, a teacher with thirty students has to teach at roughly the same pace for everyone, but software can already adjust the difficulty of exercises to each learner. In the future, I think we'll see that becoming normal, with students spending part of the day working through material designed specifically for them.\n\nHaving said that, I don't think technology will replace teachers or classrooms. A lot of what we learn at school is social — how to work in a team, how to disagree politely — and that's very hard to learn from a screen. So my guess is that we'll end up with a mix: technology for practising and checking knowledge, and teachers for discussion, motivation and support.",
+      "band": 8,
+      "notes": [
+        "Speculation language: I imagine, I think we'll see, my guess is that we'll end up with…",
+        "Contrasts present and future clearly ('At the moment… In the future…').",
+        "A balanced conclusion that answers the question directly."
+      ]
+    }
+  ]
+}

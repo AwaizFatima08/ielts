@@ -1,0 +1,105 @@
+{
+  "id": "test-overview",
+  "skill": "test-overview",
+  "title": "The IELTS test at a glance",
+  "guide": [
+    {
+      "h": "Two versions of the test"
+    },
+    {
+      "p": "IELTS comes in two versions. Academic is for university study and some professional registration. General Training is for work, secondary education and most migration purposes. Both versions use exactly the same Listening and Speaking tests. Only Reading and Writing are different."
+    },
+    {
+      "bullets": [
+        "Academic Reading: three long passages from books, journals and magazines written for a non-specialist reader.",
+        "General Training Reading: shorter everyday and work texts first (notices, adverts, staff handbooks), then one longer general-interest passage.",
+        "Academic Writing Task 1: describe a chart, table, process diagram or map.",
+        "General Training Writing Task 1: write a letter (formal, semi-formal or informal).",
+        "Writing Task 2 is an essay in both versions, but General Training topics are usually more everyday."
+      ]
+    },
+    {
+      "h": "The four sections and their timing"
+    },
+    {
+      "bullets": [
+        "Listening — about 30 minutes, 4 parts, 40 questions. The recording is played once only. Parts become harder: Part 1 is an everyday conversation, Part 2 an everyday monologue, Part 3 an academic discussion and Part 4 a lecture.",
+        "Reading — 60 minutes, 3 sections, 40 questions. There is no extra time to transfer answers, so write answers directly on the answer sheet (or into the boxes on screen).",
+        "Writing — 60 minutes, 2 tasks. Task 1 needs at least 150 words (spend about 20 minutes). Task 2 needs at least 250 words (spend about 40 minutes) and counts for twice as much as Task 1.",
+        "Speaking — 11 to 14 minutes, a face-to-face conversation with an examiner in 3 parts: Part 1 short questions about yourself (4–5 minutes), Part 2 a talk of 1–2 minutes after 1 minute of preparation, Part 3 a deeper discussion (4–5 minutes)."
+      ]
+    },
+    {
+      "p": "Listening, Reading and Writing are taken in one sitting of about 2 hours 40 minutes with no breaks between them. Speaking may be on the same day or within about a week before or after."
+    },
+    {
+      "h": "Paper-based or computer-delivered"
+    },
+    {
+      "bullets": [
+        "The questions, timing and marking are the same in both formats.",
+        "Paper Listening: you get about 10 extra minutes at the end to copy your answers onto the answer sheet. Computer Listening: you type answers as you listen and get only about 2 minutes to check at the end.",
+        "On computer you can highlight text, make notes on screen and see a word count in Writing. On paper you must count words yourself.",
+        "Computer results usually arrive within a few days; paper results take about two weeks.",
+        "Speaking is always a live conversation with a human examiner, in either format."
+      ]
+    },
+    {
+      "h": "How band scores work"
+    },
+    {
+      "p": "Each section gets a band from 0 to 9, in whole or half bands (for example 6.0 or 6.5). Listening and Reading are marked out of 40 and the raw score is converted to a band. As a rough guide, about 30 correct answers out of 40 is usually around Band 7 in Listening and Academic Reading. General Training Reading needs a few more correct answers for the same band because the texts are easier."
+    },
+    {
+      "p": "Writing and Speaking are marked by trained examiners against four criteria each, which carry equal weight. Look at the Self-check criteria in this app to see what each criterion means."
+    },
+    {
+      "h": "How the overall band is calculated"
+    },
+    {
+      "p": "Your overall band is the average of the four section bands, rounded to the nearest half band. If the average ends in .25 it is rounded up to .5, and if it ends in .75 it is rounded up to the next whole band."
+    },
+    {
+      "example": "Listening 6.5 + Reading 6.5 + Writing 5.5 + Speaking 7.0 = 25.5. 25.5 ÷ 4 = 6.375, which rounds to an overall band of 6.5."
+    },
+    {
+      "example": "Listening 7.0 + Reading 6.5 + Writing 6.0 + Speaking 6.5 = 26.0. 26.0 ÷ 4 = 6.5, so the overall band is 6.5."
+    },
+    {
+      "example": "Listening 6.0 + Reading 6.0 + Writing 5.5 + Speaking 6.0 = 23.5. 23.5 ÷ 4 = 5.875, which rounds up to 6.0."
+    },
+    {
+      "tip": "Many universities and visa rules ask for a minimum band in every section as well as an overall band, for example 'overall 6.5 with no section below 6.0'. Check the exact requirement before you book."
+    },
+    {
+      "h": "Answer rules that cost marks"
+    },
+    {
+      "bullets": [
+        "Spelling counts in Listening and Reading. A misspelt answer is wrong.",
+        "Respect the word limit. If the instructions say NO MORE THAN TWO WORDS, a three-word answer is wrong even if it contains the right idea.",
+        "Plurals matter when the grammar of the sentence needs them.",
+        "On paper you may write answers in capital letters, which avoids unclear handwriting.",
+        "Never leave a blank: there is no penalty for a wrong answer."
+      ]
+    },
+    {
+      "h": "Test-day tips"
+    },
+    {
+      "bullets": [
+        "Bring the same passport or ID you used to register. Without it you cannot sit the test.",
+        "Arrive early: there is identity checking, photographs and sometimes fingerprinting before you start.",
+        "Only water in a clear bottle is usually allowed in the room. Phones and watches stay outside.",
+        "In Listening, use the reading time before each part to underline key words and predict the type of answer (a number, a name, a place).",
+        "In Reading, keep moving. About 20 minutes per passage is a good target, and the passages get harder.",
+        "In Writing, start with Task 2 if you tend to run out of time — it carries more marks.",
+        "In Speaking, it is fine to ask the examiner to repeat a question. Answer naturally and say more than a single sentence."
+      ]
+    },
+    {
+      "tip": "Do at least one full practice test under real timing before the exam, so the length of the day does not surprise you."
+    }
+  ],
+  "drill": null
+}

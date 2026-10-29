@@ -1,0 +1,105 @@
+{
+  "id": "s-part1",
+  "skill": "speaking",
+  "title": "Speaking Part 1: introduction and interview",
+  "guide": [
+    {
+      "h": "What happens"
+    },
+    {
+      "p": "Part 1 lasts 4–5 minutes. The examiner checks your identity and then asks questions on three familiar topics. The first topic is usually your work or studies, or your home or hometown. The other two can be anything everyday: food, weather, music, shopping, transport, free time."
+    },
+    {
+      "h": "How long should answers be?"
+    },
+    {
+      "p": "Aim for two to four sentences — roughly 15 to 25 seconds. One-word answers give the examiner nothing to assess, but long speeches are not needed either; the examiner has a set number of questions to ask."
+    },
+    {
+      "h": "A simple way to extend"
+    },
+    {
+      "bullets": [
+        "Answer the question directly.",
+        "Give a reason (because…, the main reason is…).",
+        "Add a detail or example (for instance…, last weekend…).",
+        "Optional: add a contrast or a change (but…, these days…, when I was younger…)."
+      ]
+    },
+    {
+      "example": "Q: Do you like rainy days?  A: Not really, to be honest. Rain makes my journey to work much slower, because the buses get crowded. Having said that, I don't mind a rainy Sunday when I can stay in and read."
+    },
+    {
+      "h": "Tips"
+    },
+    {
+      "bullets": [
+        "Speak about your real life. Invented answers often sound flat, and memorised answers are easy for examiners to spot.",
+        "Use a range of tenses naturally: present for habits, past for experiences, 'would' or 'going to' for the future.",
+        "Show that you can paraphrase: if asked 'Do you enjoy cooking?', you might answer 'I'm quite keen on making meals…'.",
+        "It is fine to say 'That's an interesting question — I've never really thought about it' to gain a second, but then answer."
+      ]
+    },
+    {
+      "tip": "Start with a natural reaction ('Yes, definitely', 'Not really', 'It depends') — it sounds fluent and gives you thinking time."
+    }
+  ],
+  "drill": null,
+  "models": [
+    {
+      "title": "Work or studies",
+      "prompt": "Do you work or are you a student?",
+      "answer": "I'm working at the moment. I'm a junior accountant at a small engineering company, and I've been there for about two years now. What I like about it is that, because the firm is quite small, I get to deal with lots of different tasks instead of doing the same thing every day.",
+      "band": 8,
+      "notes": [
+        "A direct answer, then detail (role, company, length of time) and a personal opinion.",
+        "Present perfect continuous / present perfect ('I've been there') used accurately.",
+        "'What I like about it is that…' is a natural cleft sentence that shows grammatical range."
+      ]
+    },
+    {
+      "title": "Hometown",
+      "prompt": "What do you like most about your hometown?",
+      "answer": "Probably the fact that it's right on the coast. Wherever you are in the town, you're only ten minutes from the sea, so in the evenings people tend to go for a walk along the seafront. It's also quite a friendly place — you can hardly go to the market without bumping into someone you know.",
+      "band": 8,
+      "notes": [
+        "Starts with a natural hedge ('Probably…') and gives a clear main reason.",
+        "Supporting details make the answer vivid (seafront walks, the market).",
+        "Idiomatic phrases used naturally: 'tend to', 'bumping into someone'."
+      ]
+    },
+    {
+      "title": "Free time",
+      "prompt": "How do you usually spend your weekends?",
+      "answer": "It depends on the weekend, really. If the weather's good, I usually go hiking with a couple of friends — there are some lovely hills about an hour from where I live. But if I've had a busy week, I'm quite happy just to stay at home, cook something nice and catch up on a series.",
+      "band": 8,
+      "notes": [
+        "'It depends' followed by two clear alternatives with conditionals.",
+        "Phrasal verbs fit the informal topic: catch up on, go hiking.",
+        "Answer length is ideal for Part 1: about 20 seconds."
+      ]
+    },
+    {
+      "title": "Weather",
+      "prompt": "What kind of weather do you like best?",
+      "answer": "I'm a big fan of crisp, sunny winter days, when it's cold but the sky is completely clear. I find that kind of weather really energising, whereas hot, humid summers make me feel tired and a bit irritable. Unfortunately, where I live we get far more of the second kind.",
+      "band": 8,
+      "notes": [
+        "Precise vocabulary: crisp, humid, energising, irritable.",
+        "Comparison with 'whereas' extends the answer naturally.",
+        "A light personal comment at the end sounds conversational."
+      ]
+    },
+    {
+      "title": "Cooking",
+      "prompt": "Do you enjoy cooking?",
+      "answer": "Yes, more than I used to. When I was a student I lived on pasta and ready meals, but since I moved into my own flat I've started experimenting a bit. At the moment I'm trying to learn how to make my grandmother's lentil soup, although mine never tastes quite as good as hers.",
+      "band": 8,
+      "notes": [
+        "Contrast between past and present ('more than I used to', 'When I was a student… since I moved…').",
+        "A specific example makes the answer personal and believable.",
+        "Comparative structure: 'never tastes quite as good as hers'."
+      ]
+    }
+  ]
+}

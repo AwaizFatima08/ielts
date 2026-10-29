@@ -1,0 +1,169 @@
+{
+  "id": "v-paraphrasing",
+  "skill": "vocabulary",
+  "title": "Paraphrasing techniques",
+  "guide": [
+    {
+      "h": "Why paraphrasing is everywhere in IELTS"
+    },
+    {
+      "bullets": [
+        "Listening and Reading: questions almost never use the same words as the recording or passage. Recognising a paraphrase is how you find the answer.",
+        "Writing: your introduction must paraphrase the question; copied wording is not counted towards your word total.",
+        "Speaking: paraphrasing the examiner's question at the start of your answer sounds natural and shows vocabulary range."
+      ]
+    },
+    {
+      "h": "Five techniques"
+    },
+    {
+      "bullets": [
+        "1. Synonyms: 'The number of tourists increased' → 'Visitor numbers rose'.",
+        "2. Change the word form: 'Pollution is increasing' → 'There is an increase in pollution'.",
+        "3. Active ↔ passive: 'The government built a new bridge' → 'A new bridge was built by the government'.",
+        "4. Change the sentence structure: 'Because prices rose, sales fell' → 'Rising prices led to a fall in sales'.",
+        "5. General ↔ specific: 'cars, buses and trains' → 'means of transport'."
+      ]
+    },
+    {
+      "example": "Question: 'Some people think that children should be taught to cook at school.' Paraphrase: 'It is sometimes argued that cooking should form part of the school curriculum.'"
+    },
+    {
+      "h": "Rules for safe paraphrasing"
+    },
+    {
+      "bullets": [
+        "Keep the exact meaning. 'Some people' is not the same as 'most people'.",
+        "Not every word needs a synonym. Technical words (e.g. 'carbon dioxide') can stay.",
+        "Check that the synonym fits the context: 'big' can be 'substantial' (amount) but not 'tall' (number).",
+        "Combine two or three techniques for a natural result rather than replacing every word."
+      ]
+    },
+    {
+      "tip": "In Reading, when you cannot find a question's key word, think of its paraphrases before scanning again."
+    }
+  ],
+  "drill": null,
+  "vocab": [
+    {
+      "word": "show → illustrate / depict / reveal",
+      "meaning": "common paraphrases for describing what a chart or study does",
+      "example": "The graph illustrates changes in water use."
+    },
+    {
+      "word": "important → significant / crucial / essential",
+      "meaning": "having great value or effect",
+      "example": "Sleep is crucial for learning."
+    },
+    {
+      "word": "people → individuals / citizens / the public",
+      "meaning": "persons in general",
+      "example": "Individuals can reduce waste at home."
+    },
+    {
+      "word": "children → young people / minors / the younger generation",
+      "meaning": "people who are not adults",
+      "example": "Minors cannot buy these products."
+    },
+    {
+      "word": "old people → the elderly / older people / senior citizens",
+      "meaning": "people in later life",
+      "example": "Senior citizens travel free on buses."
+    },
+    {
+      "word": "government → the authorities / the state",
+      "meaning": "the people who control a country",
+      "example": "The authorities have closed the road."
+    },
+    {
+      "word": "increase → rise / growth / go up",
+      "meaning": "a change to a higher level",
+      "example": "There has been rapid growth in online sales."
+    },
+    {
+      "word": "decrease → fall / decline / drop",
+      "meaning": "a change to a lower level",
+      "example": "Car sales saw a sharp decline."
+    },
+    {
+      "word": "problem → issue / challenge / difficulty",
+      "meaning": "something that causes trouble",
+      "example": "Housing is a major challenge for young adults."
+    },
+    {
+      "word": "advantage → benefit / merit / upside",
+      "meaning": "a good feature",
+      "example": "One merit of this plan is its low cost."
+    },
+    {
+      "word": "disadvantage → drawback / downside",
+      "meaning": "a bad feature",
+      "example": "The main drawback is the noise."
+    },
+    {
+      "word": "help → assist / support / aid",
+      "meaning": "to make something easier for someone",
+      "example": "Volunteers assist elderly residents."
+    },
+    {
+      "word": "think → believe / consider / argue",
+      "meaning": "to have an opinion",
+      "example": "Many experts argue that fees should be lower."
+    },
+    {
+      "word": "big → substantial / considerable / large-scale",
+      "meaning": "large in size or amount",
+      "example": "The project required substantial investment."
+    },
+    {
+      "word": "many → numerous / a large number of",
+      "meaning": "a lot of (countable)",
+      "example": "Numerous studies support this view."
+    },
+    {
+      "word": "because of → due to / owing to / as a result of",
+      "meaning": "caused by",
+      "example": "The match was cancelled owing to rain."
+    },
+    {
+      "word": "use → make use of / utilise / rely on",
+      "meaning": "to employ something for a purpose",
+      "example": "Farmers make use of satellite data."
+    },
+    {
+      "word": "need → require / call for",
+      "meaning": "to have to have something",
+      "example": "The situation calls for urgent action."
+    },
+    {
+      "word": "get → obtain / acquire / gain",
+      "meaning": "to come to have something",
+      "example": "Students acquire skills through practice."
+    },
+    {
+      "word": "enough → sufficient / adequate",
+      "meaning": "as much as is needed",
+      "example": "Many schools lack adequate funding."
+    },
+    {
+      "word": "harmful → damaging / detrimental",
+      "meaning": "causing harm",
+      "example": "Smoking is detrimental to health."
+    },
+    {
+      "word": "nowadays → currently / these days / in the modern world",
+      "meaning": "at the present time",
+      "example": "These days, most people shop online."
+    },
+    {
+      "word": "find out → discover / establish / determine",
+      "meaning": "to learn a fact",
+      "example": "Researchers determined the cause of the disease."
+    },
+    {
+      "word": "job → occupation / profession / career",
+      "meaning": "work someone does to earn money",
+      "example": "Nursing is a demanding profession."
+    }
+  ]
+}

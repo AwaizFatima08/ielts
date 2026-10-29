@@ -1,0 +1,167 @@
+{
+  "id": "s-topics",
+  "skill": "speaking",
+  "title": "Common topics and question banks",
+  "guide": [
+    {
+      "h": "How to use this bank"
+    },
+    {
+      "p": "Choose a topic, set a timer and answer aloud. For Part 1 aim for 15–25 seconds per answer, for Part 2 one minute of notes and two minutes of talk, and for Part 3 around 40–60 seconds per answer. Record yourself and compare with the self-check criteria."
+    },
+    {
+      "h": "Part 1 — Home and accommodation"
+    },
+    {
+      "bullets": [
+        "Do you live in a house or a flat?",
+        "Which room do you spend the most time in?",
+        "What would you change about your home?",
+        "Would you like to live somewhere else in the future?"
+      ]
+    },
+    {
+      "h": "Part 1 — Work and studies"
+    },
+    {
+      "bullets": [
+        "What do you study / what is your job?",
+        "Why did you choose it?",
+        "What is the most enjoyable part of your day?",
+        "What would you like to do after you finish your studies?"
+      ]
+    },
+    {
+      "h": "Part 1 — Free time and hobbies"
+    },
+    {
+      "bullets": [
+        "What do you enjoy doing in your free time?",
+        "Did you have the same hobbies as a child?",
+        "Do you prefer spending free time alone or with others?",
+        "Is there a hobby you would like to try?"
+      ]
+    },
+    {
+      "h": "Part 1 — Technology"
+    },
+    {
+      "bullets": [
+        "How often do you use your phone each day?",
+        "What apps do you use the most?",
+        "Is there any technology you could not live without?",
+        "Do you think you spend too much time online?"
+      ]
+    },
+    {
+      "h": "Part 1 — Travel and transport"
+    },
+    {
+      "bullets": [
+        "How do you usually travel around your city?",
+        "Do you prefer travelling by train or by car?",
+        "Where did you go on your last holiday?",
+        "Is public transport good where you live?"
+      ]
+    },
+    {
+      "h": "Part 1 — Food, shopping, music and sport"
+    },
+    {
+      "bullets": [
+        "What is a typical meal in your country?",
+        "Do you prefer shopping online or in shops?",
+        "What kind of music do you listen to when you want to relax?",
+        "Did you play any sports at school?",
+        "Do you enjoy watching sport on television?"
+      ]
+    },
+    {
+      "h": "Part 2 — Practice task cards"
+    },
+    {
+      "bullets": [
+        "Describe a teacher who influenced you. (who, what subject, what they were like, and explain why they influenced you)",
+        "Describe a journey you remember well. (where, who with, what happened, and explain why it was memorable)",
+        "Describe something you bought that you were pleased with. (what, where, how much, and explain why you liked it)",
+        "Describe a time you helped someone. (who, what you did, how they felt, and explain why you helped)",
+        "Describe an app or website you find useful. (what it is, how you found it, how you use it, and explain why it is useful)",
+        "Describe a festival or celebration in your country. (when, what people do, what you do, and explain why it is important)",
+        "Describe a goal you hope to achieve in the future. (what, when, how you will achieve it, and explain why it matters to you)",
+        "Describe a piece of advice you received. (who gave it, when, what it was, and explain how it helped you)",
+        "Describe a building you find interesting. (where, what it looks like, what it is used for, and explain why you find it interesting)",
+        "Describe a time you were very busy. (when, what you had to do, how you managed, and explain how you felt)"
+      ]
+    },
+    {
+      "h": "Part 3 — Education"
+    },
+    {
+      "bullets": [
+        "What makes a good teacher?",
+        "Is it better to study at university or to start work after school?",
+        "How has education in your country changed in recent years?",
+        "Should education be free at every level?"
+      ]
+    },
+    {
+      "h": "Part 3 — Environment"
+    },
+    {
+      "bullets": [
+        "Who is more responsible for protecting the environment: governments or individuals?",
+        "Why do some people not recycle?",
+        "How could cities be made greener?",
+        "Will people travel by plane less in the future?"
+      ]
+    },
+    {
+      "h": "Part 3 — Technology and society"
+    },
+    {
+      "bullets": [
+        "Has technology made people more or less sociable?",
+        "Should children have smartphones?",
+        "What jobs might disappear because of technology?",
+        "Do older people find it hard to keep up with technology? Why?"
+      ]
+    },
+    {
+      "h": "Part 3 — Work"
+    },
+    {
+      "bullets": [
+        "What is more important in a job: salary or satisfaction?",
+        "Why do some people change careers?",
+        "Is working from home good for society?",
+        "How will workplaces be different in twenty years?"
+      ]
+    },
+    {
+      "h": "Part 3 — Cities and community"
+    },
+    {
+      "bullets": [
+        "What are the advantages of living in a big city?",
+        "Why do young people move away from villages?",
+        "How can neighbours build a stronger community?",
+        "What should governments do to make housing more affordable?"
+      ]
+    },
+    {
+      "h": "Part 3 — Culture and tradition"
+    },
+    {
+      "bullets": [
+        "Why is it important to keep traditional festivals?",
+        "How has globalisation affected local culture?",
+        "Should museums be free to visit?",
+        "Do young people value tradition less than older people do?"
+      ]
+    },
+    {
+      "tip": "Part 3 questions follow the Part 2 topic, so practise them as a set: one Part 2 card, then four related Part 3 questions."
+    }
+  ],
+  "drill": null
+}

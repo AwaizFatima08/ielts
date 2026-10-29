@@ -1,0 +1,410 @@
+{
+  "@@locale": "en",
+  "appTitle": "IELTS Simulator",
+  "academicShort": "Academic",
+  "generalShort": "General",
+  "answerTimeLeft": "Answer time left {time}",
+  "@answerTimeLeft": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "attemptKind": "{kind, select, full{Full test} listening{Listening} reading{Reading} writing{Writing} speaking{Speaking} other{Test}}",
+  "@attemptKind": {
+    "placeholders": {
+      "kind": {
+        "type": "String"
+      }
+    }
+  },
+  "audioPending": "Recording not available yet — a silent gap of the same length is used. Read the transcript afterwards in the review.",
+  "bestBand": "Best overall band {band}",
+  "@bestBand": {
+    "placeholders": {
+      "band": {
+        "type": "String"
+      }
+    }
+  },
+  "changeModule": "Switch Academic / General Training",
+  "checkAnswers": "Check answers",
+  "comingSoon": "Coming soon",
+  "criteria": "Criteria",
+  "cueCardNotes": "Your notes (1 minute)",
+  "cueCardYouShouldSay": "You should say:",
+  "disclaimer": "Independent practice app by HomiLabs. Not affiliated with or endorsed by IELTS, the British Council, IDP or Cambridge University Press & Assessment. All questions are original.",
+  "drill": "Drill",
+  "drillAudioHint": "Listen once, then answer. Use the transcript only after checking.",
+  "drillScore": "Score: {score} / {total}",
+  "@drillScore": {
+    "placeholders": {
+      "score": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "essayHint": "Type your answer here…",
+  "essayWords": "Task 1: {task1} words · Task 2: {task2} words",
+  "@essayWords": {
+    "placeholders": {
+      "task1": {
+        "type": "int"
+      },
+      "task2": {
+        "type": "int"
+      }
+    }
+  },
+  "estimateNote": "Bands are estimates. Listening and Reading use typical conversion tables; Writing and Speaking come from your own self-check against the criteria.",
+  "fullTest": "Full test",
+  "fullTestSubtitle": "Listening (≈30 min) → Reading (60 min) → Writing (60 min) → Speaking (11–14 min). No breaks, as on test day.",
+  "guide": "Guide",
+  "hideTranscript": "Hide transcript",
+  "home": "Home",
+  "instructionsToCandidates": "INSTRUCTIONS TO CANDIDATES",
+  "keepWorking": "Keep working",
+  "leave": "Leave",
+  "leaveBody": "Your answers in this section will be lost.",
+  "leaveTitle": "Leave the test?",
+  "listening": "Listening",
+  "listeningCheckTime": "You now have 2 minutes to check your answers.",
+  "listeningIntro1": "There are four parts and 40 questions. Each part is heard ONCE only.",
+  "listeningIntro2": "Use the time before each part to read the questions. Type answers as you listen.",
+  "listeningIntro3": "The recording cannot be paused. Wear headphones and find a quiet place.",
+  "listeningIntro4": "At the end you have 2 minutes to check your answers. Answers are case-insensitive but spelling counts.",
+  "listeningPart": "Listening — Part {part}",
+  "@listeningPart": {
+    "placeholders": {
+      "part": {
+        "type": "int"
+      }
+    }
+  },
+  "listeningPause": "Reading time: {note}",
+  "@listeningPause": {
+    "placeholders": {
+      "note": {
+        "type": "String"
+      }
+    }
+  },
+  "listeningPlaying": "Recording playing — Part {part}",
+  "@listeningPlaying": {
+    "placeholders": {
+      "part": {
+        "type": "int"
+      }
+    }
+  },
+  "listeningSubtitle": "4 parts · 40 questions · about 30 minutes",
+  "loadError": "Something went wrong loading this content ({code}).",
+  "@loadError": {
+    "placeholders": {
+      "code": {
+        "type": "String"
+      }
+    }
+  },
+  "micDenied": "Microphone access was refused, so your answers will not be recorded. Allow it in system settings to record.",
+  "modelAnswer": "Model answer (Band {band})",
+  "@modelAnswer": {
+    "placeholders": {
+      "band": {
+        "type": "int"
+      }
+    }
+  },
+  "modelAnswers": "Model answers",
+  "modelBand": "Band {band} model",
+  "@modelBand": {
+    "placeholders": {
+      "band": {
+        "type": "int"
+      }
+    }
+  },
+  "moduleAcademic": "Academic",
+  "moduleAcademicHint": "For university study and professional registration.",
+  "moduleGeneral": "General Training",
+  "moduleGeneralHint": "For work, training and migration.",
+  "navigatorQuestion": "Question {number}{answered, plural, =0{, not answered} other{, answered}}{flagged, plural, =0{} other{, flagged}}. Long-press to flag.",
+  "@navigatorQuestion": {
+    "placeholders": {
+      "number": {
+        "type": "int"
+      },
+      "answered": {
+        "type": "int"
+      },
+      "flagged": {
+        "type": "int"
+      }
+    }
+  },
+  "next": "Next",
+  "noAttempts": "No attempts yet. Start a test or a single section from the Tests tab.",
+  "noRecordings": "No recordings were saved for this attempt.",
+  "notAttempted": "Not attempted yet",
+  "noText": "(no text)",
+  "notTaken": "Not taken",
+  "overallBand": "Overall band",
+  "overallPending": "Rate your Writing and Speaking below to see your overall band.",
+  "partShort": "Part {part}",
+  "@partShort": {
+    "placeholders": {
+      "part": {
+        "type": "int"
+      }
+    }
+  },
+  "passageShort": "Passage {number}",
+  "@passageShort": {
+    "placeholders": {
+      "number": {
+        "type": "int"
+      }
+    }
+  },
+  "passageTab": "Passage",
+  "pickModuleBody": "Which IELTS test are you preparing for? You can switch at any time.",
+  "play": "Play",
+  "prepTimeLeft": "Preparation time left {time}",
+  "@prepTimeLeft": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "questionNumber": "Question {number}",
+  "@questionNumber": {
+    "placeholders": {
+      "number": {
+        "type": "int"
+      }
+    }
+  },
+  "questionsRange": "Questions {from}–{to}",
+  "@questionsRange": {
+    "placeholders": {
+      "from": {
+        "type": "int"
+      },
+      "to": {
+        "type": "int"
+      }
+    }
+  },
+  "questionsTab": "Questions",
+  "rateAllCriteria": "Rate every criterion to save",
+  "rateSpeaking": "Rate my speaking",
+  "rateWriting": "Rate my writing",
+  "rawScore": "{score} / 40 correct",
+  "@rawScore": {
+    "placeholders": {
+      "score": {
+        "type": "int"
+      }
+    }
+  },
+  "reading": "Reading",
+  "readingAcademic": "Academic Reading",
+  "readingGeneral": "General Training Reading",
+  "readingIntro1": "There are 40 questions. You have 60 minutes, with no extra time to transfer answers.",
+  "readingIntro2": "Switch between texts with the bar at the bottom. Long-press a question number to flag it.",
+  "readingIntro3": "Answers are case-insensitive but spelling counts. Keep to the word limit.",
+  "readingPassageTitle": "Reading — Text {number}",
+  "@readingPassageTitle": {
+    "placeholders": {
+      "number": {
+        "type": "int"
+      }
+    }
+  },
+  "readingSubtitle": "3 sections · 40 questions · 60 minutes",
+  "recordingsCount": "{count, plural, =1{1 recording} other{{count} recordings}}",
+  "@recordingsCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "resultsTitle": "Test report",
+  "reviewAnswers": "Review",
+  "reviewBlank": "no answer",
+  "reviewCorrect": "Correct",
+  "reviewIncorrect": "Your answer: {given} · Correct: {accepted}",
+  "@reviewIncorrect": {
+    "placeholders": {
+      "given": {
+        "type": "String"
+      },
+      "accepted": {
+        "type": "String"
+      }
+    }
+  },
+  "reviewListening": "Listening — answers",
+  "reviewRating": "Edit rating",
+  "reviewReading": "Reading — answers",
+  "saveError": "Could not save. Please try again.",
+  "saveRating": "Save rating",
+  "sectionText": "S{part} · T{number}",
+  "@sectionText": {
+    "placeholders": {
+      "part": {
+        "type": "int"
+      },
+      "number": {
+        "type": "int"
+      }
+    }
+  },
+  "selfCheckHelp": "Compare your answer with the model answer, then choose the band whose description fits best for each criterion. Be honest — examiners are strict.",
+  "showPassage": "Show passage",
+  "singleSection": "Or practise one section, timed",
+  "skillOverview": "About the test",
+  "skillVocabulary": "Vocabulary",
+  "speaking": "Speaking",
+  "speakingIntro1": "The test has three parts, like a face-to-face interview. Each answer is recorded.",
+  "speakingIntro2": "Part 1: short questions about familiar topics. Tap Next when you finish an answer.",
+  "speakingIntro3": "Part 2: one minute to make notes, then speak for up to two minutes.",
+  "speakingIntro4": "Part 3: a discussion of wider ideas. Speak naturally; do not memorise answers.",
+  "speakingPart": "Speaking — Part {part}",
+  "@speakingPart": {
+    "placeholders": {
+      "part": {
+        "type": "int"
+      }
+    }
+  },
+  "speakingSubtitle": "3 parts · 11–14 minutes · recorded",
+  "speakingTopic": "Let's talk about {topic}.",
+  "@speakingTopic": {
+    "placeholders": {
+      "topic": {
+        "type": "String"
+      }
+    }
+  },
+  "start": "Start",
+  "startSpeaking": "Start speaking",
+  "stay": "Stay",
+  "stop": "Stop",
+  "submit": "Submit",
+  "submitBody": "{count, plural, =0{Submit this section? You cannot come back to it.} =1{1 question is unanswered. Submit anyway?} other{{count} questions are unanswered. Submit anyway?}}",
+  "@submitBody": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "submitTitle": "Finish section?",
+  "tabPractice": "Practice",
+  "tabProgress": "Progress",
+  "tabTests": "Tests",
+  "taskWordCount": "Task {task} · {words} words",
+  "@taskWordCount": {
+    "placeholders": {
+      "task": {
+        "type": "int"
+      },
+      "words": {
+        "type": "int"
+      }
+    }
+  },
+  "testsIntro": "Each test runs exactly like the real exam: timed sections, audio heard once, and a band score at the end.",
+  "testTitle": "Test {number}",
+  "@testTitle": {
+    "placeholders": {
+      "number": {
+        "type": "int"
+      }
+    }
+  },
+  "timeLeft": "{minutes} minutes left",
+  "@timeLeft": {
+    "placeholders": {
+      "minutes": {
+        "type": "int"
+      }
+    }
+  },
+  "transcript": "Transcript",
+  "tryAgain": "Try again",
+  "underLength": "Under {words} words — this lowers your Task Achievement / Response band.",
+  "@underLength": {
+    "placeholders": {
+      "words": {
+        "type": "int"
+      }
+    }
+  },
+  "unfinished": "Unfinished — tap to continue",
+  "unitCount": "{count} units",
+  "@unitCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "usefulLanguage": "Useful language",
+  "wordCount": "{count} words",
+  "@wordCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "wordLimit": "Write {limit} for each answer.",
+  "@wordLimit": {
+    "placeholders": {
+      "limit": {
+        "type": "String"
+      }
+    }
+  },
+  "writing": "Writing",
+  "writingAcademic": "Academic Writing",
+  "writingGeneral": "General Training Writing",
+  "writingIntro1": "There are two tasks. Task 2 counts twice as much as Task 1.",
+  "writingIntro2": "Spend about 20 minutes on Task 1 and 40 minutes on Task 2. The timer covers both.",
+  "writingIntro3": "Spell-check and autocorrect are off, as in the computer-delivered test.",
+  "writingMinWords": "Write at least {words} words.",
+  "@writingMinWords": {
+    "placeholders": {
+      "words": {
+        "type": "int"
+      }
+    }
+  },
+  "writingSubtitle": "2 tasks · 60 minutes",
+  "writingTask": "Task {task}",
+  "@writingTask": {
+    "placeholders": {
+      "task": {
+        "type": "int"
+      }
+    }
+  },
+  "writingTimeAdvice": "You should spend about {minutes} minutes on this task.",
+  "@writingTimeAdvice": {
+    "placeholders": {
+      "minutes": {
+        "type": "int"
+      }
+    }
+  },
+  "yourAnswer": "Your answer",
+  "yourRecordings": "Your recordings"
+}

@@ -1,0 +1,101 @@
+{
+  "id": "w-gt-letters",
+  "skill": "writing",
+  "title": "General Training Task 1: letters",
+  "guide": [
+    {
+      "h": "The task"
+    },
+    {
+      "p": "In General Training Writing Task 1 you write a letter of at least 150 words in about 20 minutes. The prompt describes a situation and gives three bullet points. You must cover all three bullet points fully — a missing or very short bullet point lowers your Task Achievement score."
+    },
+    {
+      "h": "Choosing the tone"
+    },
+    {
+      "bullets": [
+        "Formal — to a person or company you do not know (a manager of a hotel, a council, a company). Begin 'Dear Sir or Madam,' and end 'Yours faithfully,'. No contractions, polite and direct.",
+        "Semi-formal — to someone you know but have a formal relationship with (your manager, your landlord, a teacher, a neighbour you rarely speak to). Begin 'Dear Mr Hughes,' / 'Dear Ms Patel,' and end 'Yours sincerely,' or 'Kind regards,'. Polite and respectful, some contractions acceptable.",
+        "Informal — to a friend or relative. Begin 'Dear Sam,' / 'Hi Sam,' and end 'Best wishes,' / 'Love,' / 'See you soon,'. Natural, friendly, contractions and phrasal verbs welcome."
+      ]
+    },
+    {
+      "tip": "The prompt tells you how to begin ('Begin your letter as follows: Dear …,'). That opening tells you the tone."
+    },
+    {
+      "h": "Structure"
+    },
+    {
+      "bullets": [
+        "Opening: say why you are writing (formal) or open warmly (informal).",
+        "One paragraph per bullet point, with real detail — names, dates, numbers, reasons.",
+        "Closing line: what you expect to happen next, or a friendly goodbye.",
+        "Sign-off and your name (a first name for informal, full name for formal)."
+      ]
+    },
+    {
+      "h": "Useful phrases"
+    },
+    {
+      "bullets": [
+        "Formal opening: I am writing to complain about / to enquire about / to request…",
+        "Formal request: I would be grateful if you could… / I would appreciate it if…",
+        "Formal close: I look forward to hearing from you at your earliest convenience.",
+        "Semi-formal: I hope you are well. / I wanted to ask whether… / Please let me know if…",
+        "Informal opening: It was great to hear from you! / Sorry I haven't written for ages.",
+        "Informal suggestion: Why don't we…? / How about…? / You really must…",
+        "Informal close: Can't wait to see you. / Write back soon. / Give my love to…"
+      ]
+    },
+    {
+      "h": "Common mistakes"
+    },
+    {
+      "bullets": [
+        "Mixing tones (starting 'Dear Sir' and ending 'Love').",
+        "Ignoring a bullet point or covering it in a single short sentence.",
+        "Inventing a purpose that is different from the prompt.",
+        "Writing addresses — they are not needed and waste time."
+      ]
+    }
+  ],
+  "drill": null,
+  "models": [
+    {
+      "title": "Formal: complaint about a delivery",
+      "prompt": "You recently ordered a washing machine from an online shop, but there was a problem with the delivery.\n\nWrite a letter to the company. In your letter\n• describe what you ordered and when\n• explain what went wrong with the delivery\n• say what you would like the company to do\n\nWrite at least 150 words. You do NOT need to write any addresses. Begin your letter as follows: Dear Sir or Madam,",
+      "answer": "Dear Sir or Madam,\n\nI am writing to complain about the delivery of a washing machine that I ordered from your website on 3 March (order number HT-45821). I chose the Aqualine 800 model in white and paid an additional £15 for next-day delivery.\n\nUnfortunately, the delivery did not go as promised. Although I took a day off work to wait for it, the machine did not arrive until two days later. When it finally came, the driver left it outside my building instead of bringing it into my flat, as your website states, and the box had clearly been dropped. On opening it, I found a large dent in the side of the machine, and the door does not close properly.\n\nI would therefore be grateful if you could arrange for the damaged machine to be collected and replaced with a new one as soon as possible. In addition, I would like a refund of the £15 next-day delivery charge, since this service was not provided.\n\nI look forward to hearing from you at your earliest convenience.\n\nYours faithfully,\n\nDaniel Mensah",
+      "band": 8,
+      "notes": [
+        "Tone is formal throughout: no contractions, 'I would be grateful if you could…', 'Yours faithfully'.",
+        "Each bullet point has its own paragraph with specific detail (date, order number, model, price).",
+        "Linking is smooth and varied: Unfortunately, Although, When it finally came, therefore, In addition.",
+        "The request is clear and reasonable, which is what the third bullet point asks for."
+      ]
+    },
+    {
+      "title": "Semi-formal: asking a manager about a course",
+      "prompt": "You would like to attend a training course that is relevant to your job.\n\nWrite a letter to your manager. In your letter\n• describe the course\n• explain how it would help you in your work\n• suggest how your work could be covered while you are away\n\nWrite at least 150 words. You do NOT need to write any addresses. Begin your letter as follows: Dear Mr Hughes,",
+      "answer": "Dear Mr Hughes,\n\nI hope you are well. I am writing to ask whether I could attend a short training course in project management that I recently came across.\n\nThe course is run by the city's Business Training Centre and takes place over three days, from 14 to 16 May. It covers planning schedules, managing budgets and leading small teams, and participants who complete it receive a recognised certificate. The fee is £380, which I believe could come from our department's training budget.\n\nAs you know, I have been coordinating more of our client projects this year, and I sometimes find it difficult to keep several deadlines on track at once. The course would give me practical tools for planning work more effectively, which would benefit both our clients and the rest of the team.\n\nWhile I am away, Priya has kindly agreed to handle my client emails, and I will make sure that all urgent tasks are finished before I go. I would also be available by phone in the evenings if anything important came up.\n\nPlease let me know if you would like to discuss this further.\n\nYours sincerely,\n\nAmira Hassan",
+      "band": 8,
+      "notes": [
+        "Semi-formal tone: polite and respectful, but warmer than a letter to a stranger ('I hope you are well', 'As you know').",
+        "The course is described with concrete details: organiser, dates, content, fee.",
+        "The second bullet point links the course to a real problem at work — a convincing reason.",
+        "The third bullet offers a practical plan, showing the writer has thought ahead."
+      ]
+    },
+    {
+      "title": "Informal: advice for a friend's visit",
+      "prompt": "A friend is planning to visit your city for a weekend.\n\nWrite a letter to your friend. In your letter\n• suggest some places to visit\n• recommend where to stay\n• offer to meet and suggest an activity\n\nWrite at least 150 words. You do NOT need to write any addresses. Begin your letter as follows: Dear Sam,",
+      "answer": "Dear Sam,\n\nIt was brilliant to hear you're finally coming to visit! You're going to love it here, and a weekend is just about enough time to see the best bits.\n\nFirst of all, you really must go to the old harbour. It's full of little fish restaurants, and if you get there early on Saturday you can catch the market, which sells everything from fresh bread to handmade jewellery. I'd also recommend the hill park behind the cathedral. It's a steep climb, but the view over the whole city at sunset is unforgettable.\n\nAs for where to stay, I'd avoid the big hotels near the station — they're noisy and overpriced. There's a lovely guesthouse called The Blue Door in the old town, which is clean, friendly and only a few minutes' walk from the harbour.\n\nI'm free on Sunday, so why don't we meet up? We could hire bikes and ride along the coast path to the lighthouse, then have lunch at my favourite café. Let me know what you think!\n\nCan't wait to see you.\n\nLove,\n\nLeila",
+      "band": 8,
+      "notes": [
+        "Informal features: contractions, exclamations, phrasal verbs (meet up), friendly openers (It was brilliant to hear…).",
+        "Each bullet point is developed with reasons and vivid detail, not just a list of places.",
+        "Natural suggestion language: you really must, I'd also recommend, why don't we…?",
+        "Informal does not mean careless — grammar and paragraphing are still accurate."
+      ]
+    }
+  ]
+}

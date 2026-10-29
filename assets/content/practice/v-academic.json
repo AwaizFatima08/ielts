@@ -1,0 +1,166 @@
+{
+  "id": "v-academic",
+  "skill": "vocabulary",
+  "title": "Academic word list highlights",
+  "guide": [
+    {
+      "h": "What academic vocabulary is"
+    },
+    {
+      "p": "Some words are not tied to one subject but appear again and again in academic texts of every kind — in science, economics, history and education. Knowing them well helps you read Academic passages faster and write Task 2 essays with a more formal, precise style."
+    },
+    {
+      "bullets": [
+        "Learn the word family: analyse (verb), analysis (noun), analytical (adjective).",
+        "Notice the prepositions: 'consist of', 'derive from', 'involve + -ing'.",
+        "Use them accurately in your own writing — a misused academic word costs more than a simple word used well."
+      ]
+    },
+    {
+      "tip": "When you meet one of these words in a Reading passage, underline it and note the word it collocates with (e.g. 'conduct research', 'significant increase')."
+    }
+  ],
+  "drill": null,
+  "vocab": [
+    {
+      "word": "analyse",
+      "meaning": "to examine something in detail to understand it",
+      "example": "Researchers analysed data from over 2,000 households."
+    },
+    {
+      "word": "approach",
+      "meaning": "a way of dealing with something",
+      "example": "A more practical approach would be to tax fuel rather than ban cars."
+    },
+    {
+      "word": "assess",
+      "meaning": "to judge the quality, size or value of something",
+      "example": "Teachers assess students' progress every term."
+    },
+    {
+      "word": "assume",
+      "meaning": "to believe something is true without proof",
+      "example": "Many people assume that older workers are less productive."
+    },
+    {
+      "word": "benefit",
+      "meaning": "an advantage; to gain an advantage (verb)",
+      "example": "Small businesses benefit from lower taxes."
+    },
+    {
+      "word": "concept",
+      "meaning": "an idea or principle",
+      "example": "The concept of a four-day working week is gaining popularity."
+    },
+    {
+      "word": "consist of",
+      "meaning": "to be made of",
+      "example": "The course consists of six modules and a final project."
+    },
+    {
+      "word": "context",
+      "meaning": "the situation in which something happens",
+      "example": "The figures only make sense in the context of rising prices."
+    },
+    {
+      "word": "derive from",
+      "meaning": "to come from a particular source",
+      "example": "Much of the town's income is derived from tourism."
+    },
+    {
+      "word": "establish",
+      "meaning": "to set up; or to discover a fact for certain",
+      "example": "Scientists have established a link between sleep and memory."
+    },
+    {
+      "word": "estimate",
+      "meaning": "to calculate roughly; a rough calculation",
+      "example": "It is estimated that half of all food is wasted."
+    },
+    {
+      "word": "evidence",
+      "meaning": "facts that show something is true (uncountable)",
+      "example": "There is little evidence that the policy reduced crime."
+    },
+    {
+      "word": "factor",
+      "meaning": "one of several things that cause a result",
+      "example": "Cost is a major factor in choosing a university."
+    },
+    {
+      "word": "function",
+      "meaning": "the purpose of something; to work",
+      "example": "The main function of a museum is to educate."
+    },
+    {
+      "word": "identify",
+      "meaning": "to recognise or find something",
+      "example": "The report identifies three main causes of the problem."
+    },
+    {
+      "word": "indicate",
+      "meaning": "to show or suggest",
+      "example": "The results indicate that the treatment is effective."
+    },
+    {
+      "word": "interpret",
+      "meaning": "to explain the meaning of something",
+      "example": "The data can be interpreted in different ways."
+    },
+    {
+      "word": "involve",
+      "meaning": "to include as a necessary part (followed by -ing)",
+      "example": "The job involves travelling abroad twice a month."
+    },
+    {
+      "word": "issue",
+      "meaning": "an important topic or problem",
+      "example": "Housing is a major issue for young people."
+    },
+    {
+      "word": "method",
+      "meaning": "a way of doing something",
+      "example": "Online learning is now a common teaching method."
+    },
+    {
+      "word": "occur",
+      "meaning": "to happen (formal)",
+      "example": "Most accidents occur within five kilometres of home."
+    },
+    {
+      "word": "policy",
+      "meaning": "a plan of action agreed by a government or organisation",
+      "example": "The government introduced a new recycling policy."
+    },
+    {
+      "word": "principle",
+      "meaning": "a basic rule or belief",
+      "example": "The scheme is based on the principle that polluters should pay."
+    },
+    {
+      "word": "require",
+      "meaning": "to need (formal)",
+      "example": "Most jobs now require basic computer skills."
+    },
+    {
+      "word": "significant",
+      "meaning": "large or important enough to notice",
+      "example": "There was a significant rise in house prices."
+    },
+    {
+      "word": "source",
+      "meaning": "where something comes from",
+      "example": "Wind is an increasingly important source of energy."
+    },
+    {
+      "word": "sustain",
+      "meaning": "to keep something going over time",
+      "example": "The economy cannot sustain this rate of growth."
+    },
+    {
+      "word": "vary",
+      "meaning": "to be different in different situations",
+      "example": "Rents vary widely from one city to another."
+    }
+  ]
+}
