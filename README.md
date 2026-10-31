@@ -1,4 +1,4 @@
-# IELTS Simulator
+# English Language Test Simulator
 
 Android app by HomiLabs for IELTS preparation (Academic and General Training):
 

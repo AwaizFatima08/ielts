@@ -9,7 +9,7 @@ class AppLocalizationsEn extends AppLocalizations {
   AppLocalizationsEn([String locale = 'en']) : super(locale);
 
   @override
-  String get appTitle => 'IELTS Simulator';
+  String get appTitle => 'English Language Test Simulator';
 
   @override
   String get academicShort => 'Academic';

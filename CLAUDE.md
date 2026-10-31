@@ -1,4 +1,4 @@
-# IELTS Simulator (HomiLabs) — project notes
+# English Language Test Simulator (HomiLabs) — project notes
 
 Flutter Android app: timed IELTS mock tests (Academic + General Training) and a practice library.
 Package `ielts_simulator`, app id `com.homilabs.ielts_simulator`.

@@ -1,9 +1,9 @@
-# Release and hosting kit: IELTS Simulator
+# Release and hosting kit: English Language Test Simulator
 
 ## Build
 - Package `com.homilabs.ielts_simulator` (locked after the first Play upload) · version 1.0.0 (versionCode 1).
 - Bundle: `releases/v1.0.0-1/ielts-simulator-1.0.0-1.aab` (47.5 MB, signed with the upload key).
-  SHA-256 of the file: `14dee5439fa4b918df10f9e6581f41a3a326350c43df6b50491895c40d84b2e3`.
+  SHA-256 of the file: `028d9b0a84d96ed7da2440ba985853ed2d1586b8a4dfa16be5a635b63b01067f`.
 - Rebuild: `flutter build appbundle --release`, then `./gradlew --stop` in `android/`. Signing reads
   `android/key.properties` → `.secrets/ielts-upload.keystore` (credentials in `.secrets/ielts-upload-keystore-credentials.txt`).
   Back up `.secrets/` (the local and Drive backups include it). Losing the upload key means a support request to Google.
@@ -36,13 +36,13 @@ After editing `website/`, re-upload and flush the cache again.
 | Category | Education |
 | Track | Start with **Internal testing**, then Closed testing; a new personal developer account needs 12 testers for 14 days before production |
 
-**App name** (30 max): `IELTS Simulator: Mock Tests`
+**App name** (Play allows 30 characters; "English Language Test Simulator" is 31, so the store title needs one shorter, e.g. `English Language Test Sim` is poor — prefer `Language Test Simulator` (23) or `English Test Simulator` (22). The app's own name on the phone is the full one.)
 
 **Short description** (80 max): `Full-length IELTS mock tests with a real test-day timer, reports and practice.`
 
 **Full description**:
 ```
-Practise for the IELTS test the way it feels on the day. IELTS Simulator gives you full-length mock tests with the real timings, an estimated band for Listening and Reading, and a practice library that covers every part of the exam.
+Practise for the IELTS test the way it feels on the day. English Language Test Simulator gives you full-length IELTS-style mock tests with the real timings, an estimated band for Listening and Reading, and a practice library that covers every part of the exam.
 
 MOCK TESTS
 • Listening: four parts, 40 questions, heard once, with reading time and two minutes at the end to check.
@@ -63,7 +63,7 @@ PRIVATE AND OFFLINE
 • Works offline. No account, no ads, no tracking.
 • Your Speaking recordings stay on your device.
 
-IELTS Simulator is independent practice material by HomiLabs. It is not affiliated with or endorsed by IELTS, the British Council, IDP or Cambridge. Bands are estimates for practice, not official results. Writing and Speaking are self-checked, not marked by the app.
+English Language Test Simulator is independent practice material by HomiLabs. It is not affiliated with or endorsed by IELTS, the British Council, IDP or Cambridge. Bands are estimates for practice, not official results. Writing and Speaking are self-checked, not marked by the app.
 ```
 
 ## Before production (open items)
@@ -71,5 +71,5 @@ IELTS Simulator is independent practice material by HomiLabs. It is not affiliat
   testing until the voice approach is decided and the clips are in (see `CLAUDE.md`).
 - Only Test 1 is ready; Tests 2–10 show "Coming soon".
 - Store graphics still needed: feature graphic 1024×500 and phone screenshots (2–8). The icon is code-drawn and can be replaced.
-- Trademark: the name contains "IELTS". The disclaimer is on the website and in the description, but Play can still ask for
+- Trademark: the name no longer contains "IELTS", but the description, icon and website do. The disclaimer is on the website and in the description, but Play can still ask for
   proof of permission. A neutral name avoids this.

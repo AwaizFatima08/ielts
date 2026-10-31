@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 #
-# backup.sh — three-layer backup for IELTS Simulator
+# backup.sh — three-layer backup for English Language Test Simulator
 #
 #   Layer 1: local copy    -> /mnt/storage/project_backups/ielts_backup/
 #   Layer 2: Google Drive  -> https://drive.google.com/drive/folders/1tafV7aZYAUs3KEHcEyS7wq8rrUneUQPK
@@ -35,7 +35,7 @@ EXCLUDES="$PROJECT_DIR/scripts/backup_exclude.txt"
 
 log(){ echo "[$(date '+%Y-%m-%d %H:%M:%S')] $*" | tee -a "$LOG_FILE"; }
 
-log "=== Starting IELTS Simulator backup: $TIMESTAMP ==="
+log "=== Starting English Language Test Simulator backup: $TIMESTAMP ==="
 cd "$PROJECT_DIR" || { log "FATAL: $PROJECT_DIR not found"; exit 1; }
 
 # ---- Layer 1: local ----

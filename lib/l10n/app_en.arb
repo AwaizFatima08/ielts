@@ -1,6 +1,6 @@
 {
   "@@locale": "en",
-  "appTitle": "IELTS Simulator",
+  "appTitle": "English Language Test Simulator",
   "academicShort": "Academic",
   "generalShort": "General",
   "answerTimeLeft": "Answer time left {time}",

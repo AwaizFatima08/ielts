@@ -1,4 +1,4 @@
-# IELTS Simulator — content schema (v1)
+# English Language Test Simulator — content schema (v1)
 
 All exam and practice content is JSON under `assets/content/`. The app reads it; no content lives in Dart code.
 All content is **original HomiLabs writing**. Never copy or closely paraphrase Cambridge / British Council / IDP
