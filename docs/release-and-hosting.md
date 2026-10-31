@@ -1,0 +1,75 @@
+# Release and hosting kit: IELTS Simulator
+
+## Build
+- Package `com.homilabs.ielts_simulator` (locked after the first Play upload) · version 1.0.0 (versionCode 1).
+- Bundle: `releases/v1.0.0-1/ielts-simulator-1.0.0-1.aab` (47.5 MB, signed with the upload key).
+  SHA-256 of the file: `14dee5439fa4b918df10f9e6581f41a3a326350c43df6b50491895c40d84b2e3`.
+- Rebuild: `flutter build appbundle --release`, then `./gradlew --stop` in `android/`. Signing reads
+  `android/key.properties` → `.secrets/ielts-upload.keystore` (credentials in `.secrets/ielts-upload-keystore-credentials.txt`).
+  Back up `.secrets/` (the local and Drive backups include it). Losing the upload key means a support request to Google.
+- Upload key SHA-1: `3E:74:57:12:75:06:67:4A:52:65:FE:A7:20:ED:60:77:00:A6:09:84`.
+- Next release: raise `version:` in `pubspec.yaml` (the build number must go up) and keep a folder under `releases/`.
+
+## Website: https://ielts.homilabs.org (Hostinger, manual upload)
+1. hPanel → Websites → homilabs.org → Domains → Subdomains → create `ielts`.
+   Wait until it shows as active (DNS and SSL can take a few minutes).
+2. File Manager → open the subdomain's folder → upload the **contents** of `website/` (or extract
+   `releases/ielts-site-2026-10-31.zip` there), **including the hidden `.htaccess`**.
+3. Flush the CDN cache (hPanel → homilabs.org → Performance → CDN → Flush cache).
+4. Check https://ielts.homilabs.org/ , /privacy.html , /terms.html (and /privacy, /terms).
+5. Add an entry for the app on homilabs.org (`homilabs_site`) once it is live.
+After editing `website/`, re-upload and flush the cache again.
+
+## Play Console
+| Item | Value |
+|---|---|
+| App bundle | `releases/v1.0.0-1/ielts-simulator-1.0.0-1.aab` |
+| App icon 512×512 | `store-assets/icon-512.png` |
+| Privacy policy URL | https://ielts.homilabs.org/privacy.html |
+| Website | https://ielts.homilabs.org |
+| Contact email | homilabs.smc@gmail.com |
+| Ads | No |
+| App access | All functionality available without login |
+| Data safety | No data collected or shared; microphone audio is stored on the device only; nothing is sent off the device |
+| Content rating | Reference/educational; answer No to violence, sexuality, language, drugs, gambling, purchases, user interaction |
+| Target audience | 13+ (an exam-prep app; do not choose under-13) |
+| Category | Education |
+| Track | Start with **Internal testing**, then Closed testing; a new personal developer account needs 12 testers for 14 days before production |
+
+**App name** (30 max): `IELTS Simulator: Mock Tests`
+
+**Short description** (80 max): `Full-length IELTS mock tests with a real test-day timer, reports and practice.`
+
+**Full description**:
+```
+Practise for the IELTS test the way it feels on the day. IELTS Simulator gives you full-length mock tests with the real timings, an estimated band for Listening and Reading, and a practice library that covers every part of the exam.
+
+MOCK TESTS
+• Listening: four parts, 40 questions, heard once, with reading time and two minutes at the end to check.
+• Reading: three passages, 40 questions, 60 minutes, with a question navigator and flagging.
+• Writing: Task 1 and Task 2 in 60 minutes, with a live word count.
+• Speaking: three parts, one minute of preparation for Part 2, and your answers recorded so you can play them back.
+• Academic and General Training modules.
+
+REPORT AND SELF-CHECK
+• Estimated bands and every answer explained, with transcripts and passages.
+• Writing and Speaking self-check against plain-English criteria, next to Band 8 model answers.
+• Progress across your attempts.
+
+PRACTICE LIBRARY
+• Guides and drills for each question type, Writing and Speaking guides, and topic vocabulary.
+
+PRIVATE AND OFFLINE
+• Works offline. No account, no ads, no tracking.
+• Your Speaking recordings stay on your device.
+
+IELTS Simulator is independent practice material by HomiLabs. It is not affiliated with or endorsed by IELTS, the British Council, IDP or Cambridge. Bands are estimates for practice, not official results. Writing and Speaking are self-checked, not marked by the app.
+```
+
+## Before production (open items)
+- Listening audio is not generated yet: the app plays a silent timed gap and shows a notice. Do not go past internal
+  testing until the voice approach is decided and the clips are in (see `CLAUDE.md`).
+- Only Test 1 is ready; Tests 2–10 show "Coming soon".
+- Store graphics still needed: feature graphic 1024×500 and phone screenshots (2–8). The icon is code-drawn and can be replaced.
+- Trademark: the name contains "IELTS". The disclaimer is on the website and in the description, but Play can still ask for
+  proof of permission. A neutral name avoids this.
