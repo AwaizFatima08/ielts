@@ -38,14 +38,14 @@ After editing `website/`, re-upload and flush the cache again.
 
 **App name** (Play allows 30 characters; "English Language Test Simulator" is 31, so the store title needs one shorter, e.g. `English Language Test Sim` is poor — prefer `Language Test Simulator` (23) or `English Test Simulator` (22). The app's own name on the phone is the full one.)
 
-**Short description** (80 max): `Full-length IELTS mock tests with a real test-day timer, reports and practice.`
+**Short description** (80 max): `IELTS-style mock tests with a real test-day timer, reports and practice drills.`
 
 **Full description**:
 ```
-Practise for the IELTS test the way it feels on the day. English Language Test Simulator gives you full-length IELTS-style mock tests with the real timings, an estimated band for Listening and Reading, and a practice library that covers every part of the exam.
+Practise for the IELTS test the way it feels on the day. English Test Simulator gives you full-length IELTS-style mock tests with the real timings, estimated bands and a practice library that covers every part of the exam. Test 1 is ready now; more tests are on the way.
 
 MOCK TESTS
-• Listening: four parts, 40 questions, heard once, with reading time and two minutes at the end to check.
+• Listening: four parts, 40 questions, with reading time and two minutes at the end to check. Recordings are being added test by test; until a recording is ready the section runs on its timer without sound and the app says so.
 • Reading: three passages, 40 questions, 60 minutes, with a question navigator and flagging.
 • Writing: Task 1 and Task 2 in 60 minutes, with a live word count.
 • Speaking: three parts, one minute of preparation for Part 2, and your answers recorded so you can play them back.
@@ -64,7 +64,7 @@ PRIVATE AND OFFLINE
 • Your Speaking recordings stay on your device.
 • Free, with light ads (never during a test).
 
-English Language Test Simulator is independent practice material by HomiLabs. It is not affiliated with or endorsed by IELTS, the British Council, IDP or Cambridge. Bands are estimates for practice, not official results. Writing and Speaking are self-checked, not marked by the app.
+English Test Simulator is independent practice material by HomiLabs. It is not affiliated with or endorsed by IELTS, the British Council, IDP or Cambridge. Bands are estimates for practice, not official results. Writing and Speaking are self-checked, not marked by the app.
 ```
 
 ## AdMob
