@@ -2,8 +2,8 @@
 
 ## Build
 - Package `com.homilabs.ielts_simulator` (locked after the first Play upload) · version 1.0.0 (versionCode 1).
-- Bundle: `releases/v1.0.0-1/ielts-simulator-1.0.0-1.aab` (47.5 MB, signed with the upload key).
-  SHA-256 of the file: `028d9b0a84d96ed7da2440ba985853ed2d1586b8a4dfa16be5a635b63b01067f`.
+- Bundle: `releases/v1.0.0-1/ielts-simulator-1.0.0-1.aab` (52.6 MB, signed with the upload key).
+  SHA-256 of the file: `1592f542ce65012b09b326ad9bfff1a64b47a2c8736e266cff0c8baf24c5548f`.
 - Rebuild: `flutter build appbundle --release`, then `./gradlew --stop` in `android/`. Signing reads
   `android/key.properties` → `.secrets/ielts-upload.keystore` (credentials in `.secrets/ielts-upload-keystore-credentials.txt`).
   Back up `.secrets/` (the local and Drive backups include it). Losing the upload key means a support request to Google.
@@ -14,7 +14,7 @@
 1. hPanel → Websites → homilabs.org → Domains → Subdomains → create `ielts`.
    Wait until it shows as active (DNS and SSL can take a few minutes).
 2. File Manager → open the subdomain's folder → upload the **contents** of `website/` (or extract
-   `releases/ielts-site-2026-10-31.zip` there), **including the hidden `.htaccess`**.
+   `releases/ielts-site-2026-11-01.zip` there), **including the hidden `.htaccess`**.
 3. Flush the CDN cache (hPanel → homilabs.org → Performance → CDN → Flush cache).
 4. Check https://ielts.homilabs.org/ , /privacy.html , /terms.html (and /privacy, /terms).
 5. Add an entry for the app on homilabs.org (`homilabs_site`) once it is live.
@@ -28,9 +28,9 @@ After editing `website/`, re-upload and flush the cache again.
 | Privacy policy URL | https://ielts.homilabs.org/privacy.html |
 | Website | https://ielts.homilabs.org |
 | Contact email | homilabs.smc@gmail.com |
-| Ads | No |
+| Ads | **Yes** (Google AdMob: banner on Home/Practice/Results, one interstitial after a finished report) |
 | App access | All functionality available without login |
-| Data safety | No data collected or shared; microphone audio is stored on the device only; nothing is sent off the device |
+| Data safety | Collected and shared: **Device or other IDs** (advertising ID) and **App activity/diagnostics via ads SDK**, purpose *Advertising or marketing*, shared with Google AdMob; encrypted in transit; not optional to share. Not collected: personal info, audio (recordings stay on the device), location beyond what the ads SDK derives from IP. Declare the Advertising ID permission use as *Advertising* |
 | Content rating | Reference/educational; answer No to violence, sexuality, language, drugs, gambling, purchases, user interaction |
 | Target audience | 13+ (an exam-prep app; do not choose under-13) |
 | Category | Education |
@@ -60,11 +60,18 @@ PRACTICE LIBRARY
 • Guides and drills for each question type, Writing and Speaking guides, and topic vocabulary.
 
 PRIVATE AND OFFLINE
-• Works offline. No account, no ads, no tracking.
+• Tests and lessons work offline; no account needed.
 • Your Speaking recordings stay on your device.
+• Free, with light ads (never during a test).
 
 English Language Test Simulator is independent practice material by HomiLabs. It is not affiliated with or endorsed by IELTS, the British Council, IDP or Cambridge. Bands are estimates for practice, not official results. Writing and Speaking are self-checked, not marked by the app.
 ```
+
+## AdMob
+- Account homilabs.smc@gmail.com, app **English Language Test Simulator** — app ID `ca-app-pub-2087846699268567~7135036289`.
+- Units: banner `ca-app-pub-2087846699268567/4129598992`, interstitial `ca-app-pub-2087846699268567/8911152384`. Debug builds use Google test units.
+- The app shows "Limited ad serving" until the Play listing is live and linked: after publishing, AdMob → Apps → this app → Add store (com.homilabs.ielts_simulator).
+- Consent: Google UMP form (configure the message under AdMob → Privacy & messaging if you want a custom EEA/UK message).
 
 ## Before production (open items)
 - Listening audio is not generated yet: the app plays a silent timed gap and shows a notice. Do not go past internal

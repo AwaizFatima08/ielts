@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
+import 'package:ielts_simulator/ads/ad_service.dart';
 import 'package:ielts_simulator/app.dart';
 import 'package:ielts_simulator/content/models/papers.dart';
 import 'package:ielts_simulator/features/home/module_picker.dart';
@@ -44,13 +45,25 @@ class _HomeScreenState extends ConsumerState<HomeScreen> {
         1 => const PracticeTab(),
         _ => const ProgressTab(),
       },
-      bottomNavigationBar: NavigationBar(
-        selectedIndex: _tab,
-        onDestinationSelected: (index) => setState(() => _tab = index),
-        destinations: [
-          NavigationDestination(icon: const Icon(Icons.timer_outlined), label: l10n.tabTests),
-          NavigationDestination(icon: const Icon(Icons.school_outlined), label: l10n.tabPractice),
-          NavigationDestination(icon: const Icon(Icons.insights_outlined), label: l10n.tabProgress),
+      bottomNavigationBar: Column(
+        mainAxisSize: MainAxisSize.min,
+        children: [
+          ref.watch(adServiceProvider).banner(),
+          NavigationBar(
+            selectedIndex: _tab,
+            onDestinationSelected: (index) => setState(() => _tab = index),
+            destinations: [
+              NavigationDestination(icon: const Icon(Icons.timer_outlined), label: l10n.tabTests),
+              NavigationDestination(
+                icon: const Icon(Icons.school_outlined),
+                label: l10n.tabPractice,
+              ),
+              NavigationDestination(
+                icon: const Icon(Icons.insights_outlined),
+                label: l10n.tabProgress,
+              ),
+            ],
+          ),
         ],
       ),
     );

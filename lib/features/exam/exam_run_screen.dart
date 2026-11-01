@@ -21,7 +21,7 @@ class ExamRunScreen extends ConsumerWidget {
   Widget build(BuildContext context, WidgetRef ref) {
     ref.listen(attemptProvider(attemptId), (previous, next) {
       if (next.value case final Attempt attempt when attempt.nextSection == null) {
-        context.go(Routes.results(attemptId));
+        context.go(Routes.results(attemptId, fresh: true));
       }
     });
     return AsyncValueView(

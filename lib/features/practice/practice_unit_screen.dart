@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
+import 'package:ielts_simulator/ads/ad_service.dart';
 import 'package:ielts_simulator/app.dart';
 import 'package:ielts_simulator/content/content_repository.dart';
 import 'package:ielts_simulator/content/models/practice.dart';
@@ -19,13 +20,13 @@ class PracticeUnitScreen extends ConsumerWidget {
   );
 }
 
-class _UnitView extends StatelessWidget {
+class _UnitView extends ConsumerWidget {
   const _UnitView({required this.unit});
 
   final PracticeUnit unit;
 
   @override
-  Widget build(BuildContext context) {
+  Widget build(BuildContext context, WidgetRef ref) {
     final l10n = context.l10n;
     final tabs = <(String, Widget)>[
       (l10n.guide, _GuideView(blocks: unit.guide)),
@@ -46,6 +47,7 @@ class _UnitView extends StatelessWidget {
                   tabs: [for (final (label, _) in tabs) Tab(text: label)],
                 ),
         ),
+        bottomNavigationBar: ref.watch(adServiceProvider).banner(),
         body: tabs.length < 2
             ? tabs.first.$2
             : TabBarView(children: [for (final (_, view) in tabs) view]),

@@ -1,6 +1,9 @@
+import 'dart:async';
+
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:go_router/go_router.dart';
+import 'package:ielts_simulator/ads/ad_service.dart';
 import 'package:ielts_simulator/app.dart';
 import 'package:ielts_simulator/attempts/attempt.dart';
 import 'package:ielts_simulator/attempts/attempt_repository.dart';
@@ -12,27 +15,45 @@ import 'package:ielts_simulator/ui/theme.dart';
 /// Test report: band per section, overall band, and the next steps to
 /// review answers or self-rate Writing and Speaking.
 class ResultsScreen extends ConsumerWidget {
-  const ResultsScreen({required this.attemptId, super.key});
+  const ResultsScreen({required this.attemptId, this.fresh = false, super.key});
 
   final String attemptId;
+
+  /// True when arriving straight from finishing a test (not from history).
+  final bool fresh;
 
   @override
   Widget build(BuildContext context, WidgetRef ref) => AsyncValueView(
     value: ref.watch(attemptProvider(attemptId)),
-    data: (attempt) => attempt == null ? const Scaffold() : _ResultsView(attempt: attempt),
+    data: (attempt) =>
+        attempt == null ? const Scaffold() : _ResultsView(attempt: attempt, fresh: fresh),
   );
 }
 
-class _ResultsView extends StatelessWidget {
-  const _ResultsView({required this.attempt});
+class _ResultsView extends ConsumerStatefulWidget {
+  const _ResultsView({required this.attempt, required this.fresh});
 
   final Attempt attempt;
+  final bool fresh;
+
+  @override
+  ConsumerState<_ResultsView> createState() => _ResultsViewState();
+}
+
+class _ResultsViewState extends ConsumerState<_ResultsView> {
+  @override
+  void initState() {
+    super.initState();
+    if (widget.fresh) unawaited(ref.read(adServiceProvider).showReportInterstitial());
+  }
 
   @override
   Widget build(BuildContext context) {
+    final attempt = widget.attempt;
     final l10n = context.l10n;
     final sections = attempt.kind.sections;
     return Scaffold(
+      bottomNavigationBar: ref.watch(adServiceProvider).banner(),
       appBar: AppBar(
         title: Text(l10n.resultsTitle),
         leading: IconButton(

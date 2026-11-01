@@ -13,7 +13,8 @@ abstract final class Routes {
   static const home = '/';
   static String test(String testId) => '/test/$testId';
   static String run(String attemptId) => '/attempt/$attemptId/run';
-  static String results(String attemptId) => '/attempt/$attemptId';
+  static String results(String attemptId, {bool fresh = false}) =>
+      '/attempt/$attemptId${fresh ? '?fresh=1' : ''}';
   static String review(String attemptId, ExamSection section) =>
       '/attempt/$attemptId/review/${section.name}';
   static String selfCheck(String attemptId, ExamSection section) =>
@@ -31,7 +32,10 @@ final routerProvider = Provider<GoRouter>(
       ),
       GoRoute(
         path: '/attempt/:id',
-        builder: (context, state) => ResultsScreen(attemptId: state.pathParameters['id']!),
+        builder: (context, state) => ResultsScreen(
+          attemptId: state.pathParameters['id']!,
+          fresh: state.uri.queryParameters['fresh'] == '1',
+        ),
         routes: [
           GoRoute(
             path: 'run',
